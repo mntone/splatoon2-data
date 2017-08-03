@@ -1,0 +1,197 @@
+{
+	"tenta_missiles": {
+		"key": "tenta_missiles",
+		"localization": {
+			"de": "Schwarmraketen",
+			"en": "Tenta Missiles",
+			"es-419": "Lanzamisiles",
+			"es-es": "Lanzamisiles",
+			"fr-ca": "Multi-missile",
+			"fr-fr": "Multi-missile",
+			"it": "Lanciarazzi",
+			"ja": "マルチミサイル",
+			"nl": "Spetterraketten",
+			"ru": "Каракатница"
+		}
+	},
+	"sting_ray": {
+		"key": "sting_ray",
+		"localization": {
+			"de": "Hochdruckverunreiniger",
+			"en": "Sting Ray",
+			"es-419": "Rayo tintódico",
+			"es-es": "Rayo tintódico",
+			"fr-ca": "Pigmalance",
+			"fr-fr": "Pigmalance",
+			"it": "Baccalaser",
+			"ja": "ハイパープレッサー",
+			"nl": "Magistraal",
+			"ru": "Струятор"
+		}
+	},
+	"inkjet": {
+		"key": "inkjet",
+		"localization": {
+			"de": "Tintendüser",
+			"en": "Inkjet",
+			"es-419": "Propulsor",
+			"es-es": "Propulsor",
+			"fr-ca": "Chromo-jet",
+			"fr-fr": "Chromo-jet",
+			"it": "Jet splat",
+			"ja": "ジェットパック",
+			"nl": "Inktjet",
+			"ru": "Красколет"
+		}
+	},
+	"splashdown": {
+		"key": "splashdown",
+		"localization": {
+			"de": "Tintenschock",
+			"en": "Splashdown",
+			"es-419": "Clavado",
+			"es-es": "Salto explosivo",
+			"fr-ca": "Choc chromatique",
+			"fr-fr": "Choc chromatique",
+			"it": "Vernischianto",
+			"ja": "スーパーチャクチ",
+			"nl": "Superlanding",
+			"ru": "Мегаплюх"
+		}
+	},
+	"ink_armor": {
+		"key": "ink_armor",
+		"localization": {
+			"de": "Tintenrüstung",
+			"en": "Ink Armor",
+			"es-419": "Membrana",
+			"es-es": "Blindaje",
+			"fr-ca": "Armure d'encre",
+			"fr-fr": "Armure d'encre",
+			"it": "Armatura d'inchiostro",
+			"ja": "インクアーマー",
+			"nl": "Inktharnas",
+			"ru": "Бронекраска"
+		}
+	},
+	"bomb_launcher_splat": {
+		"key": "bomb_launcher_splat",
+		"localization": {
+			"de": "Klecks-Bomber",
+			"en": "Splat Bomb Launcher",
+			"es-419": "",
+			"es-es": "Ráfaga básica",
+			"fr-ca": "",
+			"fr-fr": "Lance-bombes splash",
+			"it": "Lanciabombe splash",
+			"ja": "スプラッシュボムピッチャー",
+			"nl": "Klodderbomkanon",
+			"ru": "Бомбомет (брызгающие)"
+		}
+	},
+	"bomb_launcher_suction": {
+		"key": "bomb_launcher_suction",
+		"localization": {
+			"de": "Haftbomber",
+			"en": "Suction Bomb Launcher",
+			"es-419": "",
+			"es-es": "Ráfaga ventosa",
+			"fr-ca": "",
+			"fr-fr": "Lance-bombes gluantes",
+			"it": "Lanciappiccibombe",
+			"ja": "キューバンボムピッチャー",
+			"nl": "Kleefbomkanon",
+			"ru": "Бомбомет (присоски)"
+		}
+	},
+	"bomb_launcher_brust": {
+		"key": "bomb_launcher_brust",
+		"localization": {
+			"de": "Insta-Bomber",
+			"en": "Burst-Bomb Launcher",
+			"es-419": "",
+			"es-es": "Ráfaga rápida",
+			"fr-ca": "",
+			"fr-fr": "Lance-bombes ballons",
+			"it": "Lanciagranate",
+			"ja": "クイックボムピッチャー",
+			"nl": "Ballonbomkanon",
+			"ru": "Бомбомет (разрывные)"
+		}
+	},
+	"bomb_launcher_curling": {
+		"key": "bomb_launcher_curling",
+		"localization": {
+			"de": "Curling-Bomber",
+			"en": "Curling Bomb Launcher",
+			"es-419": "Bombardeo deslizante",
+			"es-es": "Ráfaga deslizante",
+			"fr-ca": "Lance-bombes curling",
+			"fr-fr": "Lance-bombes curling",
+			"it": "Lanciabombe curling",
+			"ja": "カーリングボムピッチャー",
+			"nl": "Curlingbomkanon",
+			"ru": "Бомбомет (керлинг)"
+		}
+	},
+	"bomb_launcher_auto": {
+		"key": "bomb_launcher_auto",
+		"localization": {
+			"de": "Robo-Bomber",
+			"en": "Autobomb Launcher",
+			"es-419": "",
+			"es-es": "Roborráfaga",
+			"fr-ca": "",
+			"fr-fr": "Lance-bombes robots",
+			"it": "Lanciarobo-bombe",
+			"ja": "ロボボムピッチャー",
+			"nl": "Robobomkanon",
+			"ru": "Бомбомет (робобомбы)"
+		}
+	},
+	"ink_storm": {
+		"key": "ink_storm",
+		"localization": {
+			"de": "Tintenschauer",
+			"en": "Ink Storm",
+			"es-419": "Atormentador",
+			"es-es": "Atormentador",
+			"fr-ca": "Pluie d'encre",
+			"fr-fr": "Pluie d'encre",
+			"it": "Pioggia di colore",
+			"ja": "アメフラシ",
+			"nl": "Spetterbui",
+			"ru": "Туча краски"
+		}
+	},
+	"baller": {
+		"key": "baller",
+		"localization": {
+			"de": "Sepisphäre",
+			"en": "Baller",
+			"es-419": "Esfera tintera",
+			"es-es": "Esfera tintera",
+			"fr-ca": "Chromo-sphère",
+			"fr-fr": "Chromo-sphère",
+			"it": "Cromosfera",
+			"ja": "イカスフィア",
+			"nl": "Barstbubbel",
+			"ru": "Шарокат"
+		}
+	},
+	"bubble_blower": {
+		"key": "bubble_blower",
+		"localization": {
+			"de": "Blubberwerfer",
+			"en": "Bubble Blower",
+			"es-419": "Lanzaburbujas",
+			"es-es": "Lanzapompas",
+			"fr-ca": "Lance-bulles",
+			"fr-fr": "Lance-bulles",
+			"it": "Soffiabolle",
+			"ja": "バブルランチャー",
+			"nl": "Bellenblazer",
+			"ru": "Пузырятор"
+		}
+	}
+}

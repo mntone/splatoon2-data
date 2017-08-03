@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no">
+	<title>Splatoon 2 Weapon List - mntone</title>
+	<style>
+		body { font-size: 13px; font-family: sans-serif; }
+		table { border-collapse: collapse; }
+		thead tr { position: -webkit-sticky; position: sticky; top: 0; }
+		th { background-color: #ddd; }
+		th, td { border-bottom: 1px solid #eee; padding: 5px 2px; }
+		.cost_column { text-align: right; }
+		.sub_special_text { color: #999; font-size: 80%; }
+	</style>
+</head>
+<body>
+<select id='language'>
+	<option value='de'>Deutsch (German)</option>
+	<option value='en' selected>English</option>
+	<option value='es-419'>Español (Spanish) - Latin America/Caribbean</option>
+	<option value='es-es'>Español (Spanish) - España (Spain)</option>
+	<option value='fr-ca'>français (French) - Canada</option>
+	<option value='fr-fr'>français (French) - France</option>
+	<option value='it'>italiano (Italian)</option>
+	<option value='ja'>日本語 (Japanese)</option>
+	<option value='nl'>Nederlands (Dutch)</option>
+	<option value='ru'>русский (Russian)</option>
+</select>
+<table id='list'>
+<thead>
+	<tr>
+		<th> </th>
+		<th>name<br>sub/special</th>
+		<th>points for special</th>
+		<th>unlocked rank</th>
+		<th>cost</th>
+		<th>release date</th>
+	</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+<script>
+"use strict";
+
+let lang = 'en'
+let image = false;
+let targetTable = document.getElementById('list');
+
+var main, sub, special;
+
+function get(url) {
+	return new Promise(function(resolve, reject) {
+		var req = new XMLHttpRequest();
+		req.open('GET', url);
+		req.onload = function() {
+			if (req.status == 0 || req.status == 200)
+				resolve(req.response);
+			else
+				reject(Error(req.statusText));
+		};
+		req.onerror = function() {
+			reject(Error("Network Error"));
+		};
+		req.send();
+	});
+}
+
+function print(self, language, data) {
+	self.innerHTML += '<tr>' +
+		'<td>' + (image ? '<img src="./images/' + data['key'] + '.png" width="32" height="32">' : '') + '</td>' +
+		'<td>' + data['localization'][language] + '<br><span class="sub_special_text">' +
+				sub[data['sub_key']]['localization'][language] + ' / ' +
+				special[data['special_key']]['localization'][language] + '</span></td>' +
+		'<td>' + data['special_points'] + '</td>' +
+		'<td>' + data['unlocked_rank'] + '</td>' +
+		'<td class="cost_column">' + data['cost'].toLocaleString() + '</td>' +
+		'<td>' + new Date(data['released_at']).toLocaleDateString() + '</td>' +
+		'</tr>';
+	return data['cost'];
+}
+
+function printList(self, language, ary) {
+	var totalCost = 0;
+
+	for (var item of Object.values(ary))
+		totalCost += print(self, language, item);
+
+	self.innerHTML += '<tr><td> </td><td> </td><td> </td><td> </td>' +
+		'<td class="cost_column">' + totalCost.toLocaleString() + '</td>' +
+		'<td> </td></tr>';
+}
+
+function render(lang) {
+	let newTableBody = document.createElement('tbody');
+	printList(newTableBody, lang, main);
+	targetTable.replaceChild(newTableBody, targetTable.getElementsByTagName('tbody')[0]);
+}
+
+let langSelect = document.getElementById('language');
+function switchLanguage() {
+	let lang = langSelect.value;
+	document.documentElement.lang = lang;
+	render(lang);
+}
+
+langSelect.addEventListener('change', switchLanguage, false);
+
+let t0 = get('main_weapon_info.json').then(JSON.parse).then(function(s) { main = s; });
+let t1 = get('sub_weapon_info.json').then(JSON.parse).then(function(s) { sub = s; });
+let t2 = get('special_weapon_info.json').then(JSON.parse).then(function(s) { special = s; });
+Promise.all([t0, t1, t2]).then(function() { render(lang); });
+</script>
+</body>
+</html>

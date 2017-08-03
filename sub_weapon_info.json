@@ -1,0 +1,167 @@
+{
+	"splat_bomb": {
+		"key": "splat_bomb",
+		"localization": {
+			"de": "Klecks-Bombe",
+			"en": "Splat Bomb",
+			"es-419": "Plasbomba",
+			"es-es": "Bomba básica",
+			"fr-ca": "Bombe splash",
+			"fr-fr": "Bombe splash",
+			"it": "Bomba splash",
+			"ja": "スプラッシュボム",
+			"nl": "Klodderbom",
+			"ru": "Брызгающая бомба"
+		}
+	},
+	"suction_bomb": {
+		"key": "suction_bomb",
+		"localization": {
+			"de": "Haftbombe",
+			"en": "Suction Bomb",
+			"es-419": "Bomba pepajosa",
+			"es-es": "Bomba ventosa",
+			"fr-ca": "Bombe gluante",
+			"fr-fr": "Bombe gluante",
+			"it": "Appiccibomba",
+			"ja": "キューバンボム",
+			"nl": "Kleefbom",
+			"ru": "Бомба на присоске"
+		}
+	},
+	"brust_bomb": {
+		"key": "brust_bomb",
+		"localization": {
+			"de": "Insta-Bombe",
+			"en": "Brust Bomb",
+			"es-419": "Globo entintado",
+			"es-es": "Bomba rápida",
+			"fr-ca": "Bombe ballon",
+			"fr-fr": "Bombe ballon",
+			"it": "Granata",
+			"ja": "クイックボム",
+			"nl": "Ballonbom",
+			"ru": "Разрывная бомба"
+		}
+	},
+	"curling_bomb": {
+		"key": "curling_bomb",
+		"localization": {
+			"de": "Curling-Bombe",
+			"en": "Curling Bomb",
+			"es-419": "Bbomba deslizante",
+			"es-es": "Bomba deslizante",
+			"fr-ca": "Bombe curling",
+			"fr-fr": "Bombe curling",
+			"it": "Bomba curling",
+			"ja": "カーリングボム",
+			"nl": "Curlingbom",
+			"ru": "Керлинг-бомба"
+		}
+	},
+	"autobomb": {
+		"key": "autobomb",
+		"localization": {
+			"de": "Robo-Bombe",
+			"en": "Autobomb",
+			"es-419": "Robobomba",
+			"es-es": "Robobomba",
+			"fr-ca": "Bombe robot",
+			"fr-fr": "Bombe robot",
+			"it": "Robo-bomba",
+			"ja": "ロボットボム",
+			"nl": "Robobom",
+			"ru": "Робобомба"
+		}
+	},
+	"ink_mine": {
+		"key": "ink_mine",
+		"localization": {
+			"de": "Tintenmine",
+			"en": "Ink Mine",
+			"es-419": "Mina de tinta",
+			"es-es": "Bomba trampa",
+			"fr-ca": "Mine d'encre",
+			"fr-fr": "Mine",
+			"it": "Mina",
+			"ja": "トラップ",
+			"nl": "Inktmijn",
+			"ru": "Мина"
+		}
+	},
+	"toxic_mist": {
+		"key": "toxic_mist",
+		"localization": {
+			"de": "Sepitox-Nebel",
+			"en": "Toxic Mist",
+			"es-419": "Nebulizador",
+			"es-es": "Nebulizador",
+			"fr-ca": "Brume toxique",
+			"fr-fr": "Brume toxique",
+			"it": "Nebbia tossica",
+			"ja": "ポイズンミスト",
+			"nl": "Gifmist",
+			"ru": "Едкий туман"
+		}
+	},
+	"point_sensor": {
+		"key": "point_sensor",
+		"localization": {
+			"de": "Detektor",
+			"en": "Point Sensor",
+			"es-419": "Rastreador",
+			"es-es": "Rastreador",
+			"fr-ca": "Détecteur",
+			"fr-fr": "Détecteur",
+			"it": "Cimice",
+			"ja": "ポイントセンサー",
+			"nl": "Detector",
+			"ru": "Маркер движения"
+		}
+	},
+	"splash_wall": {
+		"key": "splash_wall",
+		"localization": {
+			"de": "Tintenwall",
+			"en": "Splash Wall",
+			"es-419": "Barricada",
+			"es-es": "Telón de tinta",
+			"fr-ca": "Mur d'encre",
+			"fr-fr": "Mur d'encre",
+			"it": "Muro di colore",
+			"ja": "スプラッシュシールド",
+			"nl": "Inktgordijn",
+			"ru": "Чернильный занавес"
+		}
+	},
+	"sprinkler": {
+		"key": "sprinkler",
+		"localization": {
+			"de": "Sprinkler",
+			"en": "Sprinkler",
+			"es-419": "Aspersor",
+			"es-es": "Aspersor",
+			"fr-ca": "Gicleur",
+			"fr-fr": "Fontaine",
+			"it": "Spruzzatore",
+			"ja": "スプリンクラー",
+			"nl": "Inktsprinkler",
+			"ru": "Распылятор"
+		}
+	},
+	"squid_beakon": {
+		"key": "squid_beakon",
+		"localization": {
+			"de": "Sprungboje",
+			"en": "Squid Beakon",
+			"es-419": "Baliza",
+			"es-es": "Baliza transportadora",
+			"fr-ca": "Balise de saut",
+			"fr-fr": "Balise de saut",
+			"it": "Trasferitore",
+			"ja": "ジャンプビーコン",
+			"nl": "Springschotel",
+			"ru": "Прыжковый маячок"
+		}
+	}
+}
