@@ -988,7 +988,7 @@
 		"special_key": "tenta_missiles",
 		"special_points": 170,
 		"unlocked_rank": 4,
-		"cost": 0,
+		"cost": 3100,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"dualie_squelchers": {
