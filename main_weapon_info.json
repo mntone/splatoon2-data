@@ -606,7 +606,7 @@
 		"special_key": "inkjet",
 		"special_points": 180,
 		"unlocked_rank": 10,
-		"cost": 0,
+		"cost": 9400,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -818,7 +818,7 @@
 		"special_key": "tenta_missiles",
 		"special_points": 190,
 		"unlocked_rank": 5,
-		"cost": 0,
+		"cost": 3100,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"tri_slosher": {
@@ -903,7 +903,7 @@
 		"special_key": "sting_ray",
 		"special_points": 180,
 		"unlocked_rank": 8,
-		"cost": 0,
+		"cost": 8600,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
