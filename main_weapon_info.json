@@ -1,4 +1,25 @@
 {
+	"sploosh_o_matic": {
+		"key": "sploosh_o_matic",
+		"localization": {
+			"de": "Disperser",
+			"en": "Sploosh-o-matic",
+			"es-419": "Marcador grueso",
+			"es-es": "Marcador",
+			"fr-ca": "Marqueur lourd",
+			"fr-fr": "Marqueur lourd",
+			"it": "Marker",
+			"ja": "ボールドマーカー",
+			"nl": "Spettertuit",
+			"ru": "Плюхотрон"
+		},
+		"sub_key": "curling_bomb",
+		"special_key": "splashdown",
+		"special_points": 180,
+		"unlocked_rank": 10,
+		"cost": 9700,
+		"released_at": "2017-08-05T02:00:00Z"
+	},
 	"splattershot_jr": {
 		"key": "splattershot_jr",
 		"localization": {
