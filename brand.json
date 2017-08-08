@@ -1,0 +1,256 @@
+{
+	"squidforce": {
+		"key": "squidforce",
+		"localization": {
+			"de": "TintactiX",
+			"en": "SquidForce",
+			"es-419": "Kalamas",
+			"es-es": "Kalamas",
+			"fr-ca": "Kalmarus",
+			"fr-fr": "Kalamarus Rex",
+			"it": "CalamaX",
+			"ja": "バトロイカ",
+			"nl": "SquidForce",
+			"ru": "Кальмари"
+		}
+	},
+	"zink": {
+		"key": "zink",
+		"localization": {
+			"de": "Sagitron",
+			"en": "Zink",
+			"es-419": "Tintaz",
+			"es-es": "Tintaz",
+			"fr-ca": "Leviathus",
+			"fr-fr": "Leviathus",
+			"it": "Totanic",
+			"ja": "アイロニック",
+			"nl": "Zink",
+			"ru": "Шпротус"
+		}
+	},
+	"krakon": {
+		"key": "krakon",
+		"localization": {
+			"de": "Medusa",
+			"en": "Krak-On",
+			"es-419": "Meddux",
+			"es-es": "Meddux",
+			"fr-ca": "Krakeurs",
+			"fr-fr": "Krakers",
+			"it": "Cnidarya",
+			"ja": "クラーゲス",
+			"nl": "Krak-On",
+			"ru": "Кра-Кен"
+		}
+	},
+	"rockenberg": {
+		"key": "rockenberg",
+		"localization": {
+			"de": "Rockberg",
+			"en": "Rockenberg",
+			"es-419": "Rockenberg",
+			"es-es": "Rockenberg",
+			"fr-ca": "Iormungand",
+			"fr-fr": "Iormungand",
+			"it": "Rockenburg",
+			"ja": "ロッケンベルグ",
+			"nl": "Rockenberg",
+			"ru": "Угрок"
+		}
+	},
+	"zekko": {
+		"key": "zekko",
+		"localization": {
+			"de": "Zekko",
+			"en": "Zekko",
+			"es-419": "Zekko",
+			"es-es": "Ezko",
+			"fr-ca": "Ezko",
+			"fr-fr": "Ezko",
+			"it": "Ezko",
+			"ja": "エゾッコ",
+			"nl": "Zekko",
+			"ru": "Йожко"
+		}
+	},
+	"forge": {
+		"key": "forge",
+		"localization": {
+			"de": "Focus",
+			"en": "Forge",
+			"es-419": "Forima",
+			"es-es": "Forima",
+			"fr-ca": "Fosia",
+			"fr-fr": "Focus",
+			"it": "Fortia",
+			"ja": "フォーリマ",
+			"nl": "Forge",
+			"ru": "Блиц"
+		}
+	},
+	"firefin": {
+		"key": "firefin",
+		"localization": {
+			"de": "Rilax",
+			"en": "Firefin",
+			"es-419": "Shachi",
+			"es-es": "Chokkor",
+			"fr-ca": "Arki",
+			"fr-fr": "Friture",
+			"it": "Torryd",
+			"ja": "ホッコリー",
+			"nl": "Firefin",
+			"ru": "Фритюр"
+		}
+	},
+	"skalop": {
+		"key": "skalop",
+		"localization": {
+			"de": "Jakomu",
+			"en": "Skalop",
+			"es-es": "Skalop",
+			"fr-ca": "P. Tonk",
+			"fr-fr": "Jack",
+			"it": "Capasaint",
+			"ja": "ホタックス",
+			"nl": "Skalop",
+			"ru": "Гребершко"
+		}
+	},
+	"splash_mob": {
+		"key": "splash_mob",
+		"localization": {
+			"de": "Gian",
+			"en": "Splash Mob",
+			"es-419": "Tinta comunal",
+			"es-es": "Jimmon",
+			"fr-ca": "Fréma",
+			"fr-fr": "Gédéon",
+			"it": "Chimmon",
+			"ja": "ジモン",
+			"nl": "Splash Mob",
+			"ru": "Морлюкс"
+		}
+	},
+	"inkline": {
+		"key": "inkline",
+		"localization": {
+			"de": "Alpomar",
+			"en": "Inkline",
+			"es-419": "Moluskia",
+			"es-es": "Moluskia",
+			"fr-ca": "Abysma",
+			"fr-fr": "Abysma",
+			"it": "Maremont",
+			"ja": "シグレニ",
+			"nl": "Inkline",
+			"ru": "Волногор"
+		}
+	},
+	"tentatek": {
+		"key": "tentatek",
+		"localization": {
+			"de": "Tentatek",
+			"en": "Tentatek",
+			"es-419": "Tentáctica",
+			"es-es": "Arome",
+			"fr-ca": "Tentatek",
+			"fr-fr": "OculR",
+			"it": "Arome",
+			"ja": "アロメ",
+			"nl": "Tentatek",
+			"ru": "Щуччи"
+		}
+	},
+	"takoroka": {
+		"key": "takoroka",
+		"localization": {
+			"de": "Kalamati",
+			"en": "Takoroka",
+			"es-419": "Pulpioka",
+			"es-es": "Sepioca",
+			"fr-ca": "Pionic",
+			"fr-fr": "Cubic",
+			"it": "Sepia",
+			"ja": "ヤコ",
+			"nl": "Takoroka",
+			"ru": "Рыбок"
+		}
+	},
+	"annaki": {
+		"key": "annaki",
+		"localization": {
+			"de": "Annaki",
+			"en": "Annaki",
+			"es-419": "Annak",
+			"es-es": "Annak",
+			"fr-ca": "Aroz",
+			"fr-fr": "Aroz",
+			"it": "Annak",
+			"ja": "アナアキ",
+			"nl": "Annaki",
+			"ru": "Панкасиус"
+		}
+	},
+	"enperry": {
+		"key": "enperry",
+		"localization": {
+			"de": "Enperry",
+			"en": "Enperry",
+			"es-419": "Emperi",
+			"es-es": "Krakien",
+			"fr-ca": "DUX",
+			"fr-fr": "DUX",
+			"it": "Imperial",
+			"ja": "エンペリー",
+			"nl": "Enperry",
+			"ru": "Кальмар Кляр"
+		}
+	},
+	"toni_kensa": {
+		"key": "toni_kensa",
+		"localization": {
+			"de": "Toni Kensa",
+			"en": "Toni Kensa",
+			"es-419": "Tonken",
+			"es-es": "Tonken",
+			"fr-ca": "Thony K",
+			"fr-fr": "Thony K",
+			"it": "Nero Marlin",
+			"ja": "タタキケンサキ",
+			"nl": "Toni Kensa",
+			"ru": "Сушаки Кусаки"
+		}
+	},
+	"cuttlegear": {
+		"key": "cuttlegear",
+		"localization": {
+			"de": "Kuttel-Korps",
+			"en": "Cuttlegear",
+			"es-419": "Sepichón",
+			"es-es": "Obvius",
+			"fr-ca": "Radmaré",
+			"fr-fr": "Macalamar",
+			"it": "Krakensen",
+			"ja": "アタリメイド",
+			"nl": "Kraakwaar",
+			"ru": "Каракат"
+		}
+	},
+	"amiibo": {
+		"key": "amiibo",
+		"localization": {
+			"de": "amiibo",
+			"en": "amiibo",
+			"es-419": "amiibo",
+			"es-es": "amiibo",
+			"fr-ca": "amiibo",
+			"fr-fr": "amiibo",
+			"it": "amiibo",
+			"ja": "amiibo",
+			"nl": "amiibo",
+			"ru": "amiibo"
+		}
+	}
+}
