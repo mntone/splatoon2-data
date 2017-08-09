@@ -1,0 +1,137 @@
+{
+	"port_mackerel": {
+		"key": "port_mackerel",
+		"localization": {
+			"de": "Heilbutt-Hafen",
+			"en": "Port Mackerel",
+			"es-419": "Puerto Jurel",
+			"es-es": "Puerto Jurel",
+			"fr-ca": "Docks Haddock",
+			"fr-fr": "Docks Haddock",
+			"it": "Porto Polpo",
+			"ja": "ホッケふ頭",
+			"nl": "Hamerhaaihaven",
+			"ru": "Порт «Корюшка»"
+		}
+	},
+	"moray_towers": {
+		"key": "moray_towers",
+		"localization": {
+			"de": "Muränentürme",
+			"en": "Moray Towers",
+			"es-419": "Torres Merluza",
+			"es-es": "Torres Merluza",
+			"fr-ca": "Tours Girelle",
+			"fr-fr": "Tours Girelle",
+			"it": "Torri cittadine",
+			"ja": "タチウオパーキング",
+			"nl": "Tonijntorens",
+			"ru": "Муренские башни"
+		}
+	},
+	"the_reef": {
+		"key": "the_reef",
+		"localization": {
+			"de": "Korallenviertel",
+			"en": "The Reef",
+			"es-419": "Barrio Congrio",
+			"es-es": "Barrio Congrio",
+			"fr-ca": "Allées salées",
+			"fr-fr": "Allées salées",
+			"it": "Rione Storione",
+			"ja": "バッテラストリート",
+			"nl": "Sushistraat",
+			"ru": "Риф"
+		}
+	},
+	"musselforge_fitness": {
+		"key": "musselforge_fitness",
+		"localization": {
+			"de": "Molluskelbude",
+			"en": "Musselforge Fitness",
+			"es-419": "Gimnasio Mejillón",
+			"es-es": "Gimnasio Mejillón",
+			"fr-ca": "Gymnase Ancrage",
+			"fr-fr": "Gymnase Ancrage",
+			"it": "Centro polpisportivo",
+			"ja": "フジツボスポーツクラブ",
+			"nl": "Vinvis Fitness",
+			"ru": "Спортзал «Кревед!»"
+		}
+	},
+	"starfish_mainstage": {
+		"key": "starfish_mainstage",
+		"localization": {
+			"de": "Seeigel-Rockbühne",
+			"en": "Starfish Mainstage",
+			"es-419": "Auditorio Erizo",
+			"es-es": "Auditorio Erizo",
+			"fr-ca": "Scène Sirène",
+			"fr-fr": "Scène Sirène",
+			"it": "Palco Plancton",
+			"ja": "ガンガゼ野外音楽堂",
+			"nl": "Zeesterrenstage",
+			"ru": "КЗ «Иглокожий»"
+		}
+	},
+	"sturgeon_shipyard": {
+		"key": "sturgeon_shipyard",
+		"localization": {
+			"de": "Störwerft",
+			"en": "Sturgeon Shipyard",
+			"es-419": "Astillero Beluga",
+			"es-es": "Astillero Beluga",
+			"fr-ca": "Chantier Narval",
+			"fr-fr": "Chantier Narval",
+			"it": "Cantiere Pinnenere",
+			"ja": "チョウザメ造船",
+			"nl": "Walruswerf",
+			"ru": "Осетровые верфи"
+		}
+	},
+	"inkblot_art_academy": {
+		"key": "inkblot_art_academy",
+		"localization": {
+			"de": "Perlmutt-Akademie",
+			"en": "Inkblot Art Academy",
+			"es-419": "Instituto Coralino",
+			"es-es": "Instituto Coralino",
+			"fr-ca": "Institut Calm'arts",
+			"fr-fr": "Institut Calam'arts",
+			"it": "Campus Hippocampus",
+			"ja": "海女美術大学",
+			"nl": "Koraalcampus",
+			"ru": "Академия «Лепота»"
+		}
+	},
+	"humpback_pump_track": {
+		"key": "humpback_pump_track",
+		"localization": {
+			"de": "Buckelwal-Piste",
+			"en": "Humpback Pump Track",
+			"es-419": "Tiburódromo",
+			"es-es": "Tiburódromo",
+			"fr-ca": "Piste Méroule",
+			"fr-fr": "Piste Méroule",
+			"it": "Tintodromo Montecarpa",
+			"ja": "コンブトラック",
+			"nl": "Lekkerbektrack",
+			"ru": "Велозал «9-й вал»"
+		}
+	},
+	"shifty_station": {
+		"key": "shifty_station",
+		"localization": {
+			"de": "Wandelzone",
+			"en": "Shifty Station",
+			"es-419": "Área Mutante",
+			"es-es": "Área mutante",
+			"fr-ca": "Plate-forme polymorphe",
+			"fr-fr": "Plateforme polymorphe",
+			"it": "Zona mista",
+			"ja": "ミステリーゾーン",
+			"nl": "Wisselwereld",
+			"ru": "Транстанция"
+		}
+	}
+}
