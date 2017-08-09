@@ -108,9 +108,9 @@ function switchLanguage() {
 
 langSelect.addEventListener('change', switchLanguage, false);
 
-let t0 = get('main_weapon_info.json').then(JSON.parse).then(function(s) { main = s; });
-let t1 = get('sub_weapon_info.json').then(JSON.parse).then(function(s) { sub = s; });
-let t2 = get('special_weapon_info.json').then(JSON.parse).then(function(s) { special = s; });
+let t0 = get('main.json').then(JSON.parse).then(function(s) { main = s; });
+let t1 = get('sub.json').then(JSON.parse).then(function(s) { sub = s; });
+let t2 = get('special.json').then(JSON.parse).then(function(s) { special = s; });
 Promise.all([t0, t1, t2]).then(function() { render(lang); });
 </script>
 </body>
