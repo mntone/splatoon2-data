@@ -1,0 +1,137 @@
+{
+	"regular_battle": {
+		"key": "regular_battle",
+		"localization": {
+			"de": "Standardkampf",
+			"en": "Regular Battle",
+			"es-419": "Combate amistoso",
+			"es-es": "Combate amistoso",
+			"fr-ca": "Match classique",
+			"fr-fr": "Match classique",
+			"it": "Partita amichevole",
+			"ja": "レギュラーマッチ",
+			"nl": "Standaardgevecht",
+			"ru": "Бой салаг"
+		},
+		"multiline": {
+			"de": "Standard-\nkampf",
+			"en": "Regular\nBattle",
+			"es-419": "Combate\namistoso",
+			"es-es": "Amistoso",
+			"fr-ca": "Match\nclassique",
+			"fr-fr": "Match\nclassique",
+			"it": "Partita\namichevole",
+			"ja": "レギュラー\nマッチ",
+			"nl": "Standaard-\ngevecht",
+			"ru": "Бой\nсалаг"
+		}
+	},
+	"ranked_battle": {
+		"key": "ranked_battle",
+		"localization": {
+			"de": "Rangkampf",
+			"en": "Ranked Battle",
+			"es-419": "Combate competitivo",
+			"es-es": "Combate competitivo",
+			"fr-ca": "Match pro",
+			"fr-fr": "Match pro",
+			"it": "Partita pro",
+			"ja": "ガチマッチ",
+			"nl": "Profgevecht",
+			"ru": "Бой элиты"
+		},
+		"multiline": {
+			"de": "Rang-\nkampf",
+			"en": "Ranked\nBattle",
+			"es-419": "Combate\ncompetitivo",
+			"es-es": "Competitivo",
+			"fr-ca": "Match\npro",
+			"fr-fr": "Match\npro",
+			"it": "Partita\npro",
+			"ja": "ガチ\nマッチ",
+			"nl": "Prof-\ngevecht",
+			"ru": "Бой\nэлиты"
+		}
+	},
+	"splatfest_battle": {
+		"key": "splatfest_battle",
+		"localization": {
+			"de": "Splatfestkampf",
+			"en": "Splatfest Battle",
+			"es-419": "Combate temático",
+			"es-es": "Combate temático",
+			"fr-ca": "Festimatch",
+			"fr-fr": "Festimatch",
+			"it": "Partita tematica",
+			"ja": "フェスマッチ",
+			"nl": "Splatfest-gevecht",
+			"ru": "Сплатфест-бой"
+		},
+		"multiline": {
+			"de": "Splatfest-\nkampf",
+			"en": "Splatfest\nBattle",
+			"es-419": "Combate\ntemático",
+			"es-es": "Temático",
+			"fr-ca": "Festi-\nmatch",
+			"fr-fr": "Festi-\nmatch",
+			"it": "Partita\ntematica",
+			"ja": "フェス\nマッチ",
+			"nl": "Splatfest-\ngevecht",
+			"ru": "Сплатфест-\nбой"
+		}
+	},
+	"private_battle": {
+		"key": "private_battle",
+		"localization": {
+			"de": "Privater Kampf",
+			"en": "Private Battle",
+			"es-419": "Combate privado",
+			"es-es": "Combate privado",
+			"fr-ca": "Match privé",
+			"fr-fr": "Match privé",
+			"it": "Partita privata",
+			"ja": "プライベートマッチ",
+			"nl": "Privégevecht",
+			"ru": "Частный бой"
+		},
+		"multiline": {
+			"de": "Privater\nKampf",
+			"en": "Private\nBattle",
+			"es-419": "Combate\nprivado",
+			"es-es": "Privado",
+			"fr-ca": "Match\nprivé",
+			"fr-fr": "Match\nprivé",
+			"it": "Partita\nprivata",
+			"ja": "プライベート\nマッチ",
+			"nl": "Privé-\ngevecht",
+			"ru": "Частный\nбой"
+		}
+	},
+	"league_battle": {
+		"key": "league_battle",
+		"localization": {
+			"de": "Ligakampf",
+			"en": "League Battle",
+			"es-419": "Combate de liga",
+			"es-es": "Torneo",
+			"fr-ca": "Match de ligue",
+			"fr-fr": "Match de ligue",
+			"it": "Partita di lega",
+			"ja": "リーグマッチ",
+			"nl": "Toernooigevecht",
+			"ru": "Бой лиги"
+		},
+		"multiline": {
+			"de": "Liga-\nkampf",
+			"en": "League\nBattle",
+			"es-419": "Combate\nde liga",
+			"es-es": "Torneo",
+			"fr-ca": "Match\nde ligue",
+			"fr-fr": "Match\nde ligue",
+			"it": "Partita\ndi lega",
+			"ja": "リーグ\nマッチ",
+			"nl": "Toernooi-\ngevecht",
+			"ru": "Бой\nлиги"
+		}
+	}
+}

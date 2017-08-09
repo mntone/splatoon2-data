@@ -1,0 +1,110 @@
+{
+	"turf_war": {
+		"key": "turf_war",
+		"localization": {
+			"de": "Revierkampf",
+			"en": "Turf War",
+			"es-419": "Territorial",
+			"es-es": "Territorial",
+			"fr-ca": "Guerre de territoire",
+			"fr-fr": "Guerre de territoire",
+			"it": "Mischia mollusca",
+			"ja": "ナワバリバトル",
+			"nl": "Grondoorlog",
+			"ru": "Бой за район"
+		},
+		"multiline": {
+			"de": "Revier-\nkampf",
+			"en": "Turf\nWar",
+			"es-419": "Combate\nterritorial",
+			"es-es": "Territorial",
+			"fr-ca": "Guerre de\nterritoire",
+			"fr-fr": "Guerre de\nterritoire",
+			"it": "Mischia\nmollusca",
+			"ja": "ナワバリ\nバトル",
+			"nl": "Grond-\noorlog",
+			"ru": "Бой за\nрайон"
+		}
+	},
+	"rainmaker": {
+		"key": "rainmaker",
+		"localization": {
+			"de": "Operation Goldfisch",
+			"en": "Rainmaker",
+			"es-419": "Pez dorado",
+			"es-es": "Pez dorado",
+			"fr-ca": "Mission bazookarpe",
+			"fr-fr": "Mission Bazookarpe",
+			"it": "Bazookarp",
+			"ja": "ガチホコバトル",
+			"nl": "Bazookarper",
+			"ru": "Мегакарп"
+		},
+		"multiline": {
+			"de": "Operation\nGoldfisch",
+			"en": "Rainmaker",
+			"es-419": "Pez\ndorado",
+			"es-es": "Pez\ndorado",
+			"fr-ca": "Mission\nbazookarpe",
+			"fr-fr": "Mission\nBazookarpe",
+			"it": "Bazookarp",
+			"ja": "ガチホコ\nバトル",
+			"nl": "Bazookarper",
+			"ru": "Мегакарп"
+		}
+	},
+	"splat_zones": {
+		"key": "splat_zones",
+		"localization": {
+			"de": "Herrschaft",
+			"en": "Splat Zones",
+			"es-419": "Pintazonas",
+			"es-es": "Pintazonas",
+			"fr-ca": "Défense de zone",
+			"fr-fr": "Défense de zone",
+			"it": "Zona splat",
+			"ja": "ガチエリア",
+			"nl": "Spetterzone",
+			"ru": "Бой за зоны"
+		},
+		"multiline": {
+			"de": "Herrschaft",
+			"en": "Splat\nZones",
+			"es-419": "Pintazonas",
+			"es-es": "Pintazonas",
+			"fr-ca": "Défense\nde zone",
+			"fr-fr": "Défense\nde zone",
+			"it": "Zona\nsplat",
+			"ja": "ガチ\nエリア",
+			"nl": "Spetter-\nzone",
+			"ru": "Бой за\nзоны"
+		}
+	},
+	"tower_control": {
+		"key": "tower_control",
+		"localization": {
+			"de": "Turm-Kommando",
+			"en": "Tower Control",
+			"es-419": "Torreón",
+			"es-es": "Torre",
+			"fr-ca": "Expédition risquée",
+			"fr-fr": "Expédition risquée",
+			"it": "Torre mobile",
+			"ja": "ガチヤグラ",
+			"nl": "Torentwist",
+			"ru": "Бой за башню"
+		},
+		"multiline": {
+			"de": "Turm-\nKommando",
+			"en": "Tower\nControl",
+			"es-419": "Torreón",
+			"es-es": "Torre",
+			"fr-ca": "Expédition\nrisquée",
+			"fr-fr": "Expédition\nrisquée",
+			"it": "Torre\nmobile",
+			"ja": "ガチ\nヤグラ",
+			"nl": "Toren-\ntwist",
+			"ru": "Бой за\nбашню"
+		}
+	}
+}
