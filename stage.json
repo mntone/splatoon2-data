@@ -12,7 +12,8 @@
 			"ja": "ホッケふ頭",
 			"nl": "Hamerhaaihaven",
 			"ru": "Порт «Корюшка»"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"moray_towers": {
 		"key": "moray_towers",
@@ -27,7 +28,8 @@
 			"ja": "タチウオパーキング",
 			"nl": "Tonijntorens",
 			"ru": "Муренские башни"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"the_reef": {
 		"key": "the_reef",
@@ -42,7 +44,8 @@
 			"ja": "バッテラストリート",
 			"nl": "Sushistraat",
 			"ru": "Риф"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"musselforge_fitness": {
 		"key": "musselforge_fitness",
@@ -57,7 +60,8 @@
 			"ja": "フジツボスポーツクラブ",
 			"nl": "Vinvis Fitness",
 			"ru": "Спортзал «Кревед!»"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"starfish_mainstage": {
 		"key": "starfish_mainstage",
@@ -72,7 +76,8 @@
 			"ja": "ガンガゼ野外音楽堂",
 			"nl": "Zeesterrenstage",
 			"ru": "КЗ «Иглокожий»"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"sturgeon_shipyard": {
 		"key": "sturgeon_shipyard",
@@ -87,7 +92,8 @@
 			"ja": "チョウザメ造船",
 			"nl": "Walruswerf",
 			"ru": "Осетровые верфи"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"inkblot_art_academy": {
 		"key": "inkblot_art_academy",
@@ -102,7 +108,8 @@
 			"ja": "海女美術大学",
 			"nl": "Koraalcampus",
 			"ru": "Академия «Лепота»"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"humpback_pump_track": {
 		"key": "humpback_pump_track",
@@ -117,7 +124,8 @@
 			"ja": "コンブトラック",
 			"nl": "Lekkerbektrack",
 			"ru": "Велозал «9-й вал»"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"shifty_station": {
 		"key": "shifty_station",
@@ -132,6 +140,7 @@
 			"ja": "ミステリーゾーン",
 			"nl": "Wisselwereld",
 			"ru": "Транстанция"
-		}
+		},
+		"released_at": "2017-07-21T00:00:00Z"
 	}
 }
