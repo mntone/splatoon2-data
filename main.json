@@ -1032,5 +1032,48 @@
 		"unlocked_rank": 12,
 		"cost": 9800,
 		"released_at": "2017-07-29T02:00:00Z"
+	},
+
+	"splat_brella": {
+		"key": "splat_brella",
+		"localization": {
+			"de": "Parapluviator",
+			"en": "Splat Brella",
+			"es-419": "Paratintas",
+			"es-es": "Paratintas",
+			"fr-ca": "Para-encre",
+			"fr-fr": "Para-encre",
+			"it": "Sparasole",
+			"ja": "パラシェルター",
+			"nl": "Plenzer",
+			"ru": "Сплат-зонт"
+		},
+		"sub_key": "sprinkler",
+		"special_key": "ink_storm",
+		"special_points": 170,
+		"unlocked_rank": 9,
+		"cost": 0,
+		"released_at": "2017-08-12T02:00:00Z"
+	},
+	"hero_brella": {
+		"key": "hero_brella",
+		"localization": {
+			"de": "Helden-Pluviator Replik",
+			"en": "Hero Brella Replica",
+			"es-419": "Paratintas de élite réplica",
+			"es-es": "Paratintas de élite (réplica)",
+			"fr-ca": "Para-encre héroïque (rép.)",
+			"fr-fr": "Para-encre héroïque (réplique)",
+			"it": "Sparasole élite replica",
+			"ja": "ヒーローシェルター レプリカ",
+			"nl": "Heldenplenzer (replica)",
+			"ru": "Зонтган-004 (клон)"
+		},
+		"sub_key": "sprinkler",
+		"special_key": "ink_storm",
+		"special_points": 170,
+		"unlocked_rank": 9,
+		"cost": 0,
+		"released_at": "2017-08-12T02:00:00Z"
 	}
 }
