@@ -80,7 +80,7 @@
 		"special_key": "bomb_launcher_curling",
 		"special_points": 170,
 		"unlocked_rank": 6,
-		"cost": 900,
+		"cost": 4900,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"aerospray_rg": {
@@ -522,7 +522,7 @@
 		"special_key": "splashdown",
 		"special_points": 180,
 		"unlocked_rank": 3,
-		"cost": 0,
+		"cost": 2300,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"dynamo_roller": {
@@ -882,7 +882,7 @@
 		"special_key": "tenta_missiles",
 		"special_points": 190,
 		"unlocked_rank": 23,
-		"cost": 2500,
+		"cost": 12300,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"heavy_splatling": {
@@ -903,7 +903,7 @@
 		"special_key": "sting_ray",
 		"special_points": 180,
 		"unlocked_rank": 8,
-		"cost": 9000,
+		"cost": 7800,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_splatling": {
@@ -1052,7 +1052,7 @@
 		"special_key": "ink_storm",
 		"special_points": 170,
 		"unlocked_rank": 9,
-		"cost": 0,
+		"cost": 8300,
 		"released_at": "2017-08-12T02:00:00Z"
 	},
 	"hero_brella": {
@@ -1073,7 +1073,7 @@
 		"special_key": "ink_storm",
 		"special_points": 170,
 		"unlocked_rank": 9,
-		"cost": 0,
+		"cost": 9000,
 		"released_at": "2017-08-12T02:00:00Z"
 	}
 }
