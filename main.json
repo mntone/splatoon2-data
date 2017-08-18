@@ -631,6 +631,27 @@
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
+	"squiffer_classic": {
+		"key": "squiffer_classic",
+		"localization": {
+			"de": "Sepiator α",
+			"en": "Classic Squiffer",
+			"es-419": "Delineador X",
+			"es-es": "Kalarrapid α",
+			"fr-ca": "Lignizateur alpha",
+			"fr-fr": "Décap'express Alpha",
+			"it": "Kalamarapid α",
+			"ja": "スクイックリンα",
+			"nl": "Octopoets",
+			"ru": "Стиратель"
+		},
+		"sub_key": "point_sensor",
+		"special_key": "ink_armor",
+		"special_points": 180,
+		"unlocked_rank": 12,
+		"cost": 8900,
+		"released_at": "2017-08-19T02:00:00Z"
+	},
 	"splat_charger": {
 		"key": "splat_charger",
 		"localization": {
