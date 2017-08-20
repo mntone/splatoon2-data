@@ -12,7 +12,8 @@
 			"ja": "スプラッシュボム",
 			"nl": "Klodderbom",
 			"ru": "Брызгающая бомба"
-		}
+		},
+		"ink_consumption": 0.7
 	},
 	"suction_bomb": {
 		"key": "suction_bomb",
@@ -27,7 +28,8 @@
 			"ja": "キューバンボム",
 			"nl": "Kleefbom",
 			"ru": "Бомба на присоске"
-		}
+		},
+		"ink_consumption": 0.7
 	},
 	"brust_bomb": {
 		"key": "brust_bomb",
@@ -42,7 +44,8 @@
 			"ja": "クイックボム",
 			"nl": "Ballonbom",
 			"ru": "Разрывная бомба"
-		}
+		},
+		"ink_consumption": 0.4
 	},
 	"curling_bomb": {
 		"key": "curling_bomb",
@@ -57,7 +60,8 @@
 			"ja": "カーリングボム",
 			"nl": "Curlingbom",
 			"ru": "Керлинг-бомба"
-		}
+		},
+		"ink_consumption": 0.7
 	},
 	"autobomb": {
 		"key": "autobomb",
@@ -72,7 +76,8 @@
 			"ja": "ロボットボム",
 			"nl": "Robobom",
 			"ru": "Робобомба"
-		}
+		},
+		"ink_consumption": 0.7
 	},
 	"ink_mine": {
 		"key": "ink_mine",
@@ -87,7 +92,8 @@
 			"ja": "トラップ",
 			"nl": "Inktmijn",
 			"ru": "Мина"
-		}
+		},
+		"ink_consumption": 0.6
 	},
 	"toxic_mist": {
 		"key": "toxic_mist",
@@ -102,7 +108,8 @@
 			"ja": "ポイズンミスト",
 			"nl": "Gifmist",
 			"ru": "Едкий туман"
-		}
+		},
+		"ink_consumption": 0.7
 	},
 	"point_sensor": {
 		"key": "point_sensor",
@@ -117,7 +124,8 @@
 			"ja": "ポイントセンサー",
 			"nl": "Detector",
 			"ru": "Маркер движения"
-		}
+		},
+		"ink_consumption": 0.6
 	},
 	"splash_wall": {
 		"key": "splash_wall",
@@ -132,7 +140,8 @@
 			"ja": "スプラッシュシールド",
 			"nl": "Inktgordijn",
 			"ru": "Чернильный занавес"
-		}
+		},
+		"ink_consumption": 0.6
 	},
 	"sprinkler": {
 		"key": "sprinkler",
@@ -147,7 +156,8 @@
 			"ja": "スプリンクラー",
 			"nl": "Inktsprinkler",
 			"ru": "Распылятор"
-		}
+		},
+		"ink_consumption": 0.8
 	},
 	"squid_beakon": {
 		"key": "squid_beakon",
@@ -162,6 +172,7 @@
 			"ja": "ジャンプビーコン",
 			"nl": "Springschotel",
 			"ru": "Прыжковый маячок"
-		}
+		},
+		"ink_consumption": 0.9
 	}
 }

@@ -18,6 +18,7 @@
 		"special_points": 180,
 		"unlocked_rank": 10,
 		"cost": 9700,
+		"ink_consumption": 0.008,
 		"released_at": "2017-08-05T02:00:00Z"
 	},
 	"splattershot_jr": {
@@ -39,6 +40,7 @@
 		"special_points": 180,
 		"unlocked_rank": 0,
 		"cost": 0,
+		"ink_consumption": 0.005,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splash_o_matic": {
@@ -60,6 +62,7 @@
 		"special_points": 180,
 		"unlocked_rank": 25,
 		"cost": 11200,
+		"ink_consumption": 0.008,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"aerospray_mg": {
@@ -81,6 +84,7 @@
 		"special_points": 170,
 		"unlocked_rank": 6,
 		"cost": 4900,
+		"ink_consumption": 0.0055,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"aerospray_rg": {
@@ -102,6 +106,7 @@
 		"special_points": 180,
 		"unlocked_rank": 28,
 		"cost": 16900,
+		"ink_consumption": 0.0055,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splattershot": {
@@ -123,6 +128,7 @@
 		"special_points": 180,
 		"unlocked_rank": 2,
 		"cost": 900,
+		"ink_consumption": 0.01,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splattershot_tentatek": {
@@ -144,6 +150,7 @@
 		"special_points": 210,
 		"unlocked_rank": 4,
 		"cost": 2100,
+		"ink_consumption": 0.01,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_shot": {
@@ -165,6 +172,7 @@
 		"special_points": 180,
 		"unlocked_rank": 2,
 		"cost": 1500,
+		"ink_consumption": 0.01,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"gal52": {
@@ -186,6 +194,7 @@
 		"special_points": 180,
 		"unlocked_rank": 14,
 		"cost": 9500,
+		"ink_consumption": 0.013,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"nzap85": {
@@ -207,6 +216,7 @@
 		"special_points": 200,
 		"unlocked_rank": 9,
 		"cost": 7100,
+		"ink_consumption": 0.008,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splattershot_pro": {
@@ -228,6 +238,7 @@
 		"special_points": 180,
 		"unlocked_rank": 10,
 		"cost": 13800,
+		"ink_consumption": 0.02,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"gal96": {
@@ -249,6 +260,7 @@
 		"special_points": 210,
 		"unlocked_rank": 21,
 		"cost": 12600,
+		"ink_consumption": 0.025,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"jet_squelcher": {
@@ -270,6 +282,7 @@
 		"special_points": 180,
 		"unlocked_rank": 17,
 		"cost": 11300,
+		"ink_consumption": 0.016,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"luna_blaster": {
@@ -291,6 +304,7 @@
 		"special_points": 180,
 		"unlocked_rank": 19,
 		"cost": 12100,
+		"ink_consumption": 0.09,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"blaster": {
@@ -312,6 +326,7 @@
 		"special_points": 180,
 		"unlocked_rank": 5,
 		"cost": 3000,
+		"ink_consumption": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"blaster_custom": {
@@ -333,6 +348,7 @@
 		"special_points": 180,
 		"unlocked_rank": 27,
 		"cost": 15300,
+		"ink_consumption": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_blaster": {
@@ -354,6 +370,7 @@
 		"special_points": 180,
 		"unlocked_rank": 5,
 		"cost": 3800,
+		"ink_consumption": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"clash_blaster": {
@@ -375,6 +392,7 @@
 		"special_points": 170,
 		"unlocked_rank": 30,
 		"cost": 18200,
+		"ink_consumption": 0.05,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"rapid_blaster": {
@@ -396,6 +414,7 @@
 		"special_points": 180,
 		"unlocked_rank": 13,
 		"cost": 9800,
+		"ink_consumption": 0.07,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"l3_nozzlenose": {
@@ -417,6 +436,7 @@
 		"special_points": 180,
 		"unlocked_rank": 18,
 		"cost": 10400,
+		"ink_consumption": 0.01,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"h3_nozzlenose": {
@@ -438,6 +458,7 @@
 		"special_points": 180,
 		"unlocked_rank": 29,
 		"cost": 17200,
+		"ink_consumption": 0.018,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -460,6 +481,7 @@
 		"special_points": 180,
 		"unlocked_rank": 7,
 		"cost": 6200,
+		"ink_consumption": 0.06,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_roller": {
@@ -481,6 +503,7 @@
 		"special_points": 180,
 		"unlocked_rank": 3,
 		"cost": 1800,
+		"ink_consumption": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_roller_krakon": {
@@ -502,6 +525,7 @@
 		"special_points": 180,
 		"unlocked_rank": 12,
 		"cost": 9200,
+		"ink_consumption": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_roller": {
@@ -523,6 +547,7 @@
 		"special_points": 180,
 		"unlocked_rank": 3,
 		"cost": 2300,
+		"ink_consumption": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"dynamo_roller": {
@@ -544,6 +569,7 @@
 		"special_points": 180,
 		"unlocked_rank": 20,
 		"cost": 24500,
+		"ink_consumption": 0.18,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"flingza_roller": {
@@ -565,6 +591,7 @@
 		"special_points": 180,
 		"unlocked_rank": 24,
 		"cost": 15700,
+		"ink_consumption": 0.08,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"inkbrush": {
@@ -586,6 +613,7 @@
 		"special_points": 170,
 		"unlocked_rank": 5,
 		"cost": 2600,
+		"ink_consumption": 0.02,
 		"released_at": "2017-07-22T02:00:00Z"
 	},
 	"octobrush": {
@@ -607,6 +635,7 @@
 		"special_points": 180,
 		"unlocked_rank": 10,
 		"cost": 8200,
+		"ink_consumption": 0.032,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"herobrush": {
@@ -628,6 +657,7 @@
 		"special_points": 180,
 		"unlocked_rank": 10,
 		"cost": 9400,
+		"ink_consumption": 0.032,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -650,6 +680,7 @@
 		"special_points": 180,
 		"unlocked_rank": 12,
 		"cost": 8900,
+		"ink_consumption": 0.105,
 		"released_at": "2017-08-19T02:00:00Z"
 	},
 	"splat_charger": {
@@ -671,6 +702,7 @@
 		"special_points": 180,
 		"unlocked_rank": 3,
 		"cost": 2200,
+		"ink_consumption": 0.18,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_charger_firefin": {
@@ -692,6 +724,7 @@
 		"special_points": 190,
 		"unlocked_rank": 16,
 		"cost": 10600,
+		"ink_consumption": 0.18,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_charger": {
@@ -713,6 +746,7 @@
 		"special_points": 180,
 		"unlocked_rank": 3,
 		"cost": 2700,
+		"ink_consumption": 0.18,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splatterscope": {
@@ -734,6 +768,7 @@
 		"special_points": 180,
 		"unlocked_rank": 15,
 		"cost": 11400,
+		"ink_consumption": 0.18,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splatterscope_firefin": {
@@ -755,6 +790,7 @@
 		"special_points": 190,
 		"unlocked_rank": 25,
 		"cost": 13900,
+		"ink_consumption": 0.18,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"eliter_4k": {
@@ -776,6 +812,7 @@
 		"special_points": 190,
 		"unlocked_rank": 20,
 		"cost": 13900,
+		"ink_consumption": 0.25,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"eliter_4k_scope": {
@@ -797,6 +834,7 @@
 		"special_points": 190,
 		"unlocked_rank": 30,
 		"cost": 23200,
+		"ink_consumption": 0.25,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"goo_tuber": {
@@ -818,6 +856,7 @@
 		"special_points": 180,
 		"unlocked_rank": 22,
 		"cost": 13400,
+		"ink_consumption": 0.15,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -840,6 +879,7 @@
 		"special_points": 190,
 		"unlocked_rank": 5,
 		"cost": 2500,
+		"ink_consumption": 0.07,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_slosher": {
@@ -861,6 +901,7 @@
 		"special_points": 190,
 		"unlocked_rank": 5,
 		"cost": 3100,
+		"ink_consumption": 0.07,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"tri_slosher": {
@@ -882,6 +923,7 @@
 		"special_points": 210,
 		"unlocked_rank": 15,
 		"cost": 10200,
+		"ink_consumption": 0.06,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -904,6 +946,7 @@
 		"special_points": 190,
 		"unlocked_rank": 23,
 		"cost": 12300,
+		"ink_consumption": 0.15,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"heavy_splatling": {
@@ -925,6 +968,7 @@
 		"special_points": 180,
 		"unlocked_rank": 8,
 		"cost": 7800,
+		"ink_consumption": 0.225,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_splatling": {
@@ -946,6 +990,7 @@
 		"special_points": 180,
 		"unlocked_rank": 8,
 		"cost": 8600,
+		"ink_consumption": 0.225,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -968,6 +1013,7 @@
 		"special_points": 180,
 		"unlocked_rank": 26,
 		"cost": 14700,
+		"ink_consumption": 0.009,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_dualies": {
@@ -989,6 +1035,7 @@
 		"special_points": 170,
 		"unlocked_rank": 4,
 		"cost": 2400,
+		"ink_consumption": 0.008,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_dualies_enperry": {
@@ -1010,6 +1057,7 @@
 		"special_points": 170,
 		"unlocked_rank": 11,
 		"cost": 9000,
+		"ink_consumption": 0.008,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_dualies": {
@@ -1031,6 +1079,7 @@
 		"special_points": 170,
 		"unlocked_rank": 4,
 		"cost": 3100,
+		"ink_consumption": 0.008,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"dualie_squelchers": {
@@ -1052,6 +1101,7 @@
 		"special_points": 190,
 		"unlocked_rank": 12,
 		"cost": 9800,
+		"ink_consumption": 0.01,
 		"released_at": "2017-07-29T02:00:00Z"
 	},
 
@@ -1074,6 +1124,7 @@
 		"special_points": 170,
 		"unlocked_rank": 9,
 		"cost": 8300,
+		"ink_consumption": 0.05,
 		"released_at": "2017-08-12T02:00:00Z"
 	},
 	"hero_brella": {
@@ -1095,6 +1146,7 @@
 		"special_points": 170,
 		"unlocked_rank": 9,
 		"cost": 9000,
+		"ink_consumption": 0.05,
 		"released_at": "2017-08-12T02:00:00Z"
 	}
 }

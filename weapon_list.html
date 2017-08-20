@@ -10,7 +10,7 @@
 		thead tr { position: -webkit-sticky; position: sticky; top: 0; }
 		th { background-color: #ddd; }
 		th, td { border-bottom: 1px solid #eee; padding: 5px 2px; }
-		.cost_column { text-align: right; }
+		.cost_column, .percent_column { text-align: right; }
 		.sub_special_text { color: #999; font-size: 80%; }
 	</style>
 </head>
@@ -35,6 +35,7 @@
 		<th>points for special</th>
 		<th>unlocked rank</th>
 		<th>cost</th>
+		<th>ink consumption</th>
 		<th>release date</th>
 	</tr>
 </thead>
@@ -77,6 +78,7 @@ function print(self, language, data) {
 		'<td>' + data['special_points'] + '</td>' +
 		'<td>' + data['unlocked_rank'] + '</td>' +
 		'<td class="cost_column">' + data['cost'].toLocaleString() + '</td>' +
+		'<td class="percent_column">' + (100 * data['ink_consumption']).toFixed(2) + ' %</td>' +
 		'<td>' + new Date(data['released_at']).toLocaleDateString() + '</td>' +
 		'</tr>';
 	return data['cost'];
@@ -90,7 +92,7 @@ function printList(self, language, ary) {
 
 	self.innerHTML += '<tr><td> </td><td> </td><td> </td><td> </td>' +
 		'<td class="cost_column">' + totalCost.toLocaleString() + '</td>' +
-		'<td> </td></tr>';
+		'<td> </td><td> </td></tr>';
 }
 
 function render(lang) {
