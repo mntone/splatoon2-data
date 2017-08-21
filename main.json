@@ -129,7 +129,7 @@
 			"ru": "Каплестрел"
 		},
 		"type_key": "shooter",
-		"sub_key": "brust_bomb",
+		"sub_key": "burst_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
 		"unlocked_rank": 2,
@@ -175,7 +175,7 @@
 			"ru": "Каплестрел-004 (клон)"
 		},
 		"type_key": "shooter",
-		"sub_key": "brust_bomb",
+		"sub_key": "burst_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
 		"unlocked_rank": 2,
@@ -966,7 +966,7 @@
 			"ru": "Ведроган 3 в 1"
 		},
 		"type_key": "slosher",
-		"sub_key": "brust_bomb",
+		"sub_key": "burst_bomb",
 		"special_key": "ink_armor",
 		"special_points": 210,
 		"unlocked_rank": 15,
@@ -990,7 +990,7 @@
 			"ru": "Брызгомет-М"
 		},
 		"type_key": "splatling",
-		"sub_key": "brust_bomb",
+		"sub_key": "burst_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
 		"unlocked_rank": 23,
@@ -1083,7 +1083,7 @@
 			"ru": "Спуртометы"
 		},
 		"type_key": "dualies",
-		"sub_key": "brust_bomb",
+		"sub_key": "burst_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 170,
 		"unlocked_rank": 4,
@@ -1129,7 +1129,7 @@
 			"ru": "Спуртометы-004 (клон)"
 		},
 		"type_key": "dualies",
-		"sub_key": "brust_bomb",
+		"sub_key": "burst_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 170,
 		"unlocked_rank": 4,

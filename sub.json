@@ -31,11 +31,11 @@
 		},
 		"ink_consumption": 0.7
 	},
-	"brust_bomb": {
-		"key": "brust_bomb",
+	"burst_bomb": {
+		"key": "burst_bomb",
 		"localization": {
 			"de": "Insta-Bombe",
-			"en": "Brust Bomb",
+			"en": "Burst Bomb",
 			"es-419": "Globo entintado",
 			"es-es": "Bomba rápida",
 			"fr-ca": "Bombe ballon",
