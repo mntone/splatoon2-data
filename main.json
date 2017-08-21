@@ -13,6 +13,7 @@
 			"nl": "Spettertuit",
 			"ru": "Плюхотрон"
 		},
+		"type_key": "shooter",
 		"sub_key": "curling_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -35,6 +36,7 @@
 			"nl": "Superspetter jr.",
 			"ru": "Каплестрел-У"
 		},
+		"type_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "ink_armor",
 		"special_points": 180,
@@ -57,6 +59,7 @@
 			"nl": "Spetterspuit",
 			"ru": "Плюхомет"
 		},
+		"type_key": "shooter",
 		"sub_key": "toxic_mist",
 		"special_key": "inkjet",
 		"special_points": 180,
@@ -79,6 +82,7 @@
 			"nl": "Kladderwerper",
 			"ru": "Аэроспрей"
 		},
+		"type_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "bomb_launcher_curling",
 		"special_points": 170,
@@ -101,6 +105,7 @@
 			"nl": "Kladderwerper Pro",
 			"ru": "Аэроспрей ДЕЛЮКС"
 		},
+		"type_key": "shooter",
 		"sub_key": "sprinkler",
 		"special_key": "baller",
 		"special_points": 180,
@@ -123,6 +128,7 @@
 			"nl": "Superspetter",
 			"ru": "Каплестрел"
 		},
+		"type_key": "shooter",
 		"sub_key": "brust_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -145,6 +151,7 @@
 			"nl": "Tentatek Superspetter",
 			"ru": "Каплестрел «Щуччи»"
 		},
+		"type_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "inkjet",
 		"special_points": 210,
@@ -167,6 +174,7 @@
 			"nl": "Heldenspetter (replica)",
 			"ru": "Каплестрел-004 (клон)"
 		},
+		"type_key": "shooter",
 		"sub_key": "brust_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -189,6 +197,7 @@
 			"nl": ".52 Kaliter",
 			"ru": "Струевик .52"
 		},
+		"type_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "baller",
 		"special_points": 180,
@@ -211,6 +220,7 @@
 			"nl": "N-ZAP '85",
 			"ru": "N-ZAP 85"
 		},
+		"type_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "ink_armor",
 		"special_points": 200,
@@ -233,6 +243,7 @@
 			"nl": "Superspetter Pro",
 			"ru": "Каплестрел ПРО"
 		},
+		"type_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "ink_storm",
 		"special_points": 180,
@@ -255,6 +266,7 @@
 			"nl": ".96 Kaliter",
 			"ru": "Струевик .96"
 		},
+		"type_key": "shooter",
 		"sub_key": "sprinkler",
 		"special_key": "ink_armor",
 		"special_points": 210,
@@ -277,6 +289,7 @@
 			"nl": "Straalplonzer",
 			"ru": "Плескарь"
 		},
+		"type_key": "shooter",
 		"sub_key": "toxic_mist",
 		"special_key": "tenta_missiles",
 		"special_points": 180,
@@ -299,6 +312,7 @@
 			"nl": "Lunablaster",
 			"ru": "Лунобластер"
 		},
+		"type_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "baller",
 		"special_points": 180,
@@ -321,6 +335,7 @@
 			"nl": "Klodderblaster",
 			"ru": "Бластер"
 		},
+		"type_key": "shooter",
 		"sub_key": "toxic_mist",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -343,6 +358,7 @@
 			"nl": "Gemodde Klodderblaster",
 			"ru": "Бластер «Понт»"
 		},
+		"type_key": "shooter",
 		"sub_key": "autobomb",
 		"special_key": "inkjet",
 		"special_points": 180,
@@ -365,6 +381,7 @@
 			"nl": "Heldenblaster (replica)",
 			"ru": "Бластер-004 (клон)"
 		},
+		"type_key": "shooter",
 		"sub_key": "toxic_mist",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -387,6 +404,7 @@
 			"nl": "Knalblaster",
 			"ru": "Контрабластер"
 		},
+		"type_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "sting_ray",
 		"special_points": 170,
@@ -409,6 +427,7 @@
 			"nl": "Flitsblaster",
 			"ru": "Бластермат"
 		},
+		"type_key": "shooter",
 		"sub_key": "ink_mine",
 		"special_key": "bomb_launcher_splat",
 		"special_points": 180,
@@ -431,6 +450,7 @@
 			"nl": "L-3 Stompsnuit",
 			"ru": "Каплетрон-компакт"
 		},
+		"type_key": "shooter",
 		"sub_key": "curling_bomb",
 		"special_key": "baller",
 		"special_points": 180,
@@ -453,6 +473,7 @@
 			"nl": "H-3 Langsnuit",
 			"ru": "Тяжелый каплетрон"
 		},
+		"type_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "tenta_missiles",
 		"special_points": 180,
@@ -476,6 +497,7 @@
 			"nl": "Carbonroller",
 			"ru": "Валик ЛАЙТ"
 		},
+		"type_key": "roller",
 		"sub_key": "autobomb",
 		"special_key": "ink_storm",
 		"special_points": 180,
@@ -499,6 +521,7 @@
 			"nl": "Klodderroller",
 			"ru": "Сплат-валик"
 		},
+		"type_key": "roller",
 		"sub_key": "curling_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -522,6 +545,7 @@
 			"nl": "Krak-On Klodderroller",
 			"ru": "Сплат-валик «Кра-Кен»"
 		},
+		"type_key": "roller",
 		"sub_key": "squid_beakon",
 		"special_key": "baller",
 		"special_points": 180,
@@ -545,6 +569,7 @@
 			"nl": "Heldenroller (replica)",
 			"ru": "Валик-004 (клон)"
 		},
+		"type_key": "roller",
 		"sub_key": "curling_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -568,6 +593,7 @@
 			"nl": "Dynamoroller",
 			"ru": "Мотовалик"
 		},
+		"type_key": "roller",
 		"sub_key": "ink_mine",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -591,6 +617,7 @@
 			"nl": "Flexroller",
 			"ru": "Омнивалик"
 		},
+		"type_key": "roller",
 		"sub_key": "splash_wall",
 		"special_key": "bomb_launcher_splat",
 		"special_points": 180,
@@ -614,6 +641,7 @@
 			"nl": "Inktkwast",
 			"ru": "Кисть"
 		},
+		"type_key": "roller",
 		"sub_key": "splat_bomb",
 		"special_key": "splashdown",
 		"special_points": 170,
@@ -636,6 +664,7 @@
 			"nl": "Octokwast",
 			"ru": "Арт-кисть"
 		},
+		"type_key": "roller",
 		"sub_key": "autobomb",
 		"special_key": "inkjet",
 		"special_points": 180,
@@ -658,6 +687,7 @@
 			"nl": "Heldenkwast (replica)",
 			"ru": "Кисть-004 (клон)"
 		},
+		"type_key": "roller",
 		"sub_key": "autobomb",
 		"special_key": "inkjet",
 		"special_points": 180,
@@ -681,6 +711,7 @@
 			"nl": "Octopoets",
 			"ru": "Стиратель"
 		},
+		"type_key": "charger",
 		"sub_key": "point_sensor",
 		"special_key": "ink_armor",
 		"special_points": 180,
@@ -703,6 +734,7 @@
 			"nl": "Bloplader",
 			"ru": "Сплатган"
 		},
+		"type_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -725,6 +757,7 @@
 			"nl": "Firefin Bloplader",
 			"ru": "Сплатган «Фритюр»"
 		},
+		"type_key": "charger",
 		"sub_key": "splash_wall",
 		"special_key": "bomb_launcher_suction",
 		"special_points": 190,
@@ -747,6 +780,7 @@
 			"nl": "Heldenlader (replica)",
 			"ru": "Сплатган-004 (клон)"
 		},
+		"type_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -769,6 +803,7 @@
 			"nl": "Schelpschutter",
 			"ru": "Снайпокрас"
 		},
+		"type_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -791,6 +826,7 @@
 			"nl": "Firefin-Schelpschutter",
 			"ru": "Снайпокрас «Фритюр»"
 		},
+		"type_key": "charger",
 		"sub_key": "splash_wall",
 		"special_key": "bomb_launcher_suction",
 		"special_points": 190,
@@ -813,6 +849,7 @@
 			"nl": "E-liter 4K",
 			"ru": "Э-литр 95"
 		},
+		"type_key": "charger",
 		"sub_key": "ink_mine",
 		"special_key": "ink_storm",
 		"special_points": 190,
@@ -835,6 +872,7 @@
 			"nl": "E-liter 4K met vizier",
 			"ru": "Снайп-э-литр 95"
 		},
+		"type_key": "charger",
 		"sub_key": "ink_mine",
 		"special_key": "ink_storm",
 		"special_points": 190,
@@ -857,6 +895,7 @@
 			"nl": "Spetbuizer",
 			"ru": "Трубастер"
 		},
+		"type_key": "charger",
 		"sub_key": "suction_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -880,6 +919,7 @@
 			"nl": "Morser",
 			"ru": "Ведроган"
 		},
+		"type_key": "slosher",
 		"sub_key": "suction_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -902,6 +942,7 @@
 			"nl": "Heldenmorser (replica)",
 			"ru": "Ведроган-004 (клон)"
 		},
+		"type_key": "slosher",
 		"sub_key": "suction_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -924,6 +965,7 @@
 			"nl": "Triomorser",
 			"ru": "Ведроган 3 в 1"
 		},
+		"type_key": "slosher",
 		"sub_key": "brust_bomb",
 		"special_key": "ink_armor",
 		"special_points": 210,
@@ -947,6 +989,7 @@
 			"nl": "Mini-Spetling",
 			"ru": "Брызгомет-М"
 		},
+		"type_key": "splatling",
 		"sub_key": "brust_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -969,6 +1012,7 @@
 			"nl": "Spetling",
 			"ru": "Брызгомет XL"
 		},
+		"type_key": "splatling",
 		"sub_key": "sprinkler",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -991,6 +1035,7 @@
 			"nl": "Helden-Spetling (replica)",
 			"ru": "Брызгомет-004 (клон)"
 		},
+		"type_key": "splatling",
 		"sub_key": "sprinkler",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -1014,6 +1059,7 @@
 			"nl": "Dubbelspatters",
 			"ru": "Импрессиометы"
 		},
+		"type_key": "dualies",
 		"sub_key": "squid_beakon",
 		"special_key": "bomb_launcher_suction",
 		"special_points": 180,
@@ -1036,6 +1082,7 @@
 			"nl": "Dubbelknallers",
 			"ru": "Спуртометы"
 		},
+		"type_key": "dualies",
 		"sub_key": "brust_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 170,
@@ -1058,6 +1105,7 @@
 			"nl": "Enperry Dubbelknallers",
 			"ru": "Спуртометы «К.К.»"
 		},
+		"type_key": "dualies",
 		"sub_key": "curling_bomb",
 		"special_key": "inkjet",
 		"special_points": 170,
@@ -1080,6 +1128,7 @@
 			"nl": "Heldenknallers (replica)",
 			"ru": "Спуртометы-004 (клон)"
 		},
+		"type_key": "dualies",
 		"sub_key": "brust_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 170,
@@ -1102,6 +1151,7 @@
 			"nl": "Dubbelplonzers",
 			"ru": "Спурт-плескари"
 		},
+		"type_key": "dualies",
 		"sub_key": "point_sensor",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -1125,6 +1175,7 @@
 			"nl": "Plenzer",
 			"ru": "Сплат-зонт"
 		},
+		"type_key": "brella",
 		"sub_key": "sprinkler",
 		"special_key": "ink_storm",
 		"special_points": 170,
@@ -1147,6 +1198,7 @@
 			"nl": "Heldenplenzer (replica)",
 			"ru": "Зонтган-004 (клон)"
 		},
+		"type_key": "brella",
 		"sub_key": "sprinkler",
 		"special_key": "ink_storm",
 		"special_points": 170,
