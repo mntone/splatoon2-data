@@ -482,6 +482,7 @@
 		"unlocked_rank": 7,
 		"cost": 6200,
 		"ink_consumption": 0.06,
+		"ink_consumption_per_vertical_swing": 0.06,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_roller": {
@@ -504,6 +505,7 @@
 		"unlocked_rank": 3,
 		"cost": 1800,
 		"ink_consumption": 0.1,
+		"ink_consumption_per_vertical_swing": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_roller_krakon": {
@@ -526,6 +528,7 @@
 		"unlocked_rank": 12,
 		"cost": 9200,
 		"ink_consumption": 0.1,
+		"ink_consumption_per_vertical_swing": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_roller": {
@@ -548,6 +551,7 @@
 		"unlocked_rank": 3,
 		"cost": 2300,
 		"ink_consumption": 0.1,
+		"ink_consumption_per_vertical_swing": 0.1,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"dynamo_roller": {
@@ -570,6 +574,7 @@
 		"unlocked_rank": 20,
 		"cost": 24500,
 		"ink_consumption": 0.18,
+		"ink_consumption_per_vertical_swing": 0.18,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"flingza_roller": {
@@ -592,6 +597,7 @@
 		"unlocked_rank": 24,
 		"cost": 15700,
 		"ink_consumption": 0.08,
+		"ink_consumption_per_vertical_swing": 0.12,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"inkbrush": {
