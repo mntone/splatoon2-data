@@ -1,0 +1,245 @@
+{
+	"shooter": {
+		"key": "shooter",
+		"localization": {
+			"de": "Kleckser",
+			"en": "Shooter",
+			"es-419": "Rociador",
+			"es-es": "Lanzatintas",
+			"fr-ca": "Lanceur",
+			"fr-fr": "Lanceur",
+			"it": "Arma a ripetizione",
+			"ja": "シューター",
+			"nl": "Spetter",
+			"ru": "Каплестрел"
+		},
+		"plural": {
+			"de": "Klecksern",
+			"en": "Shooters",
+			"es-419": "Rociadors",
+			"es-es": "Lanzatintas",
+			"fr-ca": "Lanceurs",
+			"fr-fr": "Lanceurs",
+			"it": "Armi a ripetizione",
+			"ja": "シューター",
+			"nl": "Spetteren",
+			"ru": "Каплестрелы"
+		}
+	},
+	"blaster": {
+		"key": "blaster",
+		"localization": {
+			"de": "Blaster",
+			"en": "Blaster",
+			"es-419": "Lanzamotas",
+			"es-es": "Devastador",
+			"fr-ca": "Blaster",
+			"fr-fr": "Blaster",
+			"it": "Blaster",
+			"ja": "ブラスター",
+			"nl": "Blaster",
+			"ru": "Бластер"
+		},
+		"plural": {
+			"de": "Blasters",
+			"en": "Blasters",
+			"es-419": "Lanzamotas",
+			"es-es": "Devastador",
+			"fr-ca": "Blasters",
+			"fr-fr": "Blasters",
+			"it": "Blasters",
+			"ja": "ブラスター",
+			"nl": "Blasteren",
+			"ru": "Бластеы"
+		}
+	},
+	"roller": {
+		"key": "roller",
+		"localization": {
+			"de": "Roller",
+			"en": "Roller",
+			"es-419": "Rodillo",
+			"es-es": "Rodillo",
+			"fr-ca": "Rouleau",
+			"fr-fr": "Rouleau",
+			"it": "Rullo",
+			"ja": "ローラー",
+			"nl": "Roller",
+			"ru": "Сплат-валик"
+		},
+		"plural": {
+			"de": "Rollern",
+			"en": "Rollers",
+			"es-419": "Rodillos",
+			"es-es": "Rodillos",
+			"fr-ca": "Rouleaux",
+			"fr-fr": "Rouleaux",
+			"it": "Rulli",
+			"ja": "ローラー",
+			"nl": "Rolleren",
+			"ru": "Сплат-валики"
+		}
+	},
+	"brush": {
+		"key": "brush",
+		"localization": {
+			"de": "",
+			"en": "Brush",
+			"es-419": "",
+			"es-es": "",
+			"fr-ca": "Pinceau",
+			"fr-fr": "Pinceau",
+			"it": "Pennello",
+			"ja": "フデ",
+			"nl": "Kwast",
+			"ru": "Кисть"
+		},
+		"plural": {
+			"de": "",
+			"en": "Brushes",
+			"es-419": "",
+			"es-es": "",
+			"fr-ca": "Pinceaux",
+			"fr-fr": "Pinceaux",
+			"it": "Pennelli",
+			"ja": "フデ",
+			"nl": "Kwasten",
+			"ru": "Кистьи"
+		}
+	},
+	"charger": {
+		"key": "charger",
+		"localization": {
+			"de": "Konzentrator",
+			"en": "Charger",
+			"es-419": "Cargatintas",
+			"es-es": "Cargatintas",
+			"fr-ca": "Sniper",
+			"fr-fr": "Sniper",
+			"it": "Arma a carica",
+			"ja": "チャージャー",
+			"nl": "Lader",
+			"ru": "Сплатган"
+		},
+		"plural": {
+			"de": "Konzentratoren",
+			"en": "Chargers",
+			"es-419": "Cargatintas",
+			"es-es": "Cargatintas",
+			"fr-ca": "Snipers",
+			"fr-fr": "Snipers",
+			"it": "Armi a carica",
+			"ja": "チャージャー",
+			"nl": "Laderen",
+			"ru": "Сплатганы"
+		}
+	},
+	"slosher": {
+		"key": "slosher",
+		"localization": {
+			"de": "Schwapper",
+			"en": "Slosher",
+			"es-419": "Derramatic",
+			"es-es": "Derramatic",
+			"fr-ca": "Seauceur",
+			"fr-fr": "Seauceur",
+			"it": "Secchiostro",
+			"ja": "スロッシャー",
+			"nl": "Morser",
+			"ru": "Ведроган"
+		},
+		"plural": {
+			"de": "Schwappern",
+			"en": "Sloshers",
+			"es-419": "Derramatic",
+			"es-es": "Derramatic",
+			"fr-ca": "Seauceurs",
+			"fr-fr": "Seauceurs",
+			"it": "Secchiostri",
+			"ja": "スロッシャー",
+			"nl": "Morseren",
+			"ru": "Ведроганы"
+		}
+	},
+	"splatling": {
+		"key": "splatling",
+		"localization": {
+			"de": "Splatling",
+			"en": "Splatling",
+			"es-419": "Garabateador",
+			"es-es": "Tintralladora",
+			"fr-ca": "Badigeonneur",
+			"fr-fr": "Badigeonneur",
+			"it": "Splatling",
+			"ja": "スピナー",
+			"nl": "Spetling",
+			"ru": "Брызгомет"
+		},
+		"plural": {
+			"de": "Splatlings",
+			"en": "Splatlings",
+			"es-419": "Garabateador",
+			"es-es": "Tintralladoras",
+			"fr-ca": "Badigeonneurs",
+			"fr-fr": "Badigeonneurs",
+			"it": "Splatlings",
+			"ja": "スピナー",
+			"nl": "Spetlings",
+			"ru": "Брызгометы"
+		}
+	},
+	"dualies": {
+		"key": "dualies",
+		"localization": {
+			"de": "Doppler",
+			"en": "Dualies",
+			"es-419": "Difusor dual",
+			"es-es": "Difusor dual",
+			"fr-ca": "Double encreurs",
+			"fr-fr": "Double encreurs",
+			"it": "Arma a duplo",
+			"ja": "マニューバー",
+			"nl": "Knallers",
+			"ru": "Спуртометы"
+		},
+		"plural": {
+			"de": "Dopplern",
+			"en": "Dualies",
+			"es-419": "Difusor dual",
+			"es-es": "Difusor dual",
+			"fr-ca": "Double encreurs",
+			"fr-fr": "Double encreurs",
+			"it": "Armi a duplo",
+			"ja": "マニューバー",
+			"nl": "Knallers",
+			"ru": "Спуртометы"
+		}
+	},
+	"brella": {
+		"key": "brella",
+		"localization": {
+			"de": "Pluviator",
+			"en": "Brella",
+			"es-419": "Paratintas",
+			"es-es": "Paratintas",
+			"fr-ca": "Para-encre",
+			"fr-fr": "Para-encre",
+			"it": "Arma a forma di ombrello",
+			"ja": "シェルター",
+			"nl": "Plenzer",
+			"ru": "Сплат-зонт"
+		},
+		"plural": {
+			"de": "Pluviatoren",
+			"en": "Brellas",
+			"es-419": "Paratintas",
+			"es-es": "Paratintas",
+			"fr-ca": "Para-encres",
+			"fr-fr": "Para-encres",
+			"it": "Armi a forma di ombrello",
+			"ja": "シェルター",
+			"nl": "Plenzeren",
+			"ru": "Сплат-зонты"
+		}
+	}
+}
