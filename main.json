@@ -410,7 +410,7 @@
 		"special_points": 170,
 		"unlocked_rank": 30,
 		"cost": 18200,
-		"ink_consumption": 0.05,
+		"ink_consumption": 0.04,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"rapid_blaster": {
@@ -503,8 +503,8 @@
 		"special_points": 180,
 		"unlocked_rank": 7,
 		"cost": 6200,
-		"ink_consumption": 0.06,
-		"ink_consumption_per_vertical_swing": 0.06,
+		"ink_consumption": 0.045,
+		"ink_consumption_per_vertical_swing": 0.045,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_roller": {
@@ -527,8 +527,8 @@
 		"special_points": 180,
 		"unlocked_rank": 3,
 		"cost": 1800,
-		"ink_consumption": 0.1,
-		"ink_consumption_per_vertical_swing": 0.1,
+		"ink_consumption": 0.09,
+		"ink_consumption_per_vertical_swing": 0.09,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_roller_krakon": {
@@ -551,8 +551,8 @@
 		"special_points": 180,
 		"unlocked_rank": 12,
 		"cost": 9200,
-		"ink_consumption": 0.1,
-		"ink_consumption_per_vertical_swing": 0.1,
+		"ink_consumption": 0.09,
+		"ink_consumption_per_vertical_swing": 0.09,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_roller": {
@@ -575,8 +575,8 @@
 		"special_points": 180,
 		"unlocked_rank": 3,
 		"cost": 2300,
-		"ink_consumption": 0.1,
-		"ink_consumption_per_vertical_swing": 0.1,
+		"ink_consumption": 0.09,
+		"ink_consumption_per_vertical_swing": 0.09,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"dynamo_roller": {
@@ -1085,7 +1085,7 @@
 		"type_key": "dualies",
 		"sub_key": "burst_bomb",
 		"special_key": "tenta_missiles",
-		"special_points": 170,
+		"special_points": 190,
 		"unlocked_rank": 4,
 		"cost": 2400,
 		"ink_consumption": 0.008,
@@ -1108,7 +1108,7 @@
 		"type_key": "dualies",
 		"sub_key": "curling_bomb",
 		"special_key": "inkjet",
-		"special_points": 170,
+		"special_points": 200,
 		"unlocked_rank": 11,
 		"cost": 9000,
 		"ink_consumption": 0.008,
@@ -1131,7 +1131,7 @@
 		"type_key": "dualies",
 		"sub_key": "burst_bomb",
 		"special_key": "tenta_missiles",
-		"special_points": 170,
+		"special_points": 190,
 		"unlocked_rank": 4,
 		"cost": 3100,
 		"ink_consumption": 0.008,
