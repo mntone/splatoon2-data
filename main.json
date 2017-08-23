@@ -252,6 +252,29 @@
 		"ink_consumption": 0.02,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"splattershot_pro_forge": {
+		"key": "splattershot_pro_forge",
+		"localization": {
+			"de": "Focus-Profi-Kleckser",
+			"en": "Forge Splattershot Pro",
+			"es-419": "Rociador Forima",
+			"es-es": "Lanzatintas plus B",
+			"fr-ca": "Liquéficateur pro Fosia",
+			"fr-fr": "Liquidateur pro griffé",
+			"it": "Splasher élite logo",
+			"ja": "プライムシューターコラボ",
+			"nl": "Forge Superspetter Pro",
+			"ru": "Каплестрел ПРО «Блиц»"
+		},
+		"type_key": "shooter",
+		"sub_key": "suction_bomb",
+		"special_key": "bubble_blower",
+		"special_points": 180,
+		"unlocked_rank": 20,
+		"cost": 20800,
+		"ink_consumption": 0.02,
+		"released_at": "2017-09-02T02:00:00Z"
+	},
 	"gal96": {
 		"key": "gal96",
 		"localization": {
