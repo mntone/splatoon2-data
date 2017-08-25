@@ -135,6 +135,23 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"manta_maria": {
+		"id": 6,
+		"key": "manta_maria",
+		"localization": {
+			"de": "Manta Maria",
+			"en": "Manta Maria",
+			"es-419": "Corbeta Corvina",
+			"es-es": "Corbeta Corvina",
+			"fr-ca": "Manta Maria",
+			"fr-fr": "Manta Maria",
+			"it": "Manta Maria",
+			"ja": "マンタマリア号",
+			"nl": "Klipvisklipper",
+			"ru": "Манта Мария"
+		},
+		"released_at": "2017-07-26T02:00:00Z"
+	},
 	"shifty_station": {
 		"id": 9999,
 		"key": "shifty_station",
