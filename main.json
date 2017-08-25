@@ -997,6 +997,29 @@
 		"ink_consumption": 0.06,
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"sloshing_machine": {
+		"key": "sloshing_machine",
+		"localization": {
+			"de": "Trommel-Schwapper",
+			"en": "Sloshing Machine",
+			"es-419": "Derramatic centrífugo",
+			"es-es": "Derramatic centrífugo",
+			"fr-ca": "Encrifugeur",
+			"fr-fr": "Encrifugeur",
+			"it": "Secchiostro centrifuga",
+			"ja": "スクリュースロッシャー",
+			"nl": "Klotstrommel",
+			"ru": "Центрифугер"
+		},
+		"type_key": "slosher",
+		"sub_key": "autobomb",
+		"special_key": "sting_ray",
+		"special_points": 170,
+		"unlocked_rank": 13,
+		"cost": 12600,
+		"ink_consumption": 0.07,
+		"released_at": "2017-08-26T02:00:00Z"
+	},
 
 	"mini_splatling": {
 		"key": "mini_splatling",
