@@ -20,6 +20,11 @@
 		"unlocked_rank": 10,
 		"cost": 9700,
 		"ink_consumption": 0.008,
+		"status": {
+			"range": 12,
+			"fire_rate": 75,
+			"damage": 52
+		},
 		"released_at": "2017-08-05T02:00:00Z"
 	},
 	"splattershot_jr": {
@@ -43,6 +48,11 @@
 		"unlocked_rank": 0,
 		"cost": 0,
 		"ink_consumption": 0.005,
+		"status": {
+			"range": 25,
+			"fire_rate": 75,
+			"damage": 22
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splash_o_matic": {
@@ -66,6 +76,11 @@
 		"unlocked_rank": 25,
 		"cost": 11200,
 		"ink_consumption": 0.008,
+		"status": {
+			"range": 35,
+			"fire_rate": 75,
+			"damage": 22
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"aerospray_mg": {
@@ -89,6 +104,11 @@
 		"unlocked_rank": 6,
 		"cost": 4900,
 		"ink_consumption": 0.0055,
+		"status": {
+			"range": 35,
+			"fire_rate": 90,
+			"damage": 10
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"aerospray_rg": {
@@ -112,6 +132,11 @@
 		"unlocked_rank": 28,
 		"cost": 16900,
 		"ink_consumption": 0.0055,
+		"status": {
+			"range": 35,
+			"fire_rate": 90,
+			"damage": 10
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splattershot": {
@@ -135,6 +160,11 @@
 		"unlocked_rank": 2,
 		"cost": 900,
 		"ink_consumption": 0.01,
+		"status": {
+			"range": 50,
+			"fire_rate": 60,
+			"damage": 45
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splattershot_tentatek": {
@@ -158,6 +188,11 @@
 		"unlocked_rank": 4,
 		"cost": 2100,
 		"ink_consumption": 0.01,
+		"status": {
+			"range": 50,
+			"fire_rate": 60,
+			"damage": 45
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_shot": {
@@ -181,6 +216,11 @@
 		"unlocked_rank": 2,
 		"cost": 1500,
 		"ink_consumption": 0.01,
+		"status": {
+			"range": 50,
+			"fire_rate": 60,
+			"damage": 45
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"gal52": {
@@ -204,6 +244,11 @@
 		"unlocked_rank": 14,
 		"cost": 9500,
 		"ink_consumption": 0.013,
+		"status": {
+			"range": 50,
+			"fire_rate": 25,
+			"damage": 75
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"nzap85": {
@@ -227,6 +272,11 @@
 		"unlocked_rank": 9,
 		"cost": 7100,
 		"ink_consumption": 0.008,
+		"status": {
+			"range": 50,
+			"fire_rate": 75,
+			"damage": 22
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splattershot_pro": {
@@ -250,6 +300,11 @@
 		"unlocked_rank": 10,
 		"cost": 13800,
 		"ink_consumption": 0.02,
+		"status": {
+			"range": 70,
+			"fire_rate": 30,
+			"damage": 60
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splattershot_pro_forge": {
@@ -273,6 +328,11 @@
 		"unlocked_rank": 20,
 		"cost": 20800,
 		"ink_consumption": 0.02,
+		"status": {
+			"range": 70,
+			"fire_rate": 30,
+			"damage": 60
+		},
 		"released_at": "2017-09-02T02:00:00Z"
 	},
 	"gal96": {
@@ -296,6 +356,11 @@
 		"unlocked_rank": 21,
 		"cost": 12600,
 		"ink_consumption": 0.025,
+		"status": {
+			"range": 70,
+			"fire_rate": 10,
+			"damage": 75
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"jet_squelcher": {
@@ -319,6 +384,11 @@
 		"unlocked_rank": 17,
 		"cost": 11300,
 		"ink_consumption": 0.016,
+		"status": {
+			"range": 82,
+			"fire_rate": 30,
+			"damage": 35
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"luna_blaster": {
@@ -342,6 +412,11 @@
 		"unlocked_rank": 19,
 		"cost": 12100,
 		"ink_consumption": 0.09,
+		"status": {
+			"range": 9,
+			"fire_rate": 30,
+			"impact": 70
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"blaster": {
@@ -365,6 +440,11 @@
 		"unlocked_rank": 5,
 		"cost": 3000,
 		"ink_consumption": 0.1,
+		"status": {
+			"range": 27,
+			"fire_rate": 20,
+			"impact": 70
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"blaster_custom": {
@@ -388,6 +468,11 @@
 		"unlocked_rank": 27,
 		"cost": 15300,
 		"ink_consumption": 0.1,
+		"status": {
+			"range": 27,
+			"fire_rate": 20,
+			"impact": 70
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_blaster": {
@@ -411,6 +496,11 @@
 		"unlocked_rank": 5,
 		"cost": 3800,
 		"ink_consumption": 0.1,
+		"status": {
+			"range": 27,
+			"fire_rate": 20,
+			"impact": 70
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"clash_blaster": {
@@ -434,6 +524,11 @@
 		"unlocked_rank": 30,
 		"cost": 18200,
 		"ink_consumption": 0.04,
+		"status": {
+			"range": 21,
+			"fire_rate": 65,
+			"impact": 20
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"rapid_blaster": {
@@ -457,6 +552,11 @@
 		"unlocked_rank": 13,
 		"cost": 9800,
 		"ink_consumption": 0.07,
+		"status": {
+			"range": 62,
+			"fire_rate": 40,
+			"impact": 35
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"l3_nozzlenose": {
@@ -480,6 +580,11 @@
 		"unlocked_rank": 18,
 		"cost": 10400,
 		"ink_consumption": 0.01,
+		"status": {
+			"range": 62,
+			"fire_rate": 65,
+			"damage": 25
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"h3_nozzlenose": {
@@ -503,6 +608,11 @@
 		"unlocked_rank": 29,
 		"cost": 17200,
 		"ink_consumption": 0.018,
+		"status": {
+			"range": 70,
+			"fire_rate": 30,
+			"damage": 58
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -528,6 +638,11 @@
 		"cost": 6200,
 		"ink_consumption": 0.045,
 		"ink_consumption_per_vertical_swing": 0.045,
+		"status": {
+			"range": 20,
+			"ink_speed": 63,
+			"handling": 65
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_roller": {
@@ -552,6 +667,11 @@
 		"cost": 1800,
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
+		"status": {
+			"range": 48,
+			"ink_speed": 45,
+			"handling": 55
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_roller_krakon": {
@@ -576,6 +696,11 @@
 		"cost": 9200,
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
+		"status": {
+			"range": 48,
+			"ink_speed": 45,
+			"handling": 55
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_roller": {
@@ -600,6 +725,11 @@
 		"cost": 2300,
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
+		"status": {
+			"range": 48,
+			"ink_speed": 45,
+			"handling": 55
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"dynamo_roller": {
@@ -624,6 +754,11 @@
 		"cost": 24500,
 		"ink_consumption": 0.18,
 		"ink_consumption_per_vertical_swing": 0.18,
+		"status": {
+			"range": 76,
+			"ink_speed": 25,
+			"handling": 20
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"flingza_roller": {
@@ -648,6 +783,11 @@
 		"cost": 15700,
 		"ink_consumption": 0.08,
 		"ink_consumption_per_vertical_swing": 0.12,
+		"status": {
+			"range": 55,
+			"ink_speed": 45,
+			"handling": 45
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"inkbrush": {
@@ -671,6 +811,11 @@
 		"unlocked_rank": 5,
 		"cost": 2600,
 		"ink_consumption": 0.02,
+		"status": {
+			"range": 5,
+			"ink_speed": 100,
+			"handling": 100
+		},
 		"released_at": "2017-07-22T02:00:00Z"
 	},
 	"octobrush": {
@@ -694,6 +839,11 @@
 		"unlocked_rank": 10,
 		"cost": 8200,
 		"ink_consumption": 0.032,
+		"status": {
+			"range": 23,
+			"ink_speed": 80,
+			"handling": 85
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"herobrush": {
@@ -717,6 +867,11 @@
 		"unlocked_rank": 10,
 		"cost": 9400,
 		"ink_consumption": 0.032,
+		"status": {
+			"range": 23,
+			"ink_speed": 80,
+			"handling": 85
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -741,6 +896,11 @@
 		"unlocked_rank": 12,
 		"cost": 8900,
 		"ink_consumption": 0.105,
+		"status": {
+			"range": 75,
+			"charge_speed": 70,
+			"mobility": 60
+		},
 		"released_at": "2017-08-19T02:00:00Z"
 	},
 	"splat_charger": {
@@ -764,6 +924,11 @@
 		"unlocked_rank": 3,
 		"cost": 2200,
 		"ink_consumption": 0.18,
+		"status": {
+			"range": 88,
+			"charge_speed": 50,
+			"mobility": 40
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_charger_firefin": {
@@ -787,6 +952,11 @@
 		"unlocked_rank": 16,
 		"cost": 10600,
 		"ink_consumption": 0.18,
+		"status": {
+			"range": 88,
+			"charge_speed": 50,
+			"mobility": 40
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_charger": {
@@ -810,6 +980,11 @@
 		"unlocked_rank": 3,
 		"cost": 2700,
 		"ink_consumption": 0.18,
+		"status": {
+			"range": 88,
+			"charge_speed": 50,
+			"mobility": 40
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splatterscope": {
@@ -833,6 +1008,11 @@
 		"unlocked_rank": 15,
 		"cost": 11400,
 		"ink_consumption": 0.18,
+		"status": {
+			"range": 91,
+			"charge_speed": 50,
+			"mobility": 30
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splatterscope_firefin": {
@@ -856,6 +1036,11 @@
 		"unlocked_rank": 25,
 		"cost": 13900,
 		"ink_consumption": 0.18,
+		"status": {
+			"range": 91,
+			"charge_speed": 50,
+			"mobility": 30
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"eliter_4k": {
@@ -879,6 +1064,11 @@
 		"unlocked_rank": 20,
 		"cost": 13900,
 		"ink_consumption": 0.25,
+		"status": {
+			"range": 96,
+			"charge_speed": 20,
+			"mobility": 15
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"eliter_4k_scope": {
@@ -902,6 +1092,11 @@
 		"unlocked_rank": 30,
 		"cost": 23200,
 		"ink_consumption": 0.25,
+		"status": {
+			"range": 100,
+			"charge_speed": 20,
+			"mobility": 5
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"goo_tuber": {
@@ -925,6 +1120,11 @@
 		"unlocked_rank": 22,
 		"cost": 13400,
 		"ink_consumption": 0.15,
+		"status": {
+			"range": 78,
+			"charge_speed": 30,
+			"mobility": 70
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -949,6 +1149,11 @@
 		"unlocked_rank": 5,
 		"cost": 2500,
 		"ink_consumption": 0.07,
+		"status": {
+			"range": 58,
+			"damage": 85,
+			"handling": 50
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_slosher": {
@@ -972,6 +1177,11 @@
 		"unlocked_rank": 5,
 		"cost": 3100,
 		"ink_consumption": 0.07,
+		"status": {
+			"range": 58,
+			"damage": 85,
+			"handling": 50
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"tri_slosher": {
@@ -995,6 +1205,11 @@
 		"unlocked_rank": 15,
 		"cost": 10200,
 		"ink_consumption": 0.06,
+		"status": {
+			"range": 39,
+			"damage": 80,
+			"handling": 70
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"sloshing_machine": {
@@ -1018,6 +1233,11 @@
 		"unlocked_rank": 13,
 		"cost": 12600,
 		"ink_consumption": 0.07,
+		"status": {
+			"range": 60,
+			"damage": 90,
+			"handling": 40
+		},
 		"released_at": "2017-08-26T02:00:00Z"
 	},
 
@@ -1042,6 +1262,11 @@
 		"unlocked_rank": 23,
 		"cost": 12300,
 		"ink_consumption": 0.15,
+		"status": {
+			"range": 62,
+			"charge_speed": 80,
+			"mobility": 90
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"heavy_splatling": {
@@ -1065,6 +1290,11 @@
 		"unlocked_rank": 8,
 		"cost": 7800,
 		"ink_consumption": 0.225,
+		"status": {
+			"range": 78,
+			"charge_speed": 38,
+			"mobility": 50
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_splatling": {
@@ -1088,6 +1318,11 @@
 		"unlocked_rank": 8,
 		"cost": 8600,
 		"ink_consumption": 0.225,
+		"status": {
+			"range": 78,
+			"charge_speed": 38,
+			"mobility": 50
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 
@@ -1112,6 +1347,11 @@
 		"unlocked_rank": 26,
 		"cost": 14700,
 		"ink_consumption": 0.009,
+		"status": {
+			"range": 24,
+			"mobility": 80,
+			"damage": 47
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_dualies": {
@@ -1135,6 +1375,11 @@
 		"unlocked_rank": 4,
 		"cost": 2400,
 		"ink_consumption": 0.008,
+		"status": {
+			"range": 50,
+			"mobility": 70,
+			"damage": 22
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"splat_dualies_enperry": {
@@ -1158,6 +1403,11 @@
 		"unlocked_rank": 11,
 		"cost": 9000,
 		"ink_consumption": 0.008,
+		"status": {
+			"range": 50,
+			"mobility": 70,
+			"damage": 22
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"hero_dualies": {
@@ -1181,6 +1431,11 @@
 		"unlocked_rank": 4,
 		"cost": 3100,
 		"ink_consumption": 0.008,
+		"status": {
+			"range": 50,
+			"mobility": 70,
+			"damage": 22
+		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
 	"dualie_squelchers": {
@@ -1204,6 +1459,11 @@
 		"unlocked_rank": 12,
 		"cost": 9800,
 		"ink_consumption": 0.01,
+		"status": {
+			"range": 70,
+			"mobility": 60,
+			"damage": 22
+		},
 		"released_at": "2017-07-29T02:00:00Z"
 	},
 
@@ -1228,6 +1488,11 @@
 		"unlocked_rank": 9,
 		"cost": 8300,
 		"ink_consumption": 0.05,
+		"status": {
+			"range": 43,
+			"durability": 60,
+			"damage": 65
+		},
 		"released_at": "2017-08-12T02:00:00Z"
 	},
 	"hero_brella": {
@@ -1251,6 +1516,11 @@
 		"unlocked_rank": 9,
 		"cost": 9000,
 		"ink_consumption": 0.05,
+		"status": {
+			"range": 43,
+			"durability": 60,
+			"damage": 65
+		},
 		"released_at": "2017-08-12T02:00:00Z"
 	}
 }
