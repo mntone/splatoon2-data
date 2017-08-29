@@ -14,6 +14,7 @@
 			"ru": "Плюхотрон"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "curling_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -42,6 +43,7 @@
 			"ru": "Каплестрел-У"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "ink_armor",
 		"special_points": 180,
@@ -70,6 +72,7 @@
 			"ru": "Плюхомет"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "toxic_mist",
 		"special_key": "inkjet",
 		"special_points": 180,
@@ -98,6 +101,7 @@
 			"ru": "Аэроспрей"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "bomb_launcher_curling",
 		"special_points": 170,
@@ -126,6 +130,7 @@
 			"ru": "Аэроспрей ДЕЛЮКС"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "sprinkler",
 		"special_key": "baller",
 		"special_points": 180,
@@ -154,6 +159,7 @@
 			"ru": "Каплестрел"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "burst_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -182,6 +188,7 @@
 			"ru": "Каплестрел «Щуччи»"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "inkjet",
 		"special_points": 210,
@@ -210,6 +217,7 @@
 			"ru": "Каплестрел-004 (клон)"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "burst_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -238,6 +246,7 @@
 			"ru": "Струевик .52"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "baller",
 		"special_points": 180,
@@ -266,6 +275,7 @@
 			"ru": "N-ZAP 85"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "ink_armor",
 		"special_points": 200,
@@ -294,6 +304,7 @@
 			"ru": "Каплестрел ПРО"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "ink_storm",
 		"special_points": 180,
@@ -322,6 +333,7 @@
 			"ru": "Каплестрел ПРО «Блиц»"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "suction_bomb",
 		"special_key": "bubble_blower",
 		"special_points": 180,
@@ -350,6 +362,7 @@
 			"ru": "Струевик .96"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "sprinkler",
 		"special_key": "ink_armor",
 		"special_points": 210,
@@ -378,6 +391,7 @@
 			"ru": "Плескарь"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "toxic_mist",
 		"special_key": "tenta_missiles",
 		"special_points": 180,
@@ -406,6 +420,7 @@
 			"ru": "Лунобластер"
 		},
 		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "splat_bomb",
 		"special_key": "baller",
 		"special_points": 180,
@@ -434,6 +449,7 @@
 			"ru": "Бластер"
 		},
 		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "toxic_mist",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -462,6 +478,7 @@
 			"ru": "Бластер «Понт»"
 		},
 		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "autobomb",
 		"special_key": "inkjet",
 		"special_points": 180,
@@ -490,6 +507,7 @@
 			"ru": "Бластер-004 (клон)"
 		},
 		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "toxic_mist",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -518,6 +536,7 @@
 			"ru": "Контрабластер"
 		},
 		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "splat_bomb",
 		"special_key": "sting_ray",
 		"special_points": 170,
@@ -546,6 +565,7 @@
 			"ru": "Бластермат"
 		},
 		"type_key": "shooter",
+		"subtype_key": "blaster",
 		"sub_key": "ink_mine",
 		"special_key": "bomb_launcher_splat",
 		"special_points": 180,
@@ -574,6 +594,7 @@
 			"ru": "Каплетрон-компакт"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "curling_bomb",
 		"special_key": "baller",
 		"special_points": 180,
@@ -602,6 +623,7 @@
 			"ru": "Тяжелый каплетрон"
 		},
 		"type_key": "shooter",
+		"subtype_key": "shooter",
 		"sub_key": "point_sensor",
 		"special_key": "tenta_missiles",
 		"special_points": 180,
@@ -631,6 +653,7 @@
 			"ru": "Валик ЛАЙТ"
 		},
 		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "autobomb",
 		"special_key": "ink_storm",
 		"special_points": 180,
@@ -660,6 +683,7 @@
 			"ru": "Сплат-валик"
 		},
 		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "curling_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -689,6 +713,7 @@
 			"ru": "Сплат-валик «Кра-Кен»"
 		},
 		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "squid_beakon",
 		"special_key": "baller",
 		"special_points": 180,
@@ -718,6 +743,7 @@
 			"ru": "Валик-004 (клон)"
 		},
 		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "curling_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -747,6 +773,7 @@
 			"ru": "Мотовалик"
 		},
 		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "ink_mine",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -776,6 +803,7 @@
 			"ru": "Омнивалик"
 		},
 		"type_key": "roller",
+		"subtype_key": "roller",
 		"sub_key": "splash_wall",
 		"special_key": "bomb_launcher_splat",
 		"special_points": 180,
@@ -805,6 +833,7 @@
 			"ru": "Кисть"
 		},
 		"type_key": "roller",
+		"subtype_key": "brush",
 		"sub_key": "splat_bomb",
 		"special_key": "splashdown",
 		"special_points": 170,
@@ -833,6 +862,7 @@
 			"ru": "Арт-кисть"
 		},
 		"type_key": "roller",
+		"subtype_key": "brush",
 		"sub_key": "autobomb",
 		"special_key": "inkjet",
 		"special_points": 180,
@@ -861,6 +891,7 @@
 			"ru": "Кисть-004 (клон)"
 		},
 		"type_key": "roller",
+		"subtype_key": "brush",
 		"sub_key": "autobomb",
 		"special_key": "inkjet",
 		"special_points": 180,
@@ -890,6 +921,7 @@
 			"ru": "Стиратель"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "point_sensor",
 		"special_key": "ink_armor",
 		"special_points": 180,
@@ -918,6 +950,7 @@
 			"ru": "Сплатган"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -946,6 +979,7 @@
 			"ru": "Сплатган «Фритюр»"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splash_wall",
 		"special_key": "bomb_launcher_suction",
 		"special_points": 190,
@@ -974,6 +1008,7 @@
 			"ru": "Сплатган-004 (клон)"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -1002,6 +1037,7 @@
 			"ru": "Снайпокрас"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splat_bomb",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -1030,6 +1066,7 @@
 			"ru": "Снайпокрас «Фритюр»"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "splash_wall",
 		"special_key": "bomb_launcher_suction",
 		"special_points": 190,
@@ -1058,6 +1095,7 @@
 			"ru": "Э-литр 95"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "ink_mine",
 		"special_key": "ink_storm",
 		"special_points": 190,
@@ -1086,6 +1124,7 @@
 			"ru": "Снайп-э-литр 95"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "ink_mine",
 		"special_key": "ink_storm",
 		"special_points": 190,
@@ -1114,6 +1153,7 @@
 			"ru": "Трубастер"
 		},
 		"type_key": "charger",
+		"subtype_key": "charger",
 		"sub_key": "suction_bomb",
 		"special_key": "splashdown",
 		"special_points": 180,
@@ -1143,6 +1183,7 @@
 			"ru": "Ведроган"
 		},
 		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "suction_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -1171,6 +1212,7 @@
 			"ru": "Ведроган-004 (клон)"
 		},
 		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "suction_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -1199,6 +1241,7 @@
 			"ru": "Ведроган 3 в 1"
 		},
 		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "burst_bomb",
 		"special_key": "ink_armor",
 		"special_points": 210,
@@ -1227,6 +1270,7 @@
 			"ru": "Центрифугер"
 		},
 		"type_key": "slosher",
+		"subtype_key": "slosher",
 		"sub_key": "autobomb",
 		"special_key": "sting_ray",
 		"special_points": 170,
@@ -1256,6 +1300,7 @@
 			"ru": "Брызгомет-М"
 		},
 		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "burst_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -1284,6 +1329,7 @@
 			"ru": "Брызгомет XL"
 		},
 		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "sprinkler",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -1312,6 +1358,7 @@
 			"ru": "Брызгомет-004 (клон)"
 		},
 		"type_key": "splatling",
+		"subtype_key": "splatling",
 		"sub_key": "sprinkler",
 		"special_key": "sting_ray",
 		"special_points": 180,
@@ -1341,6 +1388,7 @@
 			"ru": "Импрессиометы"
 		},
 		"type_key": "dualies",
+		"subtype_key": "dualies",
 		"sub_key": "squid_beakon",
 		"special_key": "bomb_launcher_suction",
 		"special_points": 180,
@@ -1369,6 +1417,7 @@
 			"ru": "Спуртометы"
 		},
 		"type_key": "dualies",
+		"subtype_key": "dualies",
 		"sub_key": "burst_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -1397,6 +1446,7 @@
 			"ru": "Спуртометы «К.К.»"
 		},
 		"type_key": "dualies",
+		"subtype_key": "dualies",
 		"sub_key": "curling_bomb",
 		"special_key": "inkjet",
 		"special_points": 200,
@@ -1425,6 +1475,7 @@
 			"ru": "Спуртометы-004 (клон)"
 		},
 		"type_key": "dualies",
+		"subtype_key": "dualies",
 		"sub_key": "burst_bomb",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -1453,6 +1504,7 @@
 			"ru": "Спурт-плескари"
 		},
 		"type_key": "dualies",
+		"subtype_key": "dualies",
 		"sub_key": "point_sensor",
 		"special_key": "tenta_missiles",
 		"special_points": 190,
@@ -1482,6 +1534,7 @@
 			"ru": "Сплат-зонт"
 		},
 		"type_key": "brella",
+		"subtype_key": "brella",
 		"sub_key": "sprinkler",
 		"special_key": "ink_storm",
 		"special_points": 170,
@@ -1510,6 +1563,7 @@
 			"ru": "Зонтган-004 (клон)"
 		},
 		"type_key": "brella",
+		"subtype_key": "brella",
 		"sub_key": "sprinkler",
 		"special_key": "ink_storm",
 		"special_points": 170,
