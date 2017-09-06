@@ -594,7 +594,7 @@
 			"ru": "Каплетрон-компакт"
 		},
 		"type_key": "shooter",
-		"subtype_key": "shooter",
+		"subtype_key": "nozzlenose",
 		"sub_key": "curling_bomb",
 		"special_key": "baller",
 		"special_points": 180,
@@ -623,7 +623,7 @@
 			"ru": "Тяжелый каплетрон"
 		},
 		"type_key": "shooter",
-		"subtype_key": "shooter",
+		"subtype_key": "nozzlenose",
 		"sub_key": "point_sensor",
 		"special_key": "tenta_missiles",
 		"special_points": 180,

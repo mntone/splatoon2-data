@@ -53,6 +53,33 @@
 			"ru": "Бластеы"
 		}
 	},
+	"nozzlenose": {
+		"key": "nozzlenose",
+		"localization": {
+			"de": "Tintenwerfer",
+			"en": "Nozzlenose",
+			"es-419": "Manguera",
+			"es-es": "Tintambor",
+			"fr-ca": "Arroseur",
+			"fr-fr": "Arroseur",
+			"it": "Arma a triplete",
+			"ja": "リールガン",
+			"nl": "Langsnuits",
+			"ru": "Каплетрон"
+		},
+		"plural": {
+			"de": "Tintenwerfern",
+			"en": "Nozzlenoses",
+			"es-419": "Mangueras",
+			"es-es": "Tintambores",
+			"fr-ca": "Arroseur",
+			"fr-fr": "Arroseurs",
+			"it": "Armi a triplete",
+			"ja": "リールガン",
+			"nl": "Langsnuits",
+			"ru": "Каплетроны"
+		}
+	},
 	"roller": {
 		"key": "roller",
 		"localization": {
