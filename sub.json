@@ -157,7 +157,7 @@
 			"nl": "Inktsprinkler",
 			"ru": "Распылятор"
 		},
-		"ink_consumption": 0.8
+		"ink_consumption": 0.7
 	},
 	"squid_beakon": {
 		"key": "squid_beakon",
@@ -173,6 +173,6 @@
 			"nl": "Springschotel",
 			"ru": "Прыжковый маячок"
 		},
-		"ink_consumption": 0.9
+		"ink_consumption": 0.75
 	}
 }
