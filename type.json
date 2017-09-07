@@ -112,8 +112,8 @@
 		"localization": {
 			"de": "",
 			"en": "Brush",
-			"es-419": "",
-			"es-es": "",
+			"es-419": "Pincel",
+			"es-es": "Pincel",
 			"fr-ca": "Pinceau",
 			"fr-fr": "Pinceau",
 			"it": "Pennello",
@@ -124,8 +124,8 @@
 		"plural": {
 			"de": "",
 			"en": "Brushes",
-			"es-419": "",
-			"es-es": "",
+			"es-419": "Pinceles",
+			"es-es": "Pinceles",
 			"fr-ca": "Pinceaux",
 			"fr-fr": "Pinceaux",
 			"it": "Pennelli",
