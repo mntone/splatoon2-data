@@ -57,6 +57,35 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"splattershot_jr_custom": {
+		"key": "splattershot_jr_custom",
+		"localization": {
+			"de": "Junior-Kleckser Plus",
+			"en": "Custom Splattershot Jr.",
+			"es-419": "Rociador básico adaptado",
+			"es-es": "Lanzatintas novato B",
+			"fr-ca": "Liquéficateur ultra modifié",
+			"fr-fr": "Liquidateur Sr.",
+			"it": "Sparacolore logo",
+			"ja": "もみじシューター",
+			"nl": "Gemodde Superspetter jr.",
+			"ru": "Каплестрел-У 2.0"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "autobomb",
+		"special_key": "ink_storm",
+		"special_points": 180,
+		"unlocked_rank": 4,
+		"cost": 1900,
+		"ink_consumption": 0.005,
+		"status": {
+			"range": 25,
+			"fire_rate": 75,
+			"damage": 22
+		},
+		"released_at": "2017-09-09T02:00:00Z"
+	},
 	"splash_o_matic": {
 		"key": "splash_o_matic",
 		"localization": {
