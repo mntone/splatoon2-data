@@ -310,7 +310,7 @@
 		"special_points": 190,
 		"unlocked_rank": 9,
 		"cost": 7100,
-		"ink_consumption": 0.008,
+		"ink_consumption": 0.0085,
 		"status": {
 			"range": 50,
 			"fire_rate": 75,
