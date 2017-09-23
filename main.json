@@ -626,7 +626,7 @@
 		"subtype_key": "blaster",
 		"sub_key": "toxic_mist",
 		"special_key": "ink_storm",
-		"special_points": 170,
+		"special_points": 180,
 		"unlocked_rank": 22,
 		"cost": 12800,
 		"ink_consumption": 0.1,
