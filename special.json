@@ -78,7 +78,7 @@
 		"key": "bomb_launcher_splat",
 		"localization": {
 			"de": "Klecks-Bomber",
-			"en": "Splat Bomb Launcher",
+			"en": "Splat-Bomb Launcher",
 			"es-419": "Plasbombardeo",
 			"es-es": "Ráfaga básica",
 			"fr-ca": "Lance-bombes splash",
@@ -93,7 +93,7 @@
 		"key": "bomb_launcher_suction",
 		"localization": {
 			"de": "Haftbomber",
-			"en": "Suction Bomb Launcher",
+			"en": "Suction-Bomb Launcher",
 			"es-419": "Bombardeo pegajoso",
 			"es-es": "Ráfaga ventosa",
 			"fr-ca": "Lance-bombes gluantes",
@@ -123,7 +123,7 @@
 		"key": "bomb_launcher_curling",
 		"localization": {
 			"de": "Curling-Bomber",
-			"en": "Curling Bomb Launcher",
+			"en": "Curling-Bomb Launcher",
 			"es-419": "Bombardeo deslizante",
 			"es-es": "Ráfaga deslizante",
 			"fr-ca": "Lance-bombes curling",
