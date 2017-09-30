@@ -1669,9 +1669,9 @@
 		"localization": {
 			"de": "Camp-Pluviator",
 			"en": "Tenta Brella",
-			"es-419": "Paratintas maxi",
+			"es-419": "Paratintas forestal",
 			"es-es": "Paratintas maxi",
-			"fr-ca": "Para-encre XL",
+			"fr-ca": "Méga para-encre",
 			"fr-fr": "Para-encre XL",
 			"it": "Sparatenda",
 			"ja": "キャンピングシェルター",
@@ -1683,13 +1683,13 @@
 		"sub_key": "squid_beakon",
 		"special_key": "bubble_blower",
 		"special_points": 180,
-		"unlocked_rank": 0,
-		"cost": 0,
-		"ink_consumption": 0.06,
+		"unlocked_rank": 23,
+		"cost": 14200,
+		"ink_consumption": 0.1,
 		"status": {
-			"range": 43,
-			"durability": 60,
-			"damage": 65
+			"range": 62,
+			"durability": 85,
+			"damage": 85
 		},
 		"released_at": "2017-09-30T02:00:00Z"
 	},
