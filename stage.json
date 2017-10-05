@@ -152,6 +152,23 @@
 		},
 		"released_at": "2017-07-26T02:00:00Z"
 	},
+	"snapper_canal": {
+		"id": -1,
+		"key": "snapper_canal",
+		"localization": {
+			"de": "Grätenkanal",
+			"en": "Snapper Canal",
+			"es-419": "Canal Cormorán",
+			"es-es": "Canal Cormorán",
+			"fr-ca": "Canalamar",
+			"fr-fr": "Canalamar",
+			"it": "Canale Cannolicchio",
+			"ja": "エンガワ河川敷",
+			"nl": "Moeraalkanaal",
+			"ru": "Подмостовье"
+		},
+		"released_at": "2017-10-06T14:00:00Z"
+	},
 	"kelp_dome": {
 		"id": 10,
 		"key": "kelp_dome",
