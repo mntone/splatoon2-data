@@ -1196,6 +1196,35 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"bamboozler14_mk1": {
+		"key": "bamboozler14_mk1",
+		"localization": {
+			"de": "Klotzer 14-A",
+			"en": "Bamboozler 14 Mk I",
+			"es-419": "Bamzuka 14-I",
+			"es-es": "Bambufusil 14-I",
+			"fr-ca": "Bimbamboum Mk I",
+			"fr-fr": "Bimbamboum Mk I",
+			"it": "Bimbamboom 14-I",
+			"ja": "14式竹筒銃・甲",
+			"nl": "Bamboem 14-A",
+			"ru": "Бамбух 14-I"
+		},
+		"type_key": "charger",
+		"subtype_key": "charger",
+		"sub_key": "curling_bomb",
+		"special_key": "tenta_missiles",
+		"special_points": 180,
+		"unlocked_rank": 18,
+		"cost": 9500,
+		"ink_consumption": 0,
+		"status": {
+			"range": 78,
+			"charge_speed": 90,
+			"mobility": 80
+		},
+		"released_at": "2017-10-07T02:00:00Z"
+	},
 	"goo_tuber": {
 		"key": "goo_tuber",
 		"localization": {
