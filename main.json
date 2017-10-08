@@ -1217,7 +1217,7 @@
 		"special_points": 180,
 		"unlocked_rank": 18,
 		"cost": 9500,
-		"ink_consumption": 0,
+		"ink_consumption": 0.07,
 		"status": {
 			"range": 78,
 			"charge_speed": 90,
