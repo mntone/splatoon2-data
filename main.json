@@ -20,6 +20,7 @@
 		"special_points": 170,
 		"unlocked_rank": 10,
 		"cost": 9700,
+		"weight": "light",
 		"ink_consumption": 0.008,
 		"status": {
 			"range": 12,
@@ -49,6 +50,7 @@
 		"special_points": 180,
 		"unlocked_rank": 0,
 		"cost": 0,
+		"weight": "light",
 		"ink_consumption": 0.005,
 		"status": {
 			"range": 25,
@@ -78,6 +80,7 @@
 		"special_points": 190,
 		"unlocked_rank": 4,
 		"cost": 1900,
+		"weight": "light",
 		"ink_consumption": 0.005,
 		"status": {
 			"range": 25,
@@ -107,6 +110,7 @@
 		"special_points": 170,
 		"unlocked_rank": 25,
 		"cost": 11200,
+		"weight": "medium",
 		"ink_consumption": 0.008,
 		"status": {
 			"range": 35,
@@ -136,6 +140,7 @@
 		"special_points": 160,
 		"unlocked_rank": 6,
 		"cost": 4900,
+		"weight": "light",
 		"ink_consumption": 0.0055,
 		"status": {
 			"range": 35,
@@ -165,6 +170,7 @@
 		"special_points": 170,
 		"unlocked_rank": 28,
 		"cost": 16900,
+		"weight": "light",
 		"ink_consumption": 0.0055,
 		"status": {
 			"range": 35,
@@ -194,6 +200,7 @@
 		"special_points": 190,
 		"unlocked_rank": 2,
 		"cost": 900,
+		"weight": "medium",
 		"ink_consumption": 0.01,
 		"status": {
 			"range": 50,
@@ -223,6 +230,7 @@
 		"special_points": 230,
 		"unlocked_rank": 4,
 		"cost": 2100,
+		"weight": "medium",
 		"ink_consumption": 0.01,
 		"status": {
 			"range": 50,
@@ -252,6 +260,7 @@
 		"special_points": 190,
 		"unlocked_rank": 2,
 		"cost": 1500,
+		"weight": "medium",
 		"ink_consumption": 0.01,
 		"status": {
 			"range": 50,
@@ -281,6 +290,7 @@
 		"special_points": 190,
 		"unlocked_rank": 14,
 		"cost": 9500,
+		"weight": "medium",
 		"ink_consumption": 0.013,
 		"status": {
 			"range": 50,
@@ -310,6 +320,7 @@
 		"special_points": 190,
 		"unlocked_rank": 9,
 		"cost": 7100,
+		"weight": "light",
 		"ink_consumption": 0.008,
 		"status": {
 			"range": 50,
@@ -339,6 +350,7 @@
 		"special_points": 170,
 		"unlocked_rank": 10,
 		"cost": 13800,
+		"weight": "medium",
 		"ink_consumption": 0.02,
 		"status": {
 			"range": 70,
@@ -368,6 +380,7 @@
 		"special_points": 180,
 		"unlocked_rank": 20,
 		"cost": 20800,
+		"weight": "medium",
 		"ink_consumption": 0.02,
 		"status": {
 			"range": 70,
@@ -397,6 +410,7 @@
 		"special_points": 200,
 		"unlocked_rank": 21,
 		"cost": 12600,
+		"weight": "medium",
 		"ink_consumption": 0.025,
 		"status": {
 			"range": 70,
@@ -426,6 +440,7 @@
 		"special_points": 180,
 		"unlocked_rank": 17,
 		"cost": 11300,
+		"weight": "medium",
 		"ink_consumption": 0.016,
 		"status": {
 			"range": 82,
@@ -455,6 +470,7 @@
 		"special_points": 180,
 		"unlocked_rank": 19,
 		"cost": 12100,
+		"weight": "medium",
 		"ink_consumption": 0.09,
 		"status": {
 			"range": 9,
@@ -484,6 +500,7 @@
 		"special_points": 170,
 		"unlocked_rank": 5,
 		"cost": 3000,
+		"weight": "medium",
 		"ink_consumption": 0.1,
 		"status": {
 			"range": 27,
@@ -513,6 +530,7 @@
 		"special_points": 180,
 		"unlocked_rank": 27,
 		"cost": 15300,
+		"weight": "medium",
 		"ink_consumption": 0.1,
 		"status": {
 			"range": 27,
@@ -542,6 +560,7 @@
 		"special_points": 170,
 		"unlocked_rank": 5,
 		"cost": 3800,
+		"weight": "medium",
 		"ink_consumption": 0.1,
 		"status": {
 			"range": 27,
@@ -571,6 +590,7 @@
 		"special_points": 170,
 		"unlocked_rank": 30,
 		"cost": 18200,
+		"weight": "light",
 		"ink_consumption": 0.04,
 		"status": {
 			"range": 21,
@@ -600,6 +620,7 @@
 		"special_points": 210,
 		"unlocked_rank": 13,
 		"cost": 9800,
+		"weight": "medium",
 		"ink_consumption": 0.07,
 		"status": {
 			"range": 62,
@@ -629,6 +650,7 @@
 		"special_points": 180,
 		"unlocked_rank": 22,
 		"cost": 12800,
+		"weight": "medium",
 		"ink_consumption": 0.08,
 		"status": {
 			"range": 72,
@@ -658,6 +680,7 @@
 		"special_points": 180,
 		"unlocked_rank": 18,
 		"cost": 10400,
+		"weight": "medium",
 		"ink_consumption": 0.01,
 		"status": {
 			"range": 62,
@@ -687,6 +710,7 @@
 		"special_points": 180,
 		"unlocked_rank": 29,
 		"cost": 17200,
+		"weight": "medium",
 		"ink_consumption": 0.018,
 		"status": {
 			"range": 70,
@@ -717,6 +741,7 @@
 		"special_points": 160,
 		"unlocked_rank": 7,
 		"cost": 6200,
+		"weight": "light",
 		"ink_consumption": 0.045,
 		"ink_consumption_per_vertical_swing": 0.045,
 		"status": {
@@ -747,6 +772,7 @@
 		"special_points": 170,
 		"unlocked_rank": 3,
 		"cost": 1800,
+		"weight": "medium",
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
 		"status": {
@@ -777,6 +803,7 @@
 		"special_points": 180,
 		"unlocked_rank": 12,
 		"cost": 9200,
+		"weight": "medium",
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
 		"status": {
@@ -807,6 +834,7 @@
 		"special_points": 170,
 		"unlocked_rank": 3,
 		"cost": 2300,
+		"weight": "medium",
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
 		"status": {
@@ -837,6 +865,7 @@
 		"special_points": 180,
 		"unlocked_rank": 20,
 		"cost": 24500,
+		"weight": "heavy",
 		"ink_consumption": 0.18,
 		"ink_consumption_per_vertical_swing": 0.18,
 		"status": {
@@ -867,6 +896,7 @@
 		"special_points": 180,
 		"unlocked_rank": 24,
 		"cost": 15700,
+		"weight": "medium",
 		"ink_consumption": 0.08,
 		"ink_consumption_per_vertical_swing": 0.12,
 		"status": {
@@ -897,6 +927,7 @@
 		"special_points": 160,
 		"unlocked_rank": 5,
 		"cost": 2600,
+		"weight": "light",
 		"ink_consumption": 0.02,
 		"status": {
 			"range": 5,
@@ -926,6 +957,7 @@
 		"special_points": 180,
 		"unlocked_rank": 10,
 		"cost": 8200,
+		"weight": "medium",
 		"ink_consumption": 0.032,
 		"status": {
 			"range": 23,
@@ -955,6 +987,7 @@
 		"special_points": 180,
 		"unlocked_rank": 10,
 		"cost": 9400,
+		"weight": "medium",
 		"ink_consumption": 0.032,
 		"status": {
 			"range": 23,
@@ -985,6 +1018,7 @@
 		"special_points": 180,
 		"unlocked_rank": 12,
 		"cost": 8900,
+		"weight": "medium",
 		"ink_consumption": 0.105,
 		"status": {
 			"range": 75,
@@ -1014,6 +1048,7 @@
 		"special_points": 190,
 		"unlocked_rank": 3,
 		"cost": 2200,
+		"weight": "medium",
 		"ink_consumption": 0.18,
 		"status": {
 			"range": 88,
@@ -1043,6 +1078,7 @@
 		"special_points": 190,
 		"unlocked_rank": 16,
 		"cost": 10600,
+		"weight": "medium",
 		"ink_consumption": 0.18,
 		"status": {
 			"range": 88,
@@ -1072,6 +1108,7 @@
 		"special_points": 190,
 		"unlocked_rank": 3,
 		"cost": 2700,
+		"weight": "medium",
 		"ink_consumption": 0.18,
 		"status": {
 			"range": 88,
@@ -1101,6 +1138,7 @@
 		"special_points": 190,
 		"unlocked_rank": 15,
 		"cost": 11400,
+		"weight": "medium",
 		"ink_consumption": 0.18,
 		"status": {
 			"range": 91,
@@ -1130,6 +1168,7 @@
 		"special_points": 190,
 		"unlocked_rank": 25,
 		"cost": 13900,
+		"weight": "medium",
 		"ink_consumption": 0.18,
 		"status": {
 			"range": 91,
@@ -1159,6 +1198,7 @@
 		"special_points": 170,
 		"unlocked_rank": 20,
 		"cost": 13900,
+		"weight": "heavy",
 		"ink_consumption": 0.25,
 		"status": {
 			"range": 96,
@@ -1188,6 +1228,7 @@
 		"special_points": 170,
 		"unlocked_rank": 30,
 		"cost": 23200,
+		"weight": "heavy",
 		"ink_consumption": 0.25,
 		"status": {
 			"range": 100,
@@ -1217,6 +1258,7 @@
 		"special_points": 180,
 		"unlocked_rank": 18,
 		"cost": 9500,
+		"weight": "light",
 		"ink_consumption": 0.07,
 		"status": {
 			"range": 78,
@@ -1246,6 +1288,7 @@
 		"special_points": 160,
 		"unlocked_rank": 22,
 		"cost": 13400,
+		"weight": "medium",
 		"ink_consumption": 0.15,
 		"status": {
 			"range": 78,
@@ -1276,6 +1319,7 @@
 		"special_points": 180,
 		"unlocked_rank": 5,
 		"cost": 2500,
+		"weight": "medium",
 		"ink_consumption": 0.07,
 		"status": {
 			"range": 58,
@@ -1305,6 +1349,7 @@
 		"special_points": 180,
 		"unlocked_rank": 5,
 		"cost": 3100,
+		"weight": "medium",
 		"ink_consumption": 0.07,
 		"status": {
 			"range": 58,
@@ -1334,6 +1379,7 @@
 		"special_points": 210,
 		"unlocked_rank": 15,
 		"cost": 10200,
+		"weight": "medium",
 		"ink_consumption": 0.06,
 		"status": {
 			"range": 39,
@@ -1363,6 +1409,7 @@
 		"special_points": 190,
 		"unlocked_rank": 13,
 		"cost": 12600,
+		"weight": "medium",
 		"ink_consumption": 0.07,
 		"status": {
 			"range": 60,
@@ -1393,6 +1440,7 @@
 		"special_points": 180,
 		"unlocked_rank": 23,
 		"cost": 12300,
+		"weight": "medium",
 		"ink_consumption": 0.15,
 		"status": {
 			"range": 62,
@@ -1422,6 +1470,7 @@
 		"special_points": 180,
 		"unlocked_rank": 8,
 		"cost": 7800,
+		"weight": "medium",
 		"ink_consumption": 0.225,
 		"status": {
 			"range": 78,
@@ -1451,6 +1500,7 @@
 		"special_points": 180,
 		"unlocked_rank": 12,
 		"cost": 9600,
+		"weight": "medium",
 		"ink_consumption": 0.225,
 		"status": {
 			"range": 78,
@@ -1480,6 +1530,7 @@
 		"special_points": 180,
 		"unlocked_rank": 8,
 		"cost": 8600,
+		"weight": "medium",
 		"ink_consumption": 0.225,
 		"status": {
 			"range": 78,
@@ -1510,6 +1561,7 @@
 		"special_points": 180,
 		"unlocked_rank": 26,
 		"cost": 14700,
+		"weight": "light",
 		"ink_consumption": 0.009,
 		"status": {
 			"range": 24,
@@ -1539,6 +1591,7 @@
 		"special_points": 180,
 		"unlocked_rank": 4,
 		"cost": 2400,
+		"weight": "medium",
 		"ink_consumption": 0.008,
 		"status": {
 			"range": 50,
@@ -1568,6 +1621,7 @@
 		"special_points": 180,
 		"unlocked_rank": 11,
 		"cost": 9000,
+		"weight": "medium",
 		"ink_consumption": 0.008,
 		"status": {
 			"range": 50,
@@ -1597,6 +1651,7 @@
 		"special_points": 180,
 		"unlocked_rank": 4,
 		"cost": 3100,
+		"weight": "medium",
 		"ink_consumption": 0.008,
 		"status": {
 			"range": 50,
@@ -1626,6 +1681,7 @@
 		"special_points": 190,
 		"unlocked_rank": 12,
 		"cost": 9800,
+		"weight": "medium",
 		"ink_consumption": 0.01,
 		"status": {
 			"range": 70,
@@ -1656,6 +1712,7 @@
 		"special_points": 180,
 		"unlocked_rank": 9,
 		"cost": 8300,
+		"weight": "medium",
 		"ink_consumption": 0.05,
 		"status": {
 			"range": 43,
@@ -1685,6 +1742,7 @@
 		"special_points": 180,
 		"unlocked_rank": 9,
 		"cost": 9000,
+		"weight": "medium",
 		"ink_consumption": 0.05,
 		"status": {
 			"range": 43,
@@ -1714,6 +1772,7 @@
 		"special_points": 180,
 		"unlocked_rank": 23,
 		"cost": 14200,
+		"weight": "heavy",
 		"ink_consumption": 0.1,
 		"status": {
 			"range": 62,
