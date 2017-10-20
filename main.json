@@ -569,6 +569,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"range_blaster": {
+		"key": "range_blaster",
+		"localization": {
+			"de": "Fern-Blaster",
+			"en": "Range Blaster",
+			"es-419": "Telelanzamotas",
+			"es-es": "Teledevastador",
+			"fr-ca": "Éclablasteur LP",
+			"fr-fr": "Éclablaster XL",
+			"it": "Blaster a distanza",
+			"ja": "ロングブラスター",
+			"nl": "Teleblaster",
+			"ru": "Дальнобластер"
+		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
+		"sub_key": "suction_bomb",
+		"special_key": "ink_storm",
+		"special_points": 180,
+		"unlocked_rank": 14,
+		"cost": 9300,
+		"weight": "medium",
+		"ink_consumption": 0.11,
+		"status": {
+			"range": 56,
+			"fire_rate": 10,
+			"impact": 70
+		},
+		"released_at": "2017-10-21T02:00:00Z"
+	},
 	"clash_blaster": {
 		"key": "clash_blaster",
 		"localization": {
