@@ -905,6 +905,37 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"dynamo_roller_gold": {
+		"key": "dynamo_roller_gold",
+		"localization": {
+			"de": "Dynaroller Tesla",
+			"en": "Gold Dynamo Roller",
+			"es-419": "Rodillo Pro dorado",
+			"es-es": "Dinamorrodillo T",
+			"fr-ca": "Dynamo-rouleau pro",
+			"fr-fr": "Dynamo-rouleau tesla",
+			"it": "Rullo dinamo dorato",
+			"ja": "ダイナモローラーテスラ",
+			"nl": "Gouden Dynamoroller",
+			"ru": "Мотовалик VIP"
+		},
+		"type_key": "roller",
+		"subtype_key": "roller",
+		"sub_key": "splat_bomb",
+		"special_key": "ink_armor",
+		"special_points": 180,
+		"unlocked_rank": 25,
+		"cost": 29000,
+		"weight": "heavy",
+		"ink_consumption": 0.18,
+		"ink_consumption_per_vertical_swing": 0.18,
+		"status": {
+			"range": 76,
+			"ink_speed": 25,
+			"handling": 20
+		},
+		"released_at": "2017-10-28T02:00:00Z"
+	},
 	"flingza_roller": {
 		"key": "flingza_roller",
 		"localization": {
