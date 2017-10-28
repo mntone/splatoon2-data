@@ -186,6 +186,23 @@
 		},
 		"released_at": "2017-09-16T02:00:00Z"
 	},
+	"blackbelly_skatepark": {
+		"id": 11,
+		"key": "blackbelly_skatepark",
+		"localization": {
+			"de": "Punkasius-Skatepark",
+			"en": "Blackbelly Skatepark",
+			"es-419": "Parque Lubina",
+			"es-es": "Parque Lubina",
+			"fr-ca": "Plancho Mako",
+			"fr-fr": "Skatepark Mako",
+			"it": "Pista Polposkate",
+			"ja": "Bバスパーク",
+			"nl": "Snoekduik-skatepark",
+			"ru": "Скейт-парк «Скат»"
+		},
+		"released_at": "2017-10-28T02:00:00Z"
+	},
 	"shifty_station": {
 		"id": 9999,
 		"key": "shifty_station",
