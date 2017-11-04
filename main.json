@@ -449,6 +449,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"jet_squelcher_custom": {
+		"key": "jet_squelcher_custom",
+		"localization": {
+			"de": "Platscher SE",
+			"en": "Custom Jet Squelcher",
+			"es-419": "Megasoplador adaptado",
+			"es-es": "Megabarredora SP",
+			"fr-ca": "Méganettoyeur modifié",
+			"fr-fr": "Nettoyeur XL modifié",
+			"it": "Sweeper CM",
+			"ja": "ジェットスイーパーカスタム",
+			"nl": "Gemodde Straalplonzer",
+			"ru": "Плескарь «Понт»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "burst_bomb",
+		"special_key": "sting_ray",
+		"special_points": 180,
+		"unlocked_rank": 27,
+		"cost": 15900,
+		"weight": "medium",
+		"ink_consumption": 0.016,
+		"status": {
+			"range": 82,
+			"fire_rate": 30,
+			"damage": 35
+		},
+		"released_at": "2017-11-03T02:00:00Z"
+	},
 	"luna_blaster": {
 		"key": "luna_blaster",
 		"localization": {
