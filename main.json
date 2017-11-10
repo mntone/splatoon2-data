@@ -1027,6 +1027,36 @@
 		},
 		"released_at": "2017-07-22T02:00:00Z"
 	},
+	"inkbrush_nouveau": {
+		"key": "inkbrush_nouveau",
+		"localization": {
+			"de": "Quasto Fresco",
+			"en": "Inkbrush Nouveau",
+			"es-419": "Pincel maestro",
+			"es-es": "Pincel maestro",
+			"fr-ca": "Épinceau nuancé",
+			"fr-fr": "Épinceau nuancé",
+			"it": "Calamaravaggio master",
+			"ja": "パブロ・ヒュー",
+			"nl": "Inktkwast Nouveau",
+			"ru": "Кисть «НуВо»"
+		},
+		"type_key": "roller",
+		"subtype_key": "brush",
+		"sub_key": "ink_mine",
+		"special_key": "baller",
+		"special_points": 180,
+		"unlocked_rank": 7,
+		"cost": 7000,
+		"weight": "light",
+		"ink_consumption": 0.02,
+		"status": {
+			"range": 5,
+			"ink_speed": 100,
+			"handling": 100
+		},
+		"released_at": "2017-11-11T02:00:00Z"
+	},
 	"octobrush": {
 		"key": "octobrush",
 		"localization": {
