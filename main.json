@@ -997,6 +997,37 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"flingza_roller_foil": {
+		"key": "flingza_roller_foil",
+		"localization": {
+			"de": "Flex-Roller Fol",
+			"en": "Foil Flingza Roller",
+			"es-419": "Rodillo versátil Foil",
+			"es-es": "Rodillo versátil B",
+			"fr-ca": "Flexi-rouleau aluminium",
+			"fr-fr": "Flexi-rouleau alu",
+			"it": "Flexi-rullo B",
+			"ja": "ヴァリアブルローラーフォイル",
+			"nl": "Foil Flexroller",
+			"ru": "Омнивалик «Блеск»"
+		},
+		"type_key": "roller",
+		"subtype_key": "roller",
+		"sub_key": "suction_bomb",
+		"special_key": "tenta_missiles",
+		"special_points": 180,
+		"unlocked_rank": 28,
+		"cost": 21300,
+		"weight": "medium",
+		"ink_consumption": 0.08,
+		"ink_consumption_per_vertical_swing": 0.12,
+		"status": {
+			"range": 55,
+			"ink_speed": 45,
+			"handling": 45
+		},
+		"released_at": "2020-12-31T02:00:00Z"
+	},
 	"inkbrush": {
 		"key": "inkbrush",
 		"localization": {
