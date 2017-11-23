@@ -1751,6 +1751,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"hydra_splatling": {
+		"key": "hydra_splatling",
+		"localization": {
+			"de": "Hydrant",
+			"en": "Hydra Splatling",
+			"es-419": "Garabateador HD",
+			"es-es": "Extintador",
+			"fr-ca": "Exteinteur",
+			"fr-fr": "Exteinteur",
+			"it": "Idrante",
+			"ja": "ハイドラント",
+			"nl": "Blusling",
+			"ru": "Брызгомет «Горыныч»"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "autobomb",
+		"special_key": "splashdown",
+		"special_points": 180,
+		"unlocked_rank": 27,
+		"cost": 18500,
+		"weight": "heavy",
+		"ink_consumption": 0,
+		"status": {
+			"range": 85,
+			"charge_speed": 10,
+			"mobility": 20
+		},
+		"released_at": "2017-11-25T02:00:00Z"
+	},
 
 	"dapple_dualies": {
 		"key": "dapple_dualies",
