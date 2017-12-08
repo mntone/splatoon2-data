@@ -329,6 +329,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"nzap89": {
+		"key": "nzap89",
+		"localization": {
+			"de": "N-ZAP89",
+			"en": "N-ZAP '89",
+			"es-419": "N-ZAP 89",
+			"es-es": "N-ZAP 89",
+			"fr-ca": "N-ZAP 89",
+			"fr-fr": "N-ZAP 89",
+			"it": "N-ZAP89",
+			"ja": "N-ZAP89",
+			"nl": "N-ZAP '89",
+			"ru": "N-ZAP 89"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "autobomb",
+		"special_key": "tenta_missiles",
+		"special_points": 180,
+		"unlocked_rank": 11,
+		"cost": 8800,
+		"weight": "medium",
+		"ink_consumption": 0.008,
+		"status": {
+			"range": 50,
+			"fire_rate": 75,
+			"damage": 22
+		},
+		"released_at": "2017-12-09T02:00:00Z"
+	},
 	"splattershot_pro": {
 		"key": "splattershot_pro",
 		"localization": {
