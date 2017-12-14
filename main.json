@@ -1570,6 +1570,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"slosher_deco": {
+		"key": "slosher_deco",
+		"localization": {
+			"de": "Schwapper Deko",
+			"en": "Slosher Deco",
+			"es-419": "Derramatic chic",
+			"es-es": "Derramatic DX",
+			"fr-ca": "Seauceur chic",
+			"fr-fr": "Seauceur chic",
+			"it": "Secchiostro DX",
+			"ja": "バケットスロッシャーデコ",
+			"nl": "Morser Deco",
+			"ru": "Ведроган «Деко»"
+		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
+		"sub_key": "sprinkler",
+		"special_key": "baller",
+		"special_points": 190,
+		"unlocked_rank": 8,
+		"weight": "medium",
+		"cost": 8000,
+		"ink_consumption": 0.07,
+		"status": {
+			"range": 58,
+			"damage": 85,
+			"handling": 50
+		},
+		"released_at": "2017-12-15T02:00:00Z"
+	},
 	"hero_slosher": {
 		"key": "hero_slosher",
 		"localization": {
