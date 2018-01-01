@@ -1829,11 +1829,11 @@
 		"subtype_key": "splatling",
 		"sub_key": "autobomb",
 		"special_key": "splashdown",
-		"special_points": 180,
+		"special_points": 190,
 		"unlocked_rank": 27,
 		"cost": 18500,
 		"weight": "heavy",
-		"ink_consumption": 0,
+		"ink_consumption": 0.35,
 		"status": {
 			"range": 85,
 			"charge_speed": 10,
