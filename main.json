@@ -2148,7 +2148,7 @@
 		"localization": {
 			"de": "UnderCover",
 			"en": "Undercover Brella",
-			"es-419": "Paratintas clásico",
+			"es-419": "Paratintas discreto",
 			"es-es": "Paratintas clásico",
 			"fr-ca": "Para-encre espion",
 			"fr-fr": "Para-encre espion",
@@ -2162,7 +2162,7 @@
 		"sub_key": "ink_mine",
 		"special_key": "splashdown",
 		"special_points": 160,
-		"unlocked_rank": 9,
+		"unlocked_rank": 13,
 		"cost": 9100,
 		"weight": "medium",
 		"ink_consumption": 0.04,
