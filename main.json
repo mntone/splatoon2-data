@@ -1148,6 +1148,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"octobrush_nouveau": {
+		"key": "octobrush_nouveau",
+		"localization": {
+			"de": "Kalligraf Fresco",
+			"en": "Octobrush Nouveau",
+			"es-419": "Pincel caligrafía maestro",
+			"es-es": "Brocha maestra",
+			"fr-ca": "Épinceau brosse nuancé",
+			"fr-fr": "Épinceau brosse nuancé",
+			"it": "Tinturicchio master",
+			"ja": "ホクサイ・ヒュー",
+			"nl": "Octokwast Nouveau",
+			"ru": "Арт-кисть «НуВо»"
+		},
+		"type_key": "roller",
+		"subtype_key": "brush",
+		"sub_key": "squid_beakon",
+		"special_key": "tenta_missiles",
+		"special_points": 180,
+		"unlocked_rank": 15,
+		"cost": 9900,
+		"weight": "medium",
+		"ink_consumption": 0.032,
+		"status": {
+			"range": 23,
+			"ink_speed": 80,
+			"handling": 85
+		},
+		"released_at": "2018-01-02T02:00:00Z"
+	},
 	"herobrush": {
 		"key": "herobrush",
 		"localization": {
