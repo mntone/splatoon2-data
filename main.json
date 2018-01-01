@@ -809,6 +809,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"squeezer": {
+		"key": "squeezer",
+		"localization": {
+			"de": "Quetscher",
+			"en": "Squeezer",
+			"es-419": "Tintopresor",
+			"es-es": "Tintopresor",
+			"fr-ca": "Compresseur",
+			"fr-fr": "Compresseur",
+			"it": "Strizzer",
+			"ja": "ボトルガイザー",
+			"nl": "Floeper",
+			"ru": "Бутылятор"
+		},
+		"type_key": "shooter",
+		"subtype_key": "nozzlenose",
+		"sub_key": "splash_wall",
+		"special_key": "sting_ray",
+		"special_points": 180,
+		"unlocked_rank": 16,
+		"cost": 11500,
+		"weight": "medium",
+		"ink_consumption": 0,
+		"status": {
+			"range": 70,
+			"fire_rate": 45,
+			"damage": 52
+		},
+		"released_at": "2017-12-22T02:00:00Z"
+	},
 
 	"carbon_roller": {
 		"key": "carbon_roller",
