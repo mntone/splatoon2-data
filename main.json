@@ -2112,5 +2112,35 @@
 			"damage": 85
 		},
 		"released_at": "2017-09-30T02:00:00Z"
+	},
+	"undercover_brella": {
+		"key": "splat_brella",
+		"localization": {
+			"de": "UnderCover",
+			"en": "Undercover Brella",
+			"es-419": "Paratintas clásico",
+			"es-es": "Paratintas clásico",
+			"fr-ca": "Para-encre espion",
+			"fr-fr": "Para-encre espion",
+			"it": "Bombrello",
+			"ja": "スパイガジェット",
+			"nl": "Paraplenzer",
+			"ru": "Шпионский зонт"
+		},
+		"type_key": "brella",
+		"subtype_key": "brella",
+		"sub_key": "ink_mine",
+		"special_key": "splashdown",
+		"special_points": 160,
+		"unlocked_rank": 9,
+		"cost": 9100,
+		"weight": "medium",
+		"ink_consumption": 0.04,
+		"status": {
+			"range": 50,
+			"durability": 25,
+			"damage": 30
+		},
+		"released_at": "2017-12-30T02:00:00Z"
 	}
 }
