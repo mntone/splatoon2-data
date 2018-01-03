@@ -647,7 +647,7 @@
 		"subtype_key": "blaster",
 		"sub_key": "suction_bomb",
 		"special_key": "ink_storm",
-		"special_points": 190,
+		"special_points": 200,
 		"unlocked_rank": 14,
 		"cost": 9300,
 		"weight": "medium",
