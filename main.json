@@ -347,7 +347,7 @@
 		"subtype_key": "shooter",
 		"sub_key": "autobomb",
 		"special_key": "tenta_missiles",
-		"special_points": 180,
+		"special_points": 190,
 		"unlocked_rank": 11,
 		"cost": 8800,
 		"weight": "medium",
