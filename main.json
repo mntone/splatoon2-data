@@ -779,6 +779,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"l3_nozzlenose_d": {
+		"key": "l3_nozzlenose_d",
+		"localization": {
+			"de": "L3 Tintenwerfer D",
+			"en": "L-3 Nozzlenose D",
+			"es-419": "Manguera ligera D",
+			"es-es": "Tintambor ligero D",
+			"fr-ca": "Arroseur léger requin",
+			"fr-fr": "Arroseur léger Cétacé",
+			"it": "Triplete compatto D",
+			"ja": "L3リールガンD",
+			"nl": "L-3 Stompsnuit D",
+			"ru": "Каплетрон-компакт 2.0"
+		},
+		"type_key": "shooter",
+		"subtype_key": "nozzlenose",
+		"sub_key": "burst_bomb",
+		"special_key": "inkjet",
+		"special_points": 180,
+		"unlocked_rank": 23,
+		"cost": 12500,
+		"weight": "medium",
+		"ink_consumption": 0.01,
+		"status": {
+			"range": 62,
+			"fire_rate": 65,
+			"damage": 25
+		},
+		"released_at": "2018-01-05T02:00:00Z"
+	},
 	"h3_nozzlenose": {
 		"key": "h3_nozzlenose",
 		"localization": {
