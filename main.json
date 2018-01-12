@@ -1962,6 +1962,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"dapple_dualies_nouveau": {
+		"key": "dapple_dualies_nouveau",
+		"localization": {
+			"de": "Sprenkler Fresco",
+			"en": "Dapple Dualies Nouveau",
+			"es-419": "Atomizador dual maestro",
+			"es-es": "Atomizador dual maestro",
+			"fr-ca": "Double moucheteur nuancé",
+			"fr-fr": "Double moucheteur nuancé",
+			"it": "Ripolpella duplo master",
+			"ja": "スパッタリー・ヒュー",
+			"nl": "Dubbelspatters Nouveau",
+			"ru": "Импрессиометы «НуВо»"
+		},
+		"type_key": "dualies",
+		"subtype_key": "dualies",
+		"sub_key": "toxic_mist",
+		"special_key": "ink_storm",
+		"special_points": 180,
+		"unlocked_rank": 29,
+		"cost": 17500,
+		"weight": "light",
+		"ink_consumption": 0.009,
+		"status": {
+			"range": 24,
+			"mobility": 80,
+			"damage": 47
+		},
+		"released_at": "2018-01-12T02:00:00Z"
+	},
 	"splat_dualies": {
 		"key": "splat_dualies",
 		"localization": {
