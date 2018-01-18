@@ -299,6 +299,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"gal52deco": {
+		"key": "gal52deco",
+		"localization": {
+			"de": ".52 Gallon Deko",
+			"en": ".52 Gal Deco",
+			"es-419": "Salpicadora 2000 chic",
+			"es-es": "Salpicadora 2000 DX",
+			"fr-ca": "Calibre 2000 chic",
+			"fr-fr": "Calibre 2000 chic",
+			"it": "Calibro 2000 DX",
+			"ja": ".52ガロンデコ",
+			"nl": ".52 Kaliter Deco",
+			"ru": "Струевик .52 «Деко»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "curling_bomb",
+		"special_key": "sting_ray",
+		"special_points": 180,
+		"unlocked_rank": 22,
+		"cost": 12700,
+		"weight": "medium",
+		"ink_consumption": 0.013,
+		"status": {
+			"range": 50,
+			"fire_rate": 25,
+			"damage": 75
+		},
+		"released_at": "2018-01-20T02:00:00Z"
+	},
 	"nzap85": {
 		"key": "nzap85",
 		"localization": {
