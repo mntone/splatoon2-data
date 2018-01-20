@@ -148,12 +148,12 @@
 			"it": "Manta Maria",
 			"ja": "マンタマリア号",
 			"nl": "Klipvisklipper",
-			"ru": "Манта Мария"
+			"ru": "«Манта-Мария»"
 		},
 		"released_at": "2017-07-26T02:00:00Z"
 	},
 	"snapper_canal": {
-		"id": -1,
+		"id": 9,
 		"key": "snapper_canal",
 		"localization": {
 			"de": "Grätenkanal",
@@ -202,6 +202,57 @@
 			"ru": "Скейт-парк «Скат»"
 		},
 		"released_at": "2017-10-28T02:00:00Z"
+	},
+	"shellendorf_institute": {
+		"id": 12,
+		"key": "shellendorf_institute",
+		"localization": {
+			"de": "Abyssal-Museum",
+			"en": "Shellendorf Institute",
+			"es-419": "Galería Raspa",
+			"es-es": "Galería Raspa",
+			"fr-ca": "Galerie des abysses",
+			"fr-fr": "Galerie des abysses",
+			"it": "Museo paleontonnologico",
+			"ja": "デボン海洋博物館",
+			"nl": "Vistorisch museum",
+			"ru": "Музей «Мезозой»"
+		},
+		"released_at": "2018-01-12T02:00:00Z"
+	},
+	"makomart": {
+		"id": 13,
+		"key": "makomart",
+		"localization": {
+			"de": "Cetacea-Markt",
+			"en": "MakoMart",
+			"es-419": "Ultramarinos Orca",
+			"es-es": "Ultramarinos Orca",
+			"fr-ca": "Supermarché Cétacé",
+			"fr-fr": "Supermarché Cétacé",
+			"it": "Mercatotano",
+			"ja": "ザトウマーケット",
+			"nl": "Bultrugbazaar",
+			"ru": "«Горбуша-Маркет»"
+		},
+		"released_at": "2017-11-25T02:00:00Z"
+	},
+	"walleye_warehouse": {
+		"id": 14,
+		"key": "walleye_warehouse",
+		"localization": {
+			"de": "Kofferfisch-Lager",
+			"en": "Walleye Warehouse",
+			"es-419": "Almacén Rodaballo",
+			"es-es": "Almacén Rodaballo",
+			"fr-ca": "Encrepôt",
+			"fr-fr": "Encrepôt",
+			"it": "Magazzino",
+			"ja": "ハコフグ倉庫",
+			"nl": "Zeeleeuwloods",
+			"ru": "Инкрабсклад"
+		},
+		"released_at": "2017-12-15T02:00:00Z"
 	},
 	"shifty_station": {
 		"id": 9999,
