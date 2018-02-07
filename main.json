@@ -479,6 +479,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"gal96deco": {
+		"key": "gal96deco",
+		"localization": {
+			"de": ".96 Gallon Deko",
+			"en": ".96 Gal Deco",
+			"es-419": "Salpicadora 3000 chic",
+			"es-es": "Salpicadora 3000 DX",
+			"fr-ca": "Calibre 3000 chic",
+			"fr-fr": "Calibre 3000 chic",
+			"it": "Calibro 3000 DX",
+			"ja": ".96ガロンデコ",
+			"nl": ".96 Kaliter Deco",
+			"ru": "Струевик .96 «Деко»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "splash_wall",
+		"special_key": "splashdown",
+		"special_points": 180,
+		"unlocked_rank": 26,
+		"cost": 16200,
+		"weight": "medium",
+		"ink_consumption": 0.025,
+		"status": {
+			"range": 70,
+			"fire_rate": 10,
+			"damage": 75
+		},
+		"released_at": "2018-02-03T02:00:00Z"
+	},
 	"jet_squelcher": {
 		"key": "jet_squelcher",
 		"localization": {
