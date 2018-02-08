@@ -1719,6 +1719,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"goo_tuber_custom": {
+		"key": "goo_tuber_custom",
+		"localization": {
+			"de": "T-Tuber SE",
+			"en": "Custom Goo Tuber",
+			"es-419": "Entintubo adaptado",
+			"es-es": "Tubofusil SP",
+			"fr-ca": "Détubeur modifié",
+			"fr-fr": "Détubeur modifié",
+			"it": "Tintubator CM",
+			"ja": "ソイチューバーカスタム",
+			"nl": "Gemodde Spetbuizer",
+			"ru": "Трубастер «Понт»"
+		},
+		"type_key": "charger",
+		"subtype_key": "charger",
+		"sub_key": "curling_bomb",
+		"special_key": "inkjet",
+		"special_points": 180,
+		"unlocked_rank": 28,
+		"cost": 19300,
+		"weight": "medium",
+		"ink_consumption": 0.15,
+		"status": {
+			"range": 78,
+			"charge_speed": 30,
+			"mobility": 70
+		},
+		"released_at": "2018-02-09T02:00:00Z"
+	},
 
 	"slosher": {
 		"key": "slosher",
