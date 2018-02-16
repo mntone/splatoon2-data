@@ -2104,7 +2104,7 @@
 		"unlocked_rank": 26,
 		"cost": 14700,
 		"weight": "light",
-		"ink_consumption": 0.009,
+		"ink_consumption": 0.0075,
 		"status": {
 			"range": 24,
 			"mobility": 80,
@@ -2134,7 +2134,7 @@
 		"unlocked_rank": 29,
 		"cost": 17500,
 		"weight": "light",
-		"ink_consumption": 0.009,
+		"ink_consumption": 0.0075,
 		"status": {
 			"range": 24,
 			"mobility": 80,
@@ -2254,7 +2254,7 @@
 		"unlocked_rank": 17,
 		"cost": 11800,
 		"weight": "medium",
-		"ink_consumption": 0.018,
+		"ink_consumption": 0.016,
 		"status": {
 			"range": 56,
 			"mobility": 35,
