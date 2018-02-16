@@ -1900,6 +1900,36 @@
 		},
 		"released_at": "2017-08-26T02:00:00Z"
 	},
+	"sloshing_machine_neo": {
+		"key": "sloshing_machine_neo",
+		"localization": {
+			"de": "Trommel-Schwapper Neo",
+			"en": "Sloshing Machine Neo",
+			"es-419": "Derramatic centrífugo neo",
+			"es-es": "Derramatic centrífugo neo",
+			"fr-ca": "Encrifugeur néo",
+			"fr-fr": "Encrifugeur Néo",
+			"it": "Secchiostro centrifuga Neo",
+			"ja": "スクリュースロッシャーネオ",
+			"nl": "Klotstrommel Neo",
+			"ru": "Центрифугер «Нео»"
+		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
+		"sub_key": "point_sensor",
+		"special_key": "bomb_launcher_splat",
+		"special_points": 180,
+		"unlocked_rank": 19,
+		"cost": 19800,
+		"weight": "medium",
+		"ink_consumption": 0.07,
+		"status": {
+			"range": 60,
+			"damage": 90,
+			"handling": 40
+		},
+		"released_at": "2018-02-17T02:00:00Z"
+	},
 
 	"mini_splatling": {
 		"key": "mini_splatling",
