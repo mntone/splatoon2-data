@@ -227,7 +227,7 @@
 		"subtype_key": "shooter",
 		"sub_key": "splat_bomb",
 		"special_key": "inkjet",
-		"special_points": 230,
+		"special_points": 210,
 		"unlocked_rank": 4,
 		"cost": 2100,
 		"weight": "medium",
