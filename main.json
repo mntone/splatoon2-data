@@ -981,7 +981,8 @@
 		"unlocked_rank": 16,
 		"cost": 11500,
 		"weight": "medium",
-		"ink_consumption": 0,
+		"ink_consumption": 0.01,
+		"ink_consumption_of_first_shot": 0.025,
 		"status": {
 			"range": 70,
 			"fire_rate": 45,
