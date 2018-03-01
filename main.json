@@ -2262,6 +2262,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"tetra_dualies_dark": {
+		"key": "tetra_dualies_dark",
+		"localization": {
+			"de": "Quadhopper Noir",
+			"en": "Dark Tetra Dualies",
+			"es-419": "Motatrónic dual negro",
+			"es-es": "Motatrónic dual negro",
+			"fr-ca": "Double voltigeur noir",
+			"fr-fr": "Double voltigeur noir",
+			"it": "Moscarpino duplo nero",
+			"ja": "クアッドホッパーブラック",
+			"nl": "Quadhoppers Zwart",
+			"ru": "Черные спуртокроссы"
+		},
+		"type_key": "dualies",
+		"subtype_key": "dualies",
+		"sub_key": "autobomb",
+		"special_key": "splashdown",
+		"special_points": 180,
+		"unlocked_rank": 14,
+		"cost": 10700,
+		"weight": "medium",
+		"ink_consumption": 0,
+		"status": {
+			"range": 50,
+			"mobility": 90,
+			"damage": 22
+		},
+		"released_at": "2018-03-02T02:00:00Z"
+	},
 	"glooga_dualies": {
 		"key": "glooga_dualies",
 		"localization": {
