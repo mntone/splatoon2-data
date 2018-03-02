@@ -254,6 +254,40 @@
 		},
 		"released_at": "2017-12-15T02:00:00Z"
 	},
+	"arowana_mall": {
+		"id": 15,
+		"key": "arowana_mall",
+		"localization": {
+			"de": "Arowana-Center",
+			"en": "Arowana Mall",
+			"es-419": "Plazuela del Calamar",
+			"es-es": "Plazuela del Calamar",
+			"fr-ca": "Centre Arowana",
+			"fr-fr": "Centre Arowana",
+			"it": "Centro commerciale",
+			"ja": "アロワナモール",
+			"nl": "Piranha Plaza",
+			"ru": "Тц «Аравана»"
+		},
+		"released_at": "2018-02-02T02:00:00Z"
+	},
+	"goby_arena": {
+		"id": 18,
+		"key": "goby_arena",
+		"localization": {
+			"de": "Backfisch-Stadion",
+			"en": "Goby Arena",
+			"es-419": "Estadio Ajolote",
+			"es-es": "Estadio Ajolote",
+			"fr-ca": "Stade Bernique",
+			"fr-fr": "Stade Bernique",
+			"it": "Arena Sardina",
+			"ja": "アジフライスタジアム",
+			"nl": "Planktonstadion",
+			"ru": "Арена «Лужа»"
+		},
+		"released_at": "2018-03-02T02:00:00Z"
+	},
 	"shifty_station": {
 		"id": 9999,
 		"key": "shifty_station",
