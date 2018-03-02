@@ -2268,7 +2268,7 @@
 		"localization": {
 			"de": "Quadhopper Noir",
 			"en": "Dark Tetra Dualies",
-			"es-419": "Motatrónic dual negro",
+			"es-419": "Tetra dual negro",
 			"es-es": "Motatrónic dual negro",
 			"fr-ca": "Double voltigeur noir",
 			"fr-fr": "Double voltigeur noir",
@@ -2281,11 +2281,11 @@
 		"subtype_key": "dualies",
 		"sub_key": "autobomb",
 		"special_key": "splashdown",
-		"special_points": 180,
+		"special_points": 170,
 		"unlocked_rank": 14,
 		"cost": 10700,
 		"weight": "medium",
-		"ink_consumption": 0,
+		"ink_consumption": 0.008,
 		"status": {
 			"range": 50,
 			"mobility": 90,
