@@ -29,6 +29,36 @@
 		},
 		"released_at": "2017-08-05T02:00:00Z"
 	},
+	"sploosh_o_matic_neo": {
+		"key": "sploosh_o_matic_neo",
+		"localization": {
+			"de": "Disperser Neo",
+			"en": "Neo Sploosh-o-matic",
+			"es-419": "Marcador grueso neo",
+			"es-es": "Marcador neo",
+			"fr-ca": "Marqueur lourd néo",
+			"fr-fr": "Marqueur lourd Néo",
+			"it": "Marker Neo",
+			"ja": "ボールドマーカーネオ",
+			"nl": "Spettertuit Neo",
+			"ru": "Плюхотрон «Нео»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "squid_beakon",
+		"special_key": "tenta_missiles",
+		"special_points": 170,
+		"unlocked_rank": 18,
+		"cost": 12200,
+		"weight": "light",
+		"ink_consumption": 0.008,
+		"status": {
+			"range": 12,
+			"fire_rate": 75,
+			"damage": 52
+		},
+		"released_at": "2020-12-31T02:00:00Z"
+	},
 	"splattershot_jr": {
 		"key": "splattershot_jr",
 		"localization": {
