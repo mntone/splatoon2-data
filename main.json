@@ -989,6 +989,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"h3_nozzlenose_d": {
+		"key": "h3_nozzlenose_d",
+		"localization": {
+			"de": "S3 Tintenwerfer D",
+			"en": "H-3 Nozzlenose D",
+			"es-419": "Manguera pesada D",
+			"es-es": "Tintambor pesado D",
+			"fr-ca": "Arroseur lourd requin",
+			"fr-fr": "Arroseur lourd Cétacé",
+			"it": "Triplete D",
+			"ja": "H3リールガンD",
+			"nl": "H-3 Langsnuit D",
+			"ru": "Тяжелый каплетрон 2.0"
+		},
+		"type_key": "shooter",
+		"subtype_key": "nozzlenose",
+		"sub_key": "sprinkler",
+		"special_key": "ink_armor",
+		"special_points": 190,
+		"unlocked_rank": 30,
+		"cost": 18400,
+		"weight": "medium",
+		"ink_consumption": 0.018,
+		"status": {
+			"range": 70,
+			"fire_rate": 30,
+			"damage": 58
+		},
+		"released_at": "2018-03-17T02:00:00Z"
+	},
 	"squeezer": {
 		"key": "squeezer",
 		"localization": {
