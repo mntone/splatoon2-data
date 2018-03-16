@@ -83,7 +83,7 @@
 		"weight": "light",
 		"ink_consumption": 0.005,
 		"status": {
-			"range": 25,
+			"range": 35,
 			"fire_rate": 75,
 			"damage": 22
 		},
@@ -113,7 +113,7 @@
 		"weight": "light",
 		"ink_consumption": 0.005,
 		"status": {
-			"range": 25,
+			"range": 35,
 			"fire_rate": 75,
 			"damage": 22
 		},
