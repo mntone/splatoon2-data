@@ -2052,6 +2052,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"mini_splatling_zink": {
+		"key": "mini_splatling_zink",
+		"localization": {
+			"de": "Sagitron-Klecks-Splatling",
+			"en": "Zink Mini Splatling",
+			"es-419": "Garabateador Tintaz",
+			"es-es": "Tintralladora ligera B",
+			"fr-ca": "Badigeonneur XP Leviathus",
+			"fr-fr": "Badigeonneur XS griffé",
+			"it": "Mini splatling logo",
+			"ja": "スプラスピナーコラボ",
+			"nl": "Zink Mini-Spetling",
+			"ru": "Брызгомет-М «Шпротус»"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "curling_bomb",
+		"special_key": "ink_storm",
+		"special_points": 200,
+		"unlocked_rank": 26,
+		"cost": 15400,
+		"weight": "medium",
+		"ink_consumption": 0.15,
+		"status": {
+			"range": 62,
+			"charge_speed": 80,
+			"mobility": 90
+		},
+		"released_at": "2018-03-24T02:00:00Z"
+	},
 	"heavy_splatling": {
 		"key": "heavy_splatling",
 		"localization": {
