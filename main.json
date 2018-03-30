@@ -2474,6 +2474,36 @@
 		},
 		"released_at": "2017-08-12T02:00:00Z"
 	},
+	"sorella_brella": {
+		"key": "sorella_brella",
+		"localization": {
+			"de": "Parapluviator Sorella",
+			"en": "Sorella Brella",
+			"es-419": "Paratintas Sorella",
+			"es-es": "Paratintas B",
+			"fr-ca": "Para-encre Sorella",
+			"fr-fr": "Para-encre Sorella",
+			"it": "Sparasole B",
+			"ja": "パラシェルターソレーラ",
+			"nl": "Sorella Plenzer",
+			"ru": "Зонтган «Выходной»"
+		},
+		"type_key": "brella",
+		"subtype_key": "brella",
+		"sub_key": "autobomb",
+		"special_key": "bomb_launcher_splat",
+		"special_points": 180,
+		"unlocked_rank": 15,
+		"cost": 12000,
+		"weight": "medium",
+		"ink_consumption": 0.055,
+		"status": {
+			"range": 43,
+			"durability": 60,
+			"damage": 65
+		},
+		"released_at": "2018-03-31T02:00:00Z"
+	},
 	"hero_brella": {
 		"key": "hero_brella",
 		"localization": {
