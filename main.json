@@ -1991,6 +1991,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"tri_slosher_nouveau": {
+		"key": "tri_slosher_nouveau",
+		"localization": {
+			"de": "3R-Schwapper Fresco",
+			"en": "Tri-Slosher Nouveau",
+			"es-419": "Derramatic triple maestro",
+			"es-es": "Derramatic triple maestro",
+			"fr-ca": "Seauceur nuancé",
+			"fr-fr": "Dépoteur nuancé",
+			"it": "Secchiostro triplo master",
+			"ja": "ヒッセン・ヒュー",
+			"nl": "Triomorser Nouveau",
+			"ru": "Ведроган 3 в 1 «НуВо»"
+		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
+		"sub_key": "splat_bomb",
+		"special_key": "ink_storm",
+		"special_points": 180,
+		"unlocked_rank": 17,
+		"cost": 11700,
+		"weight": "medium",
+		"ink_consumption": 0.06,
+		"status": {
+			"range": 39,
+			"damage": 80,
+			"handling": 70
+		},
+		"released_at": "2018-04-14T02:00:00Z"
+	},
 	"sloshing_machine": {
 		"key": "sloshing_machine",
 		"localization": {
