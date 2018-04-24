@@ -149,6 +149,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"splash_o_matic_neo": {
+		"key": "splash_o_matic_neo",
+		"localization": {
+			"de": "Fein-Disperser Neo",
+			"en": "Neo Splash-o-matic",
+			"es-419": "Plumón neo",
+			"es-es": "Marcador fino neo",
+			"fr-ca": "Marqueur léger néo",
+			"fr-fr": "Marqueur léger Néo",
+			"it": "Marker d'assalto Neo",
+			"ja": "シャープマーカーネオ",
+			"nl": "Spetterspuit Neo",
+			"ru": "Плюхомет «Нео»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "burst_bomb",
+		"special_key": "bomb_launcher_suction",
+		"special_points": 180,
+		"unlocked_rank": 27,
+		"cost": 16800,
+		"weight": "medium",
+		"ink_consumption": 0.008,
+		"status": {
+			"range": 35,
+			"fire_rate": 75,
+			"damage": 22
+		},
+		"released_at": "2018-04-25T02:00:00Z"
+	},
 	"aerospray_mg": {
 		"key": "aerospray_mg",
 		"localization": {
@@ -1110,6 +1140,36 @@
 		},
 		"released_at": "2017-12-22T02:00:00Z"
 	},
+	"squeezer_foil": {
+		"key": "squeezer_foil",
+		"localization": {
+			"de": "Quetscher Fol",
+			"en": "Foil Squeezer",
+			"es-419": "Tintopresor Foil",
+			"es-es": "Tintopresor B",
+			"fr-ca": "Compresseur aluminium",
+			"fr-fr": "Compresseur alu",
+			"it": "Strizzer B",
+			"ja": "ボトルガイザーフォイル",
+			"nl": "Foil Floeper",
+			"ru": "Бутылятор «Блеск»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "nozzlenose",
+		"sub_key": "splat_bomb",
+		"special_key": "bubble_blower",
+		"special_points": 180,
+		"unlocked_rank": 25,
+		"cost": 10900,
+		"weight": "medium",
+		"ink_consumption": 0,
+		"status": {
+			"range": 70,
+			"fire_rate": 45,
+			"damage": 52
+		},
+		"released_at": "2018-04-25T02:00:00Z"
+	},
 
 	"carbon_roller": {
 		"key": "carbon_roller",
@@ -1539,6 +1599,36 @@
 			"mobility": 60
 		},
 		"released_at": "2017-08-19T02:00:00Z"
+	},
+	"squiffer_new": {
+		"key": "squiffer_new",
+		"localization": {
+			"de": "Sepiator β",
+			"en": "New Squiffer",
+			"es-419": "Delineador Y",
+			"es-es": "Kalarrapid β",
+			"fr-ca": "Lignizateur bêta",
+			"fr-fr": "Décap'express Bêta",
+			"it": "Kalamarapid β",
+			"ja": "スクイックリンβ",
+			"nl": "Octopoets Ultra",
+			"ru": "Стиратель-II"
+		},
+		"type_key": "charger",
+		"subtype_key": "charger",
+		"sub_key": "autobomb",
+		"special_key": "baller",
+		"special_points": 180,
+		"unlocked_rank": 17,
+		"cost": 11000,
+		"weight": "medium",
+		"ink_consumption": 0.105,
+		"status": {
+			"range": 75,
+			"charge_speed": 70,
+			"mobility": 60
+		},
+		"released_at": "2018-04-25T02:00:00Z"
 	},
 	"splat_charger": {
 		"key": "splat_charger",
@@ -2472,6 +2562,36 @@
 			"damage": 76
 		},
 		"released_at": "2017-12-02T02:00:00Z"
+	},
+	"glooga_dualies_deco": {
+		"key": "glooga_dualies_deco",
+		"localization": {
+			"de": "Kelvin 525 Deko",
+			"en": "Glooga Dualies Deco",
+			"es-419": "Fundidora 525 dual DX",
+			"es-es": "Fundidora 525 dual DX",
+			"fr-ca": "Double Kelvin 525 chic",
+			"fr-fr": "Double Kelvin 525 chic",
+			"it": "Kelvin duplo 525 DX",
+			"ja": "ケルビン525デコ",
+			"nl": "Kelvin 525 Deco",
+			"ru": "Термоплюхи 525 «Деко»"
+		},
+		"type_key": "dualies",
+		"subtype_key": "dualies",
+		"sub_key": "splash_wall",
+		"special_key": "baller",
+		"special_points": 180,
+		"unlocked_rank": 24,
+		"cost": 13700,
+		"weight": "medium",
+		"ink_consumption": 0.018,
+		"status": {
+			"range": 60,
+			"mobility": 35,
+			"damage": 76
+		},
+		"released_at": "2018-04-25T02:00:00Z"
 	},
 	"dualie_squelchers": {
 		"key": "dualie_squelchers",
