@@ -167,7 +167,7 @@
 		"subtype_key": "shooter",
 		"sub_key": "burst_bomb",
 		"special_key": "bomb_launcher_suction",
-		"special_points": 180,
+		"special_points": 200,
 		"unlocked_rank": 27,
 		"cost": 16800,
 		"weight": "medium",
