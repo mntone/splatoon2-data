@@ -989,6 +989,36 @@
 		},
 		"released_at": "2017-09-23T02:00:00Z"
 	},
+	"rapid_blaster_pro_deco": {
+		"key": "rapid_blaster_pro_deco",
+		"localization": {
+			"de": "Turbo-Blaster Plus Deko",
+			"en": "Rapid Blaster Pro Deco",
+			"es-419": "Turbolanzamotas Pro chic",
+			"es-es": "Superdevastador DX",
+			"fr-ca": "Turboblasteur pro chic",
+			"fr-fr": "Turboblaster pro chic",
+			"it": "Blaster élite DX",
+			"ja": "Rブラスターエリートデコ",
+			"nl": "Flitsblaster Pro Deco",
+			"ru": "Бластермат ПРО «Деко»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
+		"sub_key": "splash_wall",
+		"special_key": "ink_armor",
+		"special_points": 180,
+		"unlocked_rank": 24,
+		"cost": 14000,
+		"weight": "medium",
+		"ink_consumption": 0.08,
+		"status": {
+			"range": 72,
+			"fire_rate": 30,
+			"impact": 35
+		},
+		"released_at": "2018-06-01T00:00:00Z"
+	},
 	"l3_nozzlenose": {
 		"key": "l3_nozzlenose",
 		"localization": {
@@ -1201,6 +1231,37 @@
 			"handling": 65
 		},
 		"released_at": "2017-07-21T00:00:00Z"
+	},
+	"carbon_roller_deco": {
+		"key": "carbon_roller_deco",
+		"localization": {
+			"de": "Karbonroller Deko",
+			"en": "Carbon Roller Deco",
+			"es-419": "Rodillo de carbono chic",
+			"es-es": "Rodillo de carbono DX",
+			"fr-ca": "Rouleau carbone chic",
+			"fr-fr": "Rouleau carbone chic",
+			"it": "Rullo di carbonio DX",
+			"ja": "カーボンローラーデコ",
+			"nl": "Carbonroller Deco",
+			"ru": "Валик ЛАЙТ «Деко»"
+		},
+		"type_key": "roller",
+		"subtype_key": "roller",
+		"sub_key": "burst_bomb",
+		"special_key": "bomb_launcher_auto",
+		"special_points": 180,
+		"unlocked_rank": 10,
+		"cost": 8500,
+		"weight": "light",
+		"ink_consumption": 0.045,
+		"ink_consumption_per_vertical_swing": 0.045,
+		"status": {
+			"range": 20,
+			"ink_speed": 63,
+			"handling": 65
+		},
+		"released_at": "2018-06-01T00:00:00Z"
 	},
 	"splat_roller": {
 		"key": "splat_roller",
@@ -2623,6 +2684,36 @@
 		},
 		"released_at": "2017-07-29T02:00:00Z"
 	},
+	"dualie_squelchers_custom": {
+		"key": "dualie_squelchers_custom",
+		"localization": {
+			"de": "Dual-Platscher SE",
+			"en": "Custom Dualie Squelchers",
+			"es-419": "Soplador dual adaptado",
+			"es-es": "Barredora dual SP",
+			"fr-ca": "Double nettoyeur modifié",
+			"fr-fr": "Double nettoyeur modifié",
+			"it": "Sweeper duplo CM",
+			"ja": "デュアルスイーパーカスタム",
+			"nl": "Gemodde Dubbelplonzers",
+			"ru": "Спурт-плескари «Понт»"
+		},
+		"type_key": "dualies",
+		"subtype_key": "dualies",
+		"sub_key": "splat_bomb",
+		"special_key": "ink_storm",
+		"special_points": 190,
+		"unlocked_rank": 16,
+		"cost": 12900,
+		"weight": "medium",
+		"ink_consumption": 0.01,
+		"status": {
+			"range": 70,
+			"mobility": 60,
+			"damage": 22
+		},
+		"released_at": "2018-06-01T00:00:00Z"
+	},
 	"tetra_dualies_dark": {
 		"key": "tetra_dualies_dark",
 		"localization": {
@@ -2803,5 +2894,35 @@
 			"damage": 30
 		},
 		"released_at": "2017-12-30T02:00:00Z"
+	},
+	"undercover_sorella_brella": {
+		"key": "undercover_sorella_brella",
+		"localization": {
+			"de": "Sorella-UnderCover",
+			"en": "Undercover Sorella Brella",
+			"es-419": "",
+			"es-es": "Paratintas clásico B",
+			"fr-ca": "",
+			"fr-fr": "Para-encre espion Sorella",
+			"it": "Bombrello Solerra",
+			"ja": "スパイガジェットソレーラ",
+			"nl": "Sorella Paraplenzer",
+			"ru": "Шпионский зонт «Родиччи»"
+		},
+		"type_key": "brella",
+		"subtype_key": "brella",
+		"sub_key": "splat_bomb",
+		"special_key": "baller",
+		"special_points": 180,
+		"unlocked_rank": 19,
+		"cost": 11900,
+		"weight": "medium",
+		"ink_consumption": 0.04,
+		"status": {
+			"range": 50,
+			"durability": 25,
+			"damage": 30
+		},
+		"released_at": "2018-06-01T00:00:00Z"
 	}
 }
