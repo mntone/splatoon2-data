@@ -1250,7 +1250,7 @@
 		"subtype_key": "roller",
 		"sub_key": "burst_bomb",
 		"special_key": "bomb_launcher_auto",
-		"special_points": 180,
+		"special_points": 190,
 		"unlocked_rank": 10,
 		"cost": 8500,
 		"weight": "light",
