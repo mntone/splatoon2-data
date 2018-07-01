@@ -2295,11 +2295,11 @@
 	"explosher": {
 		"key": "explosher",
 		"localization": {
-			"de": "",
+			"de": "Knall-Schwapper",
 			"en": "Explosher",
-			"es-419": "",
+			"es-419": "Derramatic XP",
 			"es-es": "Derramatic turbo",
-			"fr-ca": "",
+			"fr-ca": "Détoneur",
 			"fr-fr": "Détoneur",
 			"it": "Termosecchiostro",
 			"ja": "エクスプロッシャー",
@@ -2506,11 +2506,11 @@
 	"ballpoint_splatling": {
 		"key": "ballpoint_splatling",
 		"localization": {
-			"de": "",
+			"de": "Kuli-Splatling",
 			"en": "Ballpoint Splatling",
-			"es-419": "",
+			"es-419": "Garabateador PLM",
 			"es-es": "Ametrallógrafo",
-			"fr-ca": "",
+			"fr-ca": "Badigeonneur stylo",
 			"fr-fr": "Badigeonneur stylo",
 			"it": "Tetrapenna",
 			"ja": "クーゲルシュライバー",
@@ -2960,9 +2960,9 @@
 		"localization": {
 			"de": "Sorella-Camp-Pluviator",
 			"en": "Tenta Sorella Brella",
-			"es-419": "",
+			"es-419": "Paratintas forestal Sorella",
 			"es-es": "Paratintas maxi B",
-			"fr-ca": "",
+			"fr-ca": "Méga para-encre Sorella",
 			"fr-fr": "Para-encre XL Sorella",
 			"it": "Sparatenda Solerra",
 			"ja": "キャンピングシェルターソレーラ",
