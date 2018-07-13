@@ -2314,7 +2314,7 @@
 		"unlocked_rank": 18,
 		"cost": 10800,
 		"weight": "heavy",
-		"ink_consumption": 0,
+		"ink_consumption": 0.09,
 		"status": {
 			"range": 77,
 			"damage": 65,
@@ -2525,7 +2525,7 @@
 		"unlocked_rank": 25,
 		"cost": 11600,
 		"weight": "medium",
-		"ink_consumption": 0,
+		"ink_consumption": 0.25,
 		"status": {
 			"range": 85,
 			"charge_speed": 18,
