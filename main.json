@@ -2322,6 +2322,36 @@
 		},
 		"released_at": "2018-07-01T00:00:00Z"
 	},
+	"bloblobber": {
+		"key": "bloblobber",
+		"localization": {
+			"de": "Wannen-Schwapper",
+			"en": "Bloblobber",
+			"es-419": "",
+			"es-es": "Derramatic baño",
+			"fr-ca": "",
+			"fr-fr": "Bassineur",
+			"it": "Secchiostro vasca",
+			"ja": "オーバーフロッシャー",
+			"nl": "Spatkuip",
+			"ru": "Ваннаган"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "splash_wall",
+		"special_key": "ink_storm",
+		"special_points": 180,
+		"unlocked_rank": 11,
+		"cost": 10000,
+		"weight": "medium",
+		"ink_consumption": 0.09,
+		"status": {
+			"range": 85,
+			"damage": 29,
+			"handling": 50
+		},
+		"released_at": "2018-08-01T00:00:00Z"
+	},
 
 	"mini_splatling": {
 		"key": "mini_splatling",
@@ -2503,6 +2533,36 @@
 		},
 		"released_at": "2017-11-25T02:00:00Z"
 	},
+	"hydra_splatling_custom": {
+		"key": "hydra_splatling_custom",
+		"localization": {
+			"de": "Hydrant SE",
+			"en": "Custom Hydra Splatling",
+			"es-419": "Garabateador HD adaptado",
+			"es-es": "Extintador SP",
+			"fr-ca": "Exteinteur modifié",
+			"fr-fr": "Exteinteur modifié",
+			"it": "Idrante CM",
+			"ja": "ハイドラントカスタム",
+			"nl": "Gemodde Blusling",
+			"ru": "«Понт-Горыныч»"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "ink_mine",
+		"special_key": "ink_armor",
+		"special_points": 180,
+		"unlocked_rank": 29,
+		"cost": 33300,
+		"weight": "heavy",
+		"ink_consumption": 0.35,
+		"status": {
+			"range": 85,
+			"charge_speed": 10,
+			"mobility": 20
+		},
+		"released_at": "2018-08-01T00:00:00Z"
+	},
 	"ballpoint_splatling": {
 		"key": "ballpoint_splatling",
 		"localization": {
@@ -2532,6 +2592,36 @@
 			"mobility": 60
 		},
 		"released_at": "2018-07-01T00:00:00Z"
+	},
+	"nautilus_47": {
+		"key": "nautilus_47",
+		"localization": {
+			"de": "Nautilus 47",
+			"en": "Nautilus 47",
+			"es-419": "",
+			"es-es": "Subtralladora 47",
+			"fr-ca": "",
+			"fr-fr": "Nautilus 47",
+			"it": "Nautilus 47",
+			"ja": "ノーチラス47",
+			"nl": "Nautilus 47",
+			"ru": "Наутилус-47"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "point_sensor",
+		"special_key": "baller",
+		"special_points": 180,
+		"unlocked_rank": 26,
+		"cost": 14700,
+		"weight": "medium",
+		"ink_consumption": 0.25,
+		"status": {
+			"range": 74,
+			"charge_speed": 37,
+			"mobility": 70
+		},
+		"released_at": "2018-08-01T00:00:00Z"
 	},
 
 	"dapple_dualies": {
@@ -2833,6 +2923,36 @@
 			"damage": 22
 		},
 		"released_at": "2018-03-02T02:00:00Z"
+	},
+	"tetra_dualies_light": {
+		"key": "tetra_dualies_light",
+		"localization": {
+			"de": "Quadhopper Blanc",
+			"en": "Light Tetra Dualies",
+			"es-419": "",
+			"es-es": "Motatrónic dual blanco",
+			"fr-ca": "",
+			"fr-fr": "Double voltigeur blanc",
+			"it": "Moscarpino duplo bianco",
+			"ja": "クアッドホッパーホワイト",
+			"nl": "Quadhoppers Wit",
+			"ru": "Белые спуртокроссы"
+		},
+		"type_key": "dualies",
+		"subtype_key": "dualies",
+		"sub_key": "sprinkler",
+		"special_key": "bomb_launcher_auto",
+		"special_points": 180,
+		"unlocked_rank": 21,
+		"cost": 13300,
+		"weight": "medium",
+		"ink_consumption": 0.008,
+		"status": {
+			"range": 55,
+			"mobility": 90,
+			"damage": 22
+		},
+		"released_at": "2018-08-01T00:00:00Z"
 	},
 
 	"splat_brella": {
