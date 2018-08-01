@@ -2856,7 +2856,7 @@
 		"unlocked_rank": 12,
 		"cost": 9800,
 		"weight": "medium",
-		"ink_consumption": 0.01,
+		"ink_consumption": 0.012,
 		"status": {
 			"range": 70,
 			"mobility": 60,
@@ -2886,7 +2886,7 @@
 		"unlocked_rank": 16,
 		"cost": 12900,
 		"weight": "medium",
-		"ink_consumption": 0.01,
+		"ink_consumption": 0.012,
 		"status": {
 			"range": 70,
 			"mobility": 60,
