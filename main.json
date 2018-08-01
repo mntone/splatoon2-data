@@ -2942,7 +2942,7 @@
 		"subtype_key": "dualies",
 		"sub_key": "sprinkler",
 		"special_key": "bomb_launcher_auto",
-		"special_points": 180,
+		"special_points": 200,
 		"unlocked_rank": 21,
 		"cost": 13300,
 		"weight": "medium",
