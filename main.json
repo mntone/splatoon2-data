@@ -329,6 +329,36 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"octo_shot_replica": {
+		"key": "octo_shot_replica",
+		"localization": {
+			"de": "Okto-Kleckser Replik",
+			"en": "Octo Shot Replica",
+			"es-419": "Pistola octariana (réplica)",
+			"es-es": "Rociador octariano réplica",
+			"fr-ca": "Lanceur Octaling (réplique)",
+			"fr-fr": "Lanceur Octaling (réplique)",
+			"it": "Octosplasher replica",
+			"ja": "オクタシューター レプリカ",
+			"nl": "Octospetter (replica)",
+			"ru": "Осьмострел (клон)"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "splat_bomb",
+		"special_key": "inkjet",
+		"special_points": 210,
+		"unlocked_rank": 4,
+		"cost": 0,
+		"weight": "medium",
+		"ink_consumption": 0.01,
+		"status": {
+			"range": 50,
+			"fire_rate": 60,
+			"damage": 45
+		},
+		"released_at": "2018-06-14T01:00:00Z"
+	},
 	"gal52": {
 		"key": "gal52",
 		"localization": {
