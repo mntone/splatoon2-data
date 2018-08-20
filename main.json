@@ -1222,7 +1222,7 @@
 		"unlocked_rank": 25,
 		"cost": 10900,
 		"weight": "medium",
-		"ink_consumption": 0,
+		"ink_consumption": 0.01,
 		"status": {
 			"range": 70,
 			"fire_rate": 45,
