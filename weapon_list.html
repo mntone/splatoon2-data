@@ -36,6 +36,7 @@
 		<th>unlocked rank</th>
 		<th>cost</th>
 		<th>ink consumption</th>
+		<th>run speed</th>
 		<th>release date</th>
 	</tr>
 </thead>
@@ -79,6 +80,7 @@ function print(self, language, data) {
 		'<td>' + data['unlocked_rank'] + '</td>' +
 		'<td class="cost_column">' + data['cost'].toLocaleString() + '</td>' +
 		'<td class="percent_column">' + (100 * data['ink_consumption']).toFixed(2) + ' %</td>' +
+		'<td class="cost_column">' + data['run_speed'].toFixed(2) + (data['run_speed_in_charge'] ? ' (' + data['run_speed_in_charge'].toFixed(2) + ')' : (data['dash_speed'] ? ' (' + data['dash_speed'].toFixed(2) + ')' : '')) + ' </td>' +
 		'<td>' + new Date(data['released_at']).toLocaleDateString() + '</td>' +
 		'</tr>';
 	return data['cost'];

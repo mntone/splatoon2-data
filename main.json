@@ -22,6 +22,7 @@
 		"cost": 9700,
 		"weight": "light",
 		"ink_consumption": 0.008,
+		"run_speed": 0.8,
 		"status": {
 			"range": 12,
 			"fire_rate": 75,
@@ -52,6 +53,7 @@
 		"cost": 12200,
 		"weight": "light",
 		"ink_consumption": 0.008,
+		"run_speed": 0.8,
 		"status": {
 			"range": 12,
 			"fire_rate": 75,
@@ -82,6 +84,7 @@
 		"cost": 0,
 		"weight": "light",
 		"ink_consumption": 0.005,
+		"run_speed": 0.72,
 		"status": {
 			"range": 35,
 			"fire_rate": 75,
@@ -112,6 +115,7 @@
 		"cost": 1900,
 		"weight": "light",
 		"ink_consumption": 0.005,
+		"run_speed": 0.72,
 		"status": {
 			"range": 35,
 			"fire_rate": 75,
@@ -142,6 +146,7 @@
 		"cost": 11200,
 		"weight": "medium",
 		"ink_consumption": 0.008,
+		"run_speed": 0.72,
 		"status": {
 			"range": 35,
 			"fire_rate": 75,
@@ -172,6 +177,7 @@
 		"cost": 16800,
 		"weight": "medium",
 		"ink_consumption": 0.008,
+		"run_speed": 0.72,
 		"status": {
 			"range": 35,
 			"fire_rate": 75,
@@ -202,6 +208,7 @@
 		"cost": 4900,
 		"weight": "light",
 		"ink_consumption": 0.0055,
+		"run_speed": 0.72,
 		"status": {
 			"range": 35,
 			"fire_rate": 90,
@@ -232,6 +239,7 @@
 		"cost": 16900,
 		"weight": "light",
 		"ink_consumption": 0.0055,
+		"run_speed": 0.72,
 		"status": {
 			"range": 35,
 			"fire_rate": 90,
@@ -262,6 +270,7 @@
 		"cost": 900,
 		"weight": "medium",
 		"ink_consumption": 0.01,
+		"run_speed": 0.72,
 		"status": {
 			"range": 50,
 			"fire_rate": 60,
@@ -292,6 +301,7 @@
 		"cost": 2100,
 		"weight": "medium",
 		"ink_consumption": 0.01,
+		"run_speed": 0.72,
 		"status": {
 			"range": 50,
 			"fire_rate": 60,
@@ -322,6 +332,7 @@
 		"cost": 1500,
 		"weight": "medium",
 		"ink_consumption": 0.01,
+		"run_speed": 0.72,
 		"status": {
 			"range": 50,
 			"fire_rate": 60,
@@ -352,6 +363,7 @@
 		"cost": 0,
 		"weight": "medium",
 		"ink_consumption": 0.01,
+		"run_speed": 0.72,
 		"status": {
 			"range": 50,
 			"fire_rate": 60,
@@ -382,6 +394,7 @@
 		"cost": 9500,
 		"weight": "medium",
 		"ink_consumption": 0.013,
+		"run_speed": 0.6,
 		"status": {
 			"range": 50,
 			"fire_rate": 25,
@@ -412,6 +425,7 @@
 		"cost": 12700,
 		"weight": "medium",
 		"ink_consumption": 0.013,
+		"run_speed": 0.6,
 		"status": {
 			"range": 50,
 			"fire_rate": 25,
@@ -442,6 +456,7 @@
 		"cost": 7100,
 		"weight": "light",
 		"ink_consumption": 0.008,
+		"run_speed": 0.84,
 		"status": {
 			"range": 50,
 			"fire_rate": 75,
@@ -472,6 +487,7 @@
 		"cost": 8800,
 		"weight": "medium",
 		"ink_consumption": 0.008,
+		"run_speed": 0.84,
 		"status": {
 			"range": 50,
 			"fire_rate": 75,
@@ -502,6 +518,7 @@
 		"cost": 13800,
 		"weight": "medium",
 		"ink_consumption": 0.02,
+		"run_speed": 0.55,
 		"status": {
 			"range": 70,
 			"fire_rate": 30,
@@ -532,6 +549,7 @@
 		"cost": 20800,
 		"weight": "medium",
 		"ink_consumption": 0.02,
+		"run_speed": 0.55,
 		"status": {
 			"range": 70,
 			"fire_rate": 30,
@@ -562,6 +580,7 @@
 		"cost": 12600,
 		"weight": "medium",
 		"ink_consumption": 0.025,
+		"run_speed": 0.4,
 		"status": {
 			"range": 70,
 			"fire_rate": 10,
@@ -592,6 +611,7 @@
 		"cost": 16200,
 		"weight": "medium",
 		"ink_consumption": 0.025,
+		"run_speed": 0.4,
 		"status": {
 			"range": 70,
 			"fire_rate": 10,
@@ -622,6 +642,7 @@
 		"cost": 11300,
 		"weight": "medium",
 		"ink_consumption": 0.016,
+		"run_speed": 0.6,
 		"status": {
 			"range": 82,
 			"fire_rate": 30,
@@ -652,6 +673,7 @@
 		"cost": 15900,
 		"weight": "medium",
 		"ink_consumption": 0.016,
+		"run_speed": 0.6,
 		"status": {
 			"range": 82,
 			"fire_rate": 30,
@@ -682,6 +704,7 @@
 		"cost": 12100,
 		"weight": "medium",
 		"ink_consumption": 0.09,
+		"run_speed": 0.5,
 		"status": {
 			"range": 9,
 			"fire_rate": 30,
@@ -712,6 +735,7 @@
 		"cost": 14000,
 		"weight": "medium",
 		"ink_consumption": 0.09,
+		"run_speed": 0.5,
 		"status": {
 			"range": 9,
 			"fire_rate": 30,
@@ -742,6 +766,7 @@
 		"cost": 3000,
 		"weight": "medium",
 		"ink_consumption": 0.1,
+		"run_speed": 0.45,
 		"status": {
 			"range": 27,
 			"fire_rate": 20,
@@ -772,6 +797,7 @@
 		"cost": 15300,
 		"weight": "medium",
 		"ink_consumption": 0.1,
+		"run_speed": 0.45,
 		"status": {
 			"range": 27,
 			"fire_rate": 20,
@@ -802,6 +828,7 @@
 		"cost": 3800,
 		"weight": "medium",
 		"ink_consumption": 0.1,
+		"run_speed": 0.45,
 		"status": {
 			"range": 27,
 			"fire_rate": 20,
@@ -832,6 +859,7 @@
 		"cost": 9300,
 		"weight": "medium",
 		"ink_consumption": 0.11,
+		"run_speed": 0.4,
 		"status": {
 			"range": 56,
 			"fire_rate": 10,
@@ -862,6 +890,7 @@
 		"cost": 11400,
 		"weight": "medium",
 		"ink_consumption": 0.11,
+		"run_speed": 0.4,
 		"status": {
 			"range": 56,
 			"fire_rate": 10,
@@ -892,6 +921,7 @@
 		"cost": 18200,
 		"weight": "light",
 		"ink_consumption": 0.04,
+		"run_speed": 0.65,
 		"status": {
 			"range": 21,
 			"fire_rate": 65,
@@ -922,6 +952,7 @@
 		"cost": 20500,
 		"weight": "light",
 		"ink_consumption": 0.04,
+		"run_speed": 0.65,
 		"status": {
 			"range": 21,
 			"fire_rate": 65,
@@ -952,6 +983,7 @@
 		"cost": 9800,
 		"weight": "medium",
 		"ink_consumption": 0.07,
+		"run_speed": 0.55,
 		"status": {
 			"range": 62,
 			"fire_rate": 40,
@@ -982,6 +1014,7 @@
 		"cost": 11500,
 		"weight": "medium",
 		"ink_consumption": 0.07,
+		"run_speed": 0.55,
 		"status": {
 			"range": 62,
 			"fire_rate": 40,
@@ -1012,6 +1045,7 @@
 		"cost": 12800,
 		"weight": "medium",
 		"ink_consumption": 0.08,
+		"run_speed": 0.5,
 		"status": {
 			"range": 72,
 			"fire_rate": 30,
@@ -1042,6 +1076,7 @@
 		"cost": 14000,
 		"weight": "medium",
 		"ink_consumption": 0.08,
+		"run_speed": 0.5,
 		"status": {
 			"range": 72,
 			"fire_rate": 30,
@@ -1072,6 +1107,7 @@
 		"cost": 10400,
 		"weight": "medium",
 		"ink_consumption": 0.01,
+		"run_speed": 0.72,
 		"status": {
 			"range": 62,
 			"fire_rate": 65,
@@ -1102,6 +1138,7 @@
 		"cost": 12500,
 		"weight": "medium",
 		"ink_consumption": 0.01,
+		"run_speed": 0.72,
 		"status": {
 			"range": 62,
 			"fire_rate": 65,
@@ -1132,6 +1169,7 @@
 		"cost": 17200,
 		"weight": "medium",
 		"ink_consumption": 0.018,
+		"run_speed": 0.6,
 		"status": {
 			"range": 70,
 			"fire_rate": 30,
@@ -1162,6 +1200,7 @@
 		"cost": 18400,
 		"weight": "medium",
 		"ink_consumption": 0.018,
+		"run_speed": 0.6,
 		"status": {
 			"range": 70,
 			"fire_rate": 30,
@@ -1193,6 +1232,7 @@
 		"weight": "medium",
 		"ink_consumption": 0.01,
 		"ink_consumption_of_first_shot": 0.025,
+		"run_speed": 0.72,
 		"status": {
 			"range": 70,
 			"fire_rate": 45,
@@ -1223,6 +1263,8 @@
 		"cost": 10900,
 		"weight": "medium",
 		"ink_consumption": 0.01,
+		"ink_consumption_of_first_shot": 0.025,
+		"run_speed": 0.72,
 		"status": {
 			"range": 70,
 			"fire_rate": 45,
@@ -1255,6 +1297,8 @@
 		"weight": "light",
 		"ink_consumption": 0.045,
 		"ink_consumption_per_vertical_swing": 0.045,
+		"run_speed": 1.28,
+		"dash_speed": 1.52,
 		"status": {
 			"range": 20,
 			"ink_speed": 63,
@@ -1286,6 +1330,8 @@
 		"weight": "light",
 		"ink_consumption": 0.045,
 		"ink_consumption_per_vertical_swing": 0.045,
+		"run_speed": 1.28,
+		"dash_speed": 1.52,
 		"status": {
 			"range": 20,
 			"ink_speed": 63,
@@ -1317,6 +1363,8 @@
 		"weight": "medium",
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
+		"run_speed": 1.08,
+		"dash_speed": 1.32,
 		"status": {
 			"range": 48,
 			"ink_speed": 45,
@@ -1348,6 +1396,8 @@
 		"weight": "medium",
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
+		"run_speed": 1.08,
+		"dash_speed": 1.32,
 		"status": {
 			"range": 48,
 			"ink_speed": 45,
@@ -1379,6 +1429,8 @@
 		"weight": "medium",
 		"ink_consumption": 0.09,
 		"ink_consumption_per_vertical_swing": 0.09,
+		"run_speed": 1.08,
+		"dash_speed": 1.32,
 		"status": {
 			"range": 48,
 			"ink_speed": 45,
@@ -1410,6 +1462,8 @@
 		"weight": "heavy",
 		"ink_consumption": 0.18,
 		"ink_consumption_per_vertical_swing": 0.18,
+		"run_speed": 0.88,
+		"dash_speed": 1.08,
 		"status": {
 			"range": 76,
 			"ink_speed": 25,
@@ -1441,6 +1495,8 @@
 		"weight": "heavy",
 		"ink_consumption": 0.18,
 		"ink_consumption_per_vertical_swing": 0.18,
+		"run_speed": 0.88,
+		"dash_speed": 1.08,
 		"status": {
 			"range": 76,
 			"ink_speed": 25,
@@ -1472,6 +1528,8 @@
 		"weight": "medium",
 		"ink_consumption": 0.08,
 		"ink_consumption_per_vertical_swing": 0.12,
+		"run_speed": 1.08,
+		"dash_speed": 1.32,
 		"status": {
 			"range": 55,
 			"ink_speed": 45,
@@ -1503,6 +1561,8 @@
 		"weight": "medium",
 		"ink_consumption": 0.08,
 		"ink_consumption_per_vertical_swing": 0.12,
+		"run_speed": 1.08,
+		"dash_speed": 1.32,
 		"status": {
 			"range": 55,
 			"ink_speed": 45,
@@ -1533,6 +1593,7 @@
 		"cost": 2600,
 		"weight": "light",
 		"ink_consumption": 0.02,
+		"run_speed": 1.92,
 		"status": {
 			"range": 5,
 			"ink_speed": 100,
@@ -1563,6 +1624,7 @@
 		"cost": 7000,
 		"weight": "light",
 		"ink_consumption": 0.02,
+		"run_speed": 1.92,
 		"status": {
 			"range": 5,
 			"ink_speed": 100,
@@ -1593,6 +1655,7 @@
 		"cost": 8200,
 		"weight": "medium",
 		"ink_consumption": 0.032,
+		"run_speed": 1.68,
 		"status": {
 			"range": 23,
 			"ink_speed": 80,
@@ -1623,6 +1686,7 @@
 		"cost": 9900,
 		"weight": "medium",
 		"ink_consumption": 0.032,
+		"run_speed": 1.68,
 		"status": {
 			"range": 23,
 			"ink_speed": 80,
@@ -1653,6 +1717,7 @@
 		"cost": 9400,
 		"weight": "medium",
 		"ink_consumption": 0.032,
+		"run_speed": 1.68,
 		"status": {
 			"range": 23,
 			"ink_speed": 80,
@@ -1684,6 +1749,7 @@
 		"cost": 8900,
 		"weight": "medium",
 		"ink_consumption": 0.105,
+		"run_speed": 0.3,
 		"status": {
 			"range": 75,
 			"charge_speed": 70,
@@ -1714,6 +1780,7 @@
 		"cost": 11000,
 		"weight": "medium",
 		"ink_consumption": 0.105,
+		"run_speed": 0.3,
 		"status": {
 			"range": 75,
 			"charge_speed": 70,
@@ -1744,6 +1811,7 @@
 		"cost": 2200,
 		"weight": "medium",
 		"ink_consumption": 0.18,
+		"run_speed": 0.2,
 		"status": {
 			"range": 88,
 			"charge_speed": 50,
@@ -1774,6 +1842,7 @@
 		"cost": 10600,
 		"weight": "medium",
 		"ink_consumption": 0.18,
+		"run_speed": 0.2,
 		"status": {
 			"range": 88,
 			"charge_speed": 50,
@@ -1804,6 +1873,7 @@
 		"cost": 2700,
 		"weight": "medium",
 		"ink_consumption": 0.18,
+		"run_speed": 0.2,
 		"status": {
 			"range": 88,
 			"charge_speed": 50,
@@ -1834,6 +1904,7 @@
 		"cost": 11400,
 		"weight": "medium",
 		"ink_consumption": 0.18,
+		"run_speed": 0.2,
 		"status": {
 			"range": 91,
 			"charge_speed": 50,
@@ -1864,6 +1935,7 @@
 		"cost": 13900,
 		"weight": "medium",
 		"ink_consumption": 0.18,
+		"run_speed": 0.2,
 		"status": {
 			"range": 91,
 			"charge_speed": 50,
@@ -1894,6 +1966,7 @@
 		"cost": 13900,
 		"weight": "heavy",
 		"ink_consumption": 0.25,
+		"run_speed": 0.15,
 		"status": {
 			"range": 96,
 			"charge_speed": 20,
@@ -1924,6 +1997,7 @@
 		"cost": 14700,
 		"weight": "heavy",
 		"ink_consumption": 0.25,
+		"run_speed": 0.15,
 		"status": {
 			"range": 96,
 			"charge_speed": 20,
@@ -1954,6 +2028,7 @@
 		"cost": 23200,
 		"weight": "heavy",
 		"ink_consumption": 0.25,
+		"run_speed": 0.15,
 		"status": {
 			"range": 100,
 			"charge_speed": 20,
@@ -1984,6 +2059,7 @@
 		"cost": 29900,
 		"weight": "heavy",
 		"ink_consumption": 0.25,
+		"run_speed": 0.15,
 		"status": {
 			"range": 100,
 			"charge_speed": 20,
@@ -2014,6 +2090,7 @@
 		"cost": 9500,
 		"weight": "light",
 		"ink_consumption": 0.07,
+		"run_speed": 0.6,
 		"status": {
 			"range": 78,
 			"charge_speed": 90,
@@ -2044,6 +2121,7 @@
 		"cost": 10500,
 		"weight": "light",
 		"ink_consumption": 0.07,
+		"run_speed": 0.6,
 		"status": {
 			"range": 78,
 			"charge_speed": 90,
@@ -2074,6 +2152,7 @@
 		"cost": 13400,
 		"weight": "medium",
 		"ink_consumption": 0.15,
+		"run_speed": 0.3,
 		"status": {
 			"range": 78,
 			"charge_speed": 30,
@@ -2104,6 +2183,7 @@
 		"cost": 19300,
 		"weight": "medium",
 		"ink_consumption": 0.15,
+		"run_speed": 0.3,
 		"status": {
 			"range": 78,
 			"charge_speed": 30,
@@ -2135,6 +2215,7 @@
 		"cost": 2500,
 		"weight": "medium",
 		"ink_consumption": 0.07,
+		"run_speed": 0.4,
 		"status": {
 			"range": 58,
 			"damage": 85,
@@ -2165,6 +2246,7 @@
 		"weight": "medium",
 		"cost": 8000,
 		"ink_consumption": 0.07,
+		"run_speed": 0.4,
 		"status": {
 			"range": 58,
 			"damage": 85,
@@ -2195,6 +2277,7 @@
 		"cost": 3100,
 		"weight": "medium",
 		"ink_consumption": 0.07,
+		"run_speed": 0.4,
 		"status": {
 			"range": 58,
 			"damage": 85,
@@ -2225,6 +2308,7 @@
 		"cost": 10200,
 		"weight": "medium",
 		"ink_consumption": 0.06,
+		"run_speed": 0.66,
 		"status": {
 			"range": 39,
 			"damage": 80,
@@ -2255,6 +2339,7 @@
 		"cost": 11700,
 		"weight": "medium",
 		"ink_consumption": 0.06,
+		"run_speed": 0.66,
 		"status": {
 			"range": 39,
 			"damage": 80,
@@ -2285,6 +2370,7 @@
 		"cost": 12600,
 		"weight": "medium",
 		"ink_consumption": 0.07,
+		"run_speed": 0.7,
 		"status": {
 			"range": 60,
 			"damage": 90,
@@ -2315,6 +2401,7 @@
 		"cost": 19800,
 		"weight": "medium",
 		"ink_consumption": 0.07,
+		"run_speed": 0.7,
 		"status": {
 			"range": 60,
 			"damage": 90,
@@ -2345,6 +2432,7 @@
 		"cost": 10800,
 		"weight": "heavy",
 		"ink_consumption": 0.09,
+		"run_speed": 0.45,
 		"status": {
 			"range": 77,
 			"damage": 65,
@@ -2375,6 +2463,7 @@
 		"cost": 10000,
 		"weight": "medium",
 		"ink_consumption": 0.09,
+		"run_speed": 0.5,
 		"status": {
 			"range": 85,
 			"damage": 29,
@@ -2406,6 +2495,8 @@
 		"cost": 12300,
 		"weight": "medium",
 		"ink_consumption": 0.15,
+		"run_speed": 0.8,
+		"run_speed_in_charge": 0.7,
 		"status": {
 			"range": 62,
 			"charge_speed": 80,
@@ -2436,6 +2527,8 @@
 		"cost": 15400,
 		"weight": "medium",
 		"ink_consumption": 0.15,
+		"run_speed": 0.8,
+		"run_speed_in_charge": 0.7,
 		"status": {
 			"range": 62,
 			"charge_speed": 80,
@@ -2466,6 +2559,8 @@
 		"cost": 7800,
 		"weight": "medium",
 		"ink_consumption": 0.225,
+		"run_speed": 0.66,
+		"run_speed_in_charge": 0.6,
 		"status": {
 			"range": 78,
 			"charge_speed": 38,
@@ -2496,6 +2591,8 @@
 		"cost": 9600,
 		"weight": "medium",
 		"ink_consumption": 0.225,
+		"run_speed": 0.66,
+		"run_speed_in_charge": 0.6,
 		"status": {
 			"range": 78,
 			"charge_speed": 38,
@@ -2526,6 +2623,8 @@
 		"cost": 8600,
 		"weight": "medium",
 		"ink_consumption": 0.225,
+		"run_speed": 0.66,
+		"run_speed_in_charge": 0.6,
 		"status": {
 			"range": 78,
 			"charge_speed": 38,
@@ -2556,6 +2655,8 @@
 		"cost": 18500,
 		"weight": "heavy",
 		"ink_consumption": 0.35,
+		"run_speed": 0.6,
+		"run_speed_in_charge": 0.4,
 		"status": {
 			"range": 85,
 			"charge_speed": 10,
@@ -2586,6 +2687,8 @@
 		"cost": 33300,
 		"weight": "heavy",
 		"ink_consumption": 0.35,
+		"run_speed": 0.6,
+		"run_speed_in_charge": 0.4,
 		"status": {
 			"range": 85,
 			"charge_speed": 10,
@@ -2616,6 +2719,9 @@
 		"cost": 11600,
 		"weight": "medium",
 		"ink_consumption": 0.25,
+		"run_speed": 0.96,
+		"run_speed_in_charge": 0.96,
+		"run_speed_in_long": 0.5,
 		"status": {
 			"range": 85,
 			"charge_speed": 18,
@@ -2646,6 +2752,8 @@
 		"cost": 14700,
 		"weight": "medium",
 		"ink_consumption": 0.25,
+		"run_speed": 0.7,
+		"run_speed_in_charge": 0.4,
 		"status": {
 			"range": 74,
 			"charge_speed": 37,
@@ -2677,6 +2785,7 @@
 		"cost": 14700,
 		"weight": "light",
 		"ink_consumption": 0.0075,
+		"run_speed": 0.8,
 		"status": {
 			"range": 24,
 			"mobility": 80,
@@ -2707,6 +2816,7 @@
 		"cost": 17500,
 		"weight": "light",
 		"ink_consumption": 0.0075,
+		"run_speed": 0.8,
 		"status": {
 			"range": 24,
 			"mobility": 80,
@@ -2737,6 +2847,7 @@
 		"cost": 2400,
 		"weight": "medium",
 		"ink_consumption": 0.008,
+		"run_speed": 0.8,
 		"status": {
 			"range": 50,
 			"mobility": 70,
@@ -2767,6 +2878,7 @@
 		"cost": 9000,
 		"weight": "medium",
 		"ink_consumption": 0.008,
+		"run_speed": 0.8,
 		"status": {
 			"range": 50,
 			"mobility": 70,
@@ -2797,6 +2909,7 @@
 		"cost": 3100,
 		"weight": "medium",
 		"ink_consumption": 0.008,
+		"run_speed": 0.8,
 		"status": {
 			"range": 50,
 			"mobility": 70,
@@ -2827,6 +2940,7 @@
 		"cost": 11800,
 		"weight": "medium",
 		"ink_consumption": 0.016,
+		"run_speed": 0.6,
 		"status": {
 			"range": 60,
 			"mobility": 35,
@@ -2857,6 +2971,7 @@
 		"cost": 13700,
 		"weight": "medium",
 		"ink_consumption": 0.016,
+		"run_speed": 0.6,
 		"status": {
 			"range": 60,
 			"mobility": 35,
@@ -2887,6 +3002,7 @@
 		"cost": 9800,
 		"weight": "medium",
 		"ink_consumption": 0.012,
+		"run_speed": 0.72,
 		"status": {
 			"range": 70,
 			"mobility": 60,
@@ -2917,6 +3033,7 @@
 		"cost": 12900,
 		"weight": "medium",
 		"ink_consumption": 0.012,
+		"run_speed": 0.72,
 		"status": {
 			"range": 70,
 			"mobility": 60,
@@ -2947,6 +3064,7 @@
 		"cost": 10700,
 		"weight": "medium",
 		"ink_consumption": 0.008,
+		"run_speed": 0.72,
 		"status": {
 			"range": 55,
 			"mobility": 90,
@@ -2977,6 +3095,7 @@
 		"cost": 13300,
 		"weight": "medium",
 		"ink_consumption": 0.008,
+		"run_speed": 0.72,
 		"status": {
 			"range": 55,
 			"mobility": 90,
@@ -3008,6 +3127,8 @@
 		"cost": 8300,
 		"weight": "medium",
 		"ink_consumption": 0.055,
+		"run_speed": 0.65,
+		"run_speed_in_charge": 0.55,
 		"status": {
 			"range": 43,
 			"durability": 60,
@@ -3038,6 +3159,8 @@
 		"cost": 12000,
 		"weight": "medium",
 		"ink_consumption": 0.055,
+		"run_speed": 0.65,
+		"run_speed_in_charge": 0.55,
 		"status": {
 			"range": 43,
 			"durability": 60,
@@ -3068,6 +3191,8 @@
 		"cost": 9000,
 		"weight": "medium",
 		"ink_consumption": 0.055,
+		"run_speed": 0.65,
+		"run_speed_in_charge": 0.55,
 		"status": {
 			"range": 43,
 			"durability": 60,
@@ -3098,6 +3223,8 @@
 		"cost": 14200,
 		"weight": "heavy",
 		"ink_consumption": 0.1,
+		"run_speed": 0.5,
+		"run_speed_in_charge": 0.4,
 		"status": {
 			"range": 62,
 			"durability": 85,
@@ -3128,6 +3255,8 @@
 		"cost": 18600,
 		"weight": "heavy",
 		"ink_consumption": 0.1,
+		"run_speed": 0.5,
+		"run_speed_in_charge": 0.4,
 		"status": {
 			"range": 62,
 			"durability": 85,
@@ -3158,6 +3287,8 @@
 		"cost": 9100,
 		"weight": "medium",
 		"ink_consumption": 0.04,
+		"run_speed": 0.72,
+		"run_speed_in_charge": 0.72,
 		"status": {
 			"range": 50,
 			"durability": 25,
@@ -3188,6 +3319,8 @@
 		"cost": 11900,
 		"weight": "medium",
 		"ink_consumption": 0.04,
+		"run_speed": 0.72,
+		"run_speed_in_charge": 0.72,
 		"status": {
 			"range": 50,
 			"durability": 25,
