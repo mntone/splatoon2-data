@@ -309,6 +309,37 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"splattershot_kensa": {
+		"key": "splattershot_kensa",
+		"localization": {
+			"de": "Kensa-Kleckser",
+			"en": "Kensa Splattershot",
+			"es-419": "Rociador Tonken",
+			"es-es": "Lanzatintas elegante",
+			"fr-ca": "Liquéficateur Thony K",
+			"fr-fr": "Liquidateur K",
+			"it": "Splasher Nero Marlin",
+			"ja": "スプラシューターベッチュー",
+			"nl": "Toni Kensa Superspetter",
+			"ru": "Каплестрел от С. Кусаки"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "suction_bomb",
+		"special_key": "tenta_missiles",
+		"special_points": 180,
+		"unlocked_rank": 6,
+		"cost": 5300,
+		"weight": "medium",
+		"ink_consumption": 0.01,
+		"run_speed": 0.72,
+		"status": {
+			"range": 50,
+			"fire_rate": 60,
+			"damage": 45
+		},
+		"released_at": "2018-09-14T02:00:00Z"
+	},
 	"hero_shot": {
 		"key": "hero_shot",
 		"localization": {
@@ -1405,6 +1436,39 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"splat_roller_kensa": {
+		"key": "splat_roller_kensa",
+		"localization": {
+			"de": "Kensa-Klecksroller",
+			"en": "Kensa Splat Roller",
+			"es-419": "Rodillo básico Tonken",
+			"es-es": "Rodillo básico elegante",
+			"fr-ca": "Rouleau Thony K",
+			"fr-fr": "Rouleau K",
+			"it": "Rullo splat Nero Marlin",
+			"ja": "スプラローラーベッチュー",
+			"nl": "Toni Kensa Klodderroller",
+			"ru": "Валик от С. Кусаки"
+		},
+		"type_key": "roller",
+		"subtype_key": "roller",
+		"sub_key": "splat_bomb",
+		"special_key": "bubble_blower",
+		"special_points": 180,
+		"unlocked_rank": 14,
+		"cost": 12300,
+		"weight": "medium",
+		"ink_consumption": 0.09,
+		"ink_consumption_per_vertical_swing": 0.09,
+		"run_speed": 1.08,
+		"dash_speed": 1.32,
+		"status": {
+			"range": 48,
+			"ink_speed": 45,
+			"handling": 55
+		},
+		"released_at": "2018-09-14T02:00:00Z"
+	},
 	"hero_roller": {
 		"key": "hero_roller",
 		"localization": {
@@ -1850,6 +1914,37 @@
 		},
 		"released_at": "2017-07-21T00:00:00Z"
 	},
+	"kensa_charger": {
+		"key": "kensa_charger",
+		"localization": {
+			"de": "Kensa-Klecks-Konzentrator",
+			"en": "Kensa Charger",
+			"es-419": "Cargatintas Tonken",
+			"es-es": "Cargatintas elegante",
+			"fr-ca": "Concentraceur Thony K",
+			"fr-fr": "Concentraceur K",
+			"it": "Splatter a carica Nero Marlin",
+			"ja": "スプラチャージャーベッチュー",
+			"nl": "Toni Kensa Bloplader",
+			"ru": "Сплатган от С. Кусаки"
+		},
+		"type_key": "charger",
+		"subtype_key": "charger",
+		"sub_key": "sprinkler",
+		"special_key": "baller",
+		"special_points": 190,
+		"unlocked_rank": 19,
+		"cost": 14500,
+		"weight": "medium",
+		"ink_consumption": 0.18,
+		"run_speed": 0.2,
+		"status": {
+			"range": 88,
+			"charge_speed": 50,
+			"mobility": 40
+		},
+		"released_at": "2018-09-14T02:00:00Z"
+	},
 	"hero_charger": {
 		"key": "hero_charger",
 		"localization": {
@@ -1942,6 +2037,37 @@
 			"mobility": 30
 		},
 		"released_at": "2017-07-21T00:00:00Z"
+	},
+	"splatterscope_kensa": {
+		"key": "splatterscope_kensa",
+		"localization": {
+			"de": "Kensa-Ziel-Konzentrator",
+			"en": "Kensa Splatterscope",
+			"es-419": "Telecargatintas Tonken",
+			"es-es": "Cargatintas con mira elegante",
+			"fr-ca": "Concentraceur zoom Thony K",
+			"fr-fr": "Concentraceur zoom K",
+			"it": "Splatter con mirino Nero Marlin",
+			"ja": "スプラスコープベッチュー",
+			"nl": "Toni Kensa Schelpschutter",
+			"ru": "Снайпокрас от С. Кусаки"
+		},
+		"type_key": "charger",
+		"subtype_key": "charger",
+		"sub_key": "sprinkler",
+		"special_key": "baller",
+		"special_points": 190,
+		"unlocked_rank": 28,
+		"cost": 20400,
+		"weight": "medium",
+		"ink_consumption": 0.18,
+		"run_speed": 0.2,
+		"status": {
+			"range": 91,
+			"charge_speed": 50,
+			"mobility": 30
+		},
+		"released_at": "2018-09-14T02:00:00Z"
 	},
 	"eliter_4k": {
 		"key": "eliter_4k",
@@ -2885,6 +3011,37 @@
 			"damage": 22
 		},
 		"released_at": "2017-07-21T00:00:00Z"
+	},
+	"kensa_splat_dualies": {
+		"key": "kensa_splat_dualies",
+		"localization": {
+			"de": "Kensa-Klecks-Doppler",
+			"en": "Kensa Splat Dualies",
+			"es-419": "Difusor dual Tonken",
+			"es-es": "Difusor dual elegante",
+			"fr-ca": "Double encreur Thony K",
+			"fr-fr": "Double encreur K",
+			"it": "Repolper duplo Nero Marlin",
+			"ja": "スプラマニューバーベッチュー",
+			"nl": "Toni Kensa Dubbelknallers",
+			"ru": "Спуртометы от С. Кусаки"
+		},
+		"type_key": "dualies",
+		"subtype_key": "dualies",
+		"sub_key": "suction_bomb",
+		"special_key": "baller",
+		"special_points": 190,
+		"unlocked_rank": 16,
+		"cost": 13000,
+		"weight": "medium",
+		"ink_consumption": 0.008,
+		"run_speed": 0.8,
+		"status": {
+			"range": 50,
+			"mobility": 70,
+			"damage": 22
+		},
+		"released_at": "2018-09-14T02:00:00Z"
 	},
 	"hero_dualies": {
 		"key": "hero_dualies",
