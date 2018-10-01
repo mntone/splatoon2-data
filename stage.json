@@ -322,6 +322,23 @@
 		},
 		"released_at": "2018-03-02T02:00:00Z"
 	},
+	"new_albacore_hotel": {
+		"id": 19,
+		"key": "new_albacore_hotel",
+		"localization": {
+			"de": "Hotel Neothun",
+			"en": "New Albacore Hotel",
+			"es-419": "Gran Hotel Caviar",
+			"es-es": "Gran Hotel Caviar",
+			"fr-ca": "Hôtel Atoll",
+			"fr-fr": "Hôtel Atoll",
+			"it": "Hotel Tellina",
+			"ja": "ホテルニューオートロ",
+			"nl": "Hotel de Keizersvis",
+			"ru": "Отель «Прибой»"
+		},
+		"released_at": "2018-07-01T00:00:00Z"
+	},
 	"wahoo_world": {
 		"id": 20,
 		"key": "wahoo_world",
@@ -338,6 +355,23 @@
 			"ru": "Луна-парк «Язь»"
 		},
 		"released_at": "2018-06-01T00:00:00Z"
+	},
+	"anchov_games": {
+		"id": 21,
+		"key": "anchov_games",
+		"localization": {
+			"de": "Anchobit Games HQ",
+			"en": "Ancho-V Games",
+			"es-419": "Estadio Ajolote",
+			"es-es": "Estadio Ajolote",
+			"fr-ca": "Tentatec Studio",
+			"fr-fr": "Tentatec Studio",
+			"it": "Acciugames",
+			"ja": "アンチョビットゲームズ",
+			"nl": "Ansjobit-gamestudio",
+			"ru": "«Гуппи-Геймдев»"
+		},
+		"released_at": "2018-08-01T00:00:00Z"
 	},
 	"shifty_station": {
 		"id": 9999,
