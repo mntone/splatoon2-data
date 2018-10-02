@@ -77,7 +77,7 @@
 			"nl": "Robobom",
 			"ru": "Робобомба"
 		},
-		"ink_consumption": 0.7
+		"ink_consumption": 0.55
 	},
 	"ink_mine": {
 		"key": "ink_mine",
@@ -109,7 +109,7 @@
 			"nl": "Gifmist",
 			"ru": "Едкий туман"
 		},
-		"ink_consumption": 0.7
+		"ink_consumption": 0.5
 	},
 	"point_sensor": {
 		"key": "point_sensor",
@@ -157,7 +157,7 @@
 			"nl": "Inktsprinkler",
 			"ru": "Распылятор"
 		},
-		"ink_consumption": 0.7
+		"ink_consumption": 0.6
 	},
 	"squid_beakon": {
 		"key": "squid_beakon",
