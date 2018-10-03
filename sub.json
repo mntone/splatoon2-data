@@ -174,5 +174,21 @@
 			"ru": "Прыжковый маячок"
 		},
 		"ink_consumption": 0.75
+	},
+	"fizzy_bomb": {
+		"key": "fizzy_bomb",
+		"localization": {
+			"de": "Sprudel-Bombe",
+			"en": "Fizzy Bomb",
+			"es-419": "Bomba carbónica",
+			"es-es": "Bomba carbónica",
+			"fr-ca": "Bombe soda",
+			"fr-fr": "Bombe soda",
+			"it": "Bomba a gassosa",
+			"ja": "タンサンボム",
+			"nl": "Bomblikje",
+			"ru": "Содовая бомба"
+		},
+		"ink_consumption": 0.6
 	}
 }

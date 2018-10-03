@@ -588,6 +588,37 @@
 		},
 		"released_at": "2017-09-02T02:00:00Z"
 	},
+	"splattershot_pro_kensa": {
+		"key": "splattershot_pro_kensa",
+		"localization": {
+			"de": "Kensa-Profi-Kleckser",
+			"en": "Kensa Splattershot Pro",
+			"es-419": "Rociador Pro Tonken",
+			"es-es": "Lanzatintas plus elegante",
+			"fr-ca": "Liquéficateur pro Thony K",
+			"fr-fr": "Liquidateur pro K",
+			"it": "Splasher élite Nero Marlin",
+			"ja": "プライムシューターベッチュー",
+			"nl": "Toni Kensa Superspetter Pro",
+			"ru": "Каплестрел ПРО от С. К."
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "splat_bomb",
+		"special_key": "booyah_bomb",
+		"special_points": 180,
+		"unlocked_rank": 23,
+		"cost": 21900,
+		"weight": "medium",
+		"ink_consumption": 0.02,
+		"run_speed": 0.55,
+		"status": {
+			"range": 70,
+			"fire_rate": 30,
+			"damage": 60
+		},
+		"released_at": "2018-10-03T02:00:00Z"
+	},
 	"gal96": {
 		"key": "gal96",
 		"localization": {
@@ -773,6 +804,37 @@
 			"impact": 70
 		},
 		"released_at": "2018-02-24T02:00:00Z"
+	},
+	"luna_blaster_kensa": {
+		"key": "luna_blaster_kensa",
+		"localization": {
+			"de": "Kensa-Luna-Blaster",
+			"en": "Kensa Luna Blaster",
+			"es-419": "Lanzamotas Nova Tonken",
+			"es-es": "Ultradevastador elegante",
+			"fr-ca": "Proxiblasteur Thony K",
+			"fr-fr": "Proxiblaster K",
+			"it": "Blaster lunar Nero Marlin",
+			"ja": "ノヴァブラスターベッチュー",
+			"nl": "Toni Kensa Lunablaster",
+			"ru": "Лунобластер от С. Кусаки"
+		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
+		"sub_key": "fizzy_bomb",
+		"special_key": "ink_storm",
+		"special_points": 180,
+		"unlocked_rank": 26,
+		"cost": 16600,
+		"weight": "medium",
+		"ink_consumption": 0.09,
+		"run_speed": 0.5,
+		"status": {
+			"range": 9,
+			"fire_rate": 30,
+			"impact": 70
+		},
+		"released_at": "2018-10-03T02:00:00Z"
 	},
 	"blaster": {
 		"key": "blaster",
@@ -1567,6 +1629,39 @@
 			"handling": 20
 		},
 		"released_at": "2017-10-28T02:00:00Z"
+	},
+	"dynamo_roller_kensa": {
+		"key": "dynamo_roller_kensa",
+		"localization": {
+			"de": "Kensa-Dynaroller",
+			"en": "Kensa Dynamo Roller",
+			"es-419": "Rodillo Pro Tonken",
+			"es-es": "Dinamorrodillo elegante",
+			"fr-ca": "Dynamo-rouleau Thony K",
+			"fr-fr": "Dynamo-rouleau K",
+			"it": "Rullo dinamo Nero Marlin",
+			"ja": "ダイナモローラーベッチュー",
+			"nl": "Toni Kensa Dynamoroller",
+			"ru": "Мотовалик от С. Кусаки"
+		},
+		"type_key": "roller",
+		"subtype_key": "roller",
+		"sub_key": "sprinkler",
+		"special_key": "booyah_bomb",
+		"special_points": 180,
+		"unlocked_rank": 29,
+		"cost": 32300,
+		"weight": "heavy",
+		"ink_consumption": 0.18,
+		"ink_consumption_per_vertical_swing": 0.18,
+		"run_speed": 0.88,
+		"dash_speed": 1.08,
+		"status": {
+			"range": 76,
+			"ink_speed": 25,
+			"handling": 20
+		},
+		"released_at": "2018-10-03T02:00:00Z"
 	},
 	"flingza_roller": {
 		"key": "flingza_roller",
@@ -2534,6 +2629,37 @@
 			"handling": 40
 		},
 		"released_at": "2018-02-17T02:00:00Z"
+	},
+	"sloshing_machine_kensa": {
+		"key": "sloshing_machine_kensa",
+		"localization": {
+			"de": "Kensa-Trommel-Schwapper",
+			"en": "Kensa Sloshing Machine",
+			"es-419": "Derramatic centrífugo Tonken",
+			"es-es": "Derramatic centrífugo elegante",
+			"fr-ca": "Encrifugeur Thony K",
+			"fr-fr": "Encrifugeur K",
+			"it": "Secchiostro centrifuga Nero Marlin",
+			"ja": "スクリュースロッシャーベッチュー",
+			"nl": "Toni Kensa Klotstrommel",
+			"ru": "Центрифугер от С. Кусаки"
+		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
+		"sub_key": "fizzy_bomb",
+		"special_key": "splashdown",
+		"special_points": 170,
+		"unlocked_rank": 21,
+		"cost": 20700,
+		"weight": "medium",
+		"ink_consumption": 0.07,
+		"run_speed": 0.7,
+		"status": {
+			"range": 60,
+			"damage": 90,
+			"handling": 40
+		},
+		"released_at": "2018-10-03T02:00:00Z"
 	},
 	"explosher": {
 		"key": "explosher",

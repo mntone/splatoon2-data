@@ -193,5 +193,20 @@
 			"nl": "Bellenblazer",
 			"ru": "Пузырятор"
 		}
+	},
+	"booyah_bomb": {
+		"key": "booyah_bomb",
+		"localization": {
+			"de": "Cool-Kugel",
+			"en": "Booyah Bomb",
+			"es-419": "Bola genializante",
+			"es-es": "Bola genializante",
+			"fr-ca": "Jolizator",
+			"fr-fr": "Jolizator",
+			"it": "Granbotto",
+			"ja": "ナイスダマ",
+			"nl": "Coole bom",
+			"ru": "Йо-хо-плюхер"
+		}
 	}
 }

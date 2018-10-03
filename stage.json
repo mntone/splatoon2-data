@@ -373,6 +373,23 @@
 		},
 		"released_at": "2018-08-01T00:00:00Z"
 	},
+	"skipper_pavilion": {
+		"id": 22,
+		"key": "skipper_pavilion",
+		"localization": {
+			"de": "Grundel-Pavillon",
+			"en": "Skipper Pavilion",
+			"es-419": "Puerta del Gobio",
+			"es-es": "Puerta del Gobio",
+			"fr-ca": "Lagune aux gobies",
+			"fr-fr": "Lagune aux gobies",
+			"it": "Padiglione Capitone",
+			"ja": "ムツゴ楼",
+			"nl": "Palingpaviljoen",
+			"ru": "Парк «Во Сток!»"
+		},
+		"released_at": "2018-10-03T00:00:00Z"
+	},
 	"shifty_station": {
 		"id": 9999,
 		"key": "shifty_station",
