@@ -190,5 +190,21 @@
 			"ru": "Содовая бомба"
 		},
 		"ink_consumption": 0.6
+	},
+	"torpedo": {
+		"key": "torpedo",
+		"localization": {
+			"de": "Torpedo",
+			"en": "Torpedo",
+			"es-419": "Torpedo",
+			"es-es": "Torpedo",
+			"fr-ca": "Bentorpille",
+			"fr-fr": "Bentorpille",
+			"it": "Torpedinatore",
+			"ja": "トーピード",
+			"nl": "Torpedobom",
+			"ru": "Торпедная бомба"
+		},
+		"ink_consumption": 0.6
 	}
 }

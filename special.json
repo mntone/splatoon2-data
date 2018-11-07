@@ -208,5 +208,20 @@
 			"nl": "Coole bom",
 			"ru": "Йо-хо-плюхер"
 		}
+	},
+	"ultra_stamp": {
+		"key": "ultra_stamp",
+		"localization": {
+			"de": "Ultra-Stempel",
+			"en": "Ultra Stamp",
+			"es-419": "Ultraselladora",
+			"es-es": "Ultraselladora",
+			"fr-ca": "Ultra-ètampeur",
+			"fr-fr": "Ultra-tamponneur",
+			"it": "Mega timbro",
+			"ja": "ウルトラハンコ",
+			"nl": "Ultrastempel",
+			"ru": "Припечать"
+		}
 	}
 }

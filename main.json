@@ -123,6 +123,37 @@
 		},
 		"released_at": "2017-09-09T02:00:00Z"
 	},
+	"splattershot_jr_kensa": {
+		"key": "splattershot_jr_kensa",
+		"localization": {
+			"de": "Kensa-Junior-Kleckser",
+			"en": "Kensa Splattershot Jr.",
+			"es-419": "Rociador básico Tonken",
+			"es-es": "Lanzatintas novato elegante",
+			"fr-ca": "Liquéficateur Ultra Thony K",
+			"fr-fr": "Liquidateur Jr. K",
+			"it": "Sparacolore recluta Nero Marlin",
+			"ja": "おちばシューター",
+			"nl": "Toni Kensa Superspetter jr.",
+			"ru": "Каплестрел-У.С.К."
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "torpedo",
+		"special_key": "bubble_blower",
+		"special_points": 190,
+		"unlocked_rank": 9,
+		"cost": 8700,
+		"weight": "light",
+		"ink_consumption": 0.005,
+		"run_speed": 0.72,
+		"status": {
+			"range": 35,
+			"fire_rate": 75,
+			"damage": 22
+		},
+		"released_at": "2018-11-07T02:00:00Z"
+	},
 	"splash_o_matic": {
 		"key": "splash_o_matic",
 		"localization": {
@@ -1239,6 +1270,37 @@
 		},
 		"released_at": "2018-01-05T02:00:00Z"
 	},
+	"l3_nozzlenose_kensa": {
+		"key": "l3_nozzlenose_kensa",
+		"localization": {
+			"de": "Kensa-L3-Tintenwerfer",
+			"en": "Kensa L-3 Nozzlenose",
+			"es-419": "Manguera ligera Tonken",
+			"es-es": "Tintambor ligero elegante",
+			"fr-ca": "Arroseur léger Thony K",
+			"fr-fr": "Arroseur léger K",
+			"it": "Triplete compatto Nero Marlin",
+			"ja": "L3リールガンベッチュー",
+			"nl": "Toni Kensa L-3 Stompsnuit",
+			"ru": "Каплетрон-компакт С.К."
+		},
+		"type_key": "shooter",
+		"subtype_key": "nozzlenose",
+		"sub_key": "splash_wall",
+		"special_key": "ultra_stamp",
+		"special_points": 190,
+		"unlocked_rank": 27,
+		"cost": 17700,
+		"weight": "medium",
+		"ink_consumption": 0.01,
+		"run_speed": 0.8,
+		"status": {
+			"range": 62,
+			"fire_rate": 65,
+			"damage": 25
+		},
+		"released_at": "2018-11-07T02:00:00Z"
+	},
 	"h3_nozzlenose": {
 		"key": "h3_nozzlenose",
 		"localization": {
@@ -1852,6 +1914,37 @@
 			"handling": 85
 		},
 		"released_at": "2018-01-02T02:00:00Z"
+	},
+	"octobrush_kensa": {
+		"key": "octobrush_kensa",
+		"localization": {
+			"de": "Kensa-Kalligraf",
+			"en": "Kensa Octobrush",
+			"es-419": "Pincel caligrafía Tonken",
+			"es-es": "Brocha elegante",
+			"fr-ca": "Épinceau Thony K",
+			"fr-fr": "Épinceau K",
+			"it": "Tinturicchio Nero Marlin",
+			"ja": "ホクサイベッチュー",
+			"nl": "Toni Kensa Octokwast",
+			"ru": "Арт-кисть от С. Кусаки"
+		},
+		"type_key": "roller",
+		"subtype_key": "brush",
+		"sub_key": "suction_bomb",
+		"special_key": "ultra_stamp",
+		"special_points": 190,
+		"unlocked_rank": 20,
+		"cost": 13200,
+		"weight": "medium",
+		"ink_consumption": 0.032,
+		"run_speed": 1.68,
+		"status": {
+			"range": 23,
+			"ink_speed": 80,
+			"handling": 85
+		},
+		"released_at": "2018-11-07T02:00:00Z"
 	},
 	"herobrush": {
 		"key": "herobrush",
@@ -3610,5 +3703,37 @@
 			"damage": 30
 		},
 		"released_at": "2018-06-01T00:00:00Z"
+	},
+	"undercover_brella_kensa": {
+		"key": "undercover_brella_kensa",
+		"localization": {
+			"de": "Kensa-UnderCover",
+			"en": "Kensa Undercover Brella",
+			"es-419": "Paratintas discreto Tonken",
+			"es-es": "Paratintas clásico elegante",
+			"fr-ca": "Para-encre espion Thony K",
+			"fr-fr": "Para-encre espion K",
+			"it": "Bombrello Nero Marlin",
+			"ja": "スパイガジェットベッチュー",
+			"nl": "Toni Kensa Paraplenzer",
+			"ru": "Шпионский зонт от С. К."
+		},
+		"type_key": "brella",
+		"subtype_key": "brella",
+		"sub_key": "torpedo",
+		"special_key": "ink_armor",
+		"special_points": 180,
+		"unlocked_rank": 24,
+		"cost": 14800,
+		"weight": "medium",
+		"ink_consumption": 0.04,
+		"run_speed": 0.72,
+		"run_speed_in_charge": 0.72,
+		"status": {
+			"range": 50,
+			"durability": 25,
+			"damage": 30
+		},
+		"released_at": "2018-11-07T02:00:00Z"
 	}
 }
