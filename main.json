@@ -1200,7 +1200,7 @@
 		"cost": 10400,
 		"weight": "medium",
 		"ink_consumption": 0.01,
-		"run_speed": 0.72,
+		"run_speed": 0.8,
 		"status": {
 			"range": 62,
 			"fire_rate": 65,
@@ -1231,7 +1231,7 @@
 		"cost": 12500,
 		"weight": "medium",
 		"ink_consumption": 0.01,
-		"run_speed": 0.72,
+		"run_speed": 0.8,
 		"status": {
 			"range": 62,
 			"fire_rate": 65,
