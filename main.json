@@ -2754,37 +2754,6 @@
 		},
 		"released_at": "2018-10-03T02:00:00Z"
 	},
-	"explosher": {
-		"key": "explosher",
-		"localization": {
-			"de": "Knall-Schwapper",
-			"en": "Explosher",
-			"es-419": "Derramatic XP",
-			"es-es": "Derramatic turbo",
-			"fr-ca": "Détoneur",
-			"fr-fr": "Détoneur",
-			"it": "Termosecchiostro",
-			"ja": "エクスプロッシャー",
-			"nl": "Kliederkachel",
-			"ru": "Шпарган"
-		},
-		"type_key": "splatling",
-		"subtype_key": "splatling",
-		"sub_key": "sprinkler",
-		"special_key": "bubble_blower",
-		"special_points": 200,
-		"unlocked_rank": 18,
-		"cost": 10800,
-		"weight": "heavy",
-		"ink_consumption": 0.09,
-		"run_speed": 0.45,
-		"status": {
-			"range": 77,
-			"damage": 65,
-			"handling": 20
-		},
-		"released_at": "2018-07-01T00:00:00Z"
-	},
 	"bloblobber": {
 		"key": "bloblobber",
 		"localization": {
@@ -2815,6 +2784,37 @@
 			"handling": 50
 		},
 		"released_at": "2018-08-01T00:00:00Z"
+	},
+	"explosher": {
+		"key": "explosher",
+		"localization": {
+			"de": "Knall-Schwapper",
+			"en": "Explosher",
+			"es-419": "Derramatic XP",
+			"es-es": "Derramatic turbo",
+			"fr-ca": "Détoneur",
+			"fr-fr": "Détoneur",
+			"it": "Termosecchiostro",
+			"ja": "エクスプロッシャー",
+			"nl": "Kliederkachel",
+			"ru": "Шпарган"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "sprinkler",
+		"special_key": "bubble_blower",
+		"special_points": 200,
+		"unlocked_rank": 18,
+		"cost": 10800,
+		"weight": "heavy",
+		"ink_consumption": 0.09,
+		"run_speed": 0.45,
+		"status": {
+			"range": 77,
+			"damage": 65,
+			"handling": 20
+		},
+		"released_at": "2018-07-01T00:00:00Z"
 	},
 
 	"mini_splatling": {
