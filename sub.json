@@ -125,7 +125,7 @@
 			"nl": "Detector",
 			"ru": "Маркер движения"
 		},
-		"ink_consumption": 0.6
+		"ink_consumption": 0.55
 	},
 	"splash_wall": {
 		"key": "splash_wall",
