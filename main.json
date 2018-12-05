@@ -495,6 +495,37 @@
 		},
 		"released_at": "2018-01-20T02:00:00Z"
 	},
+	"gal52kensa": {
+		"key": "gal52kensa",
+		"localization": {
+			"de": "Kensa-.52-Gallon",
+			"en": "Kensa .52 Gal",
+			"es-419": "Salpicadora 2000 Tonken",
+			"es-es": "Salpicadora 2000 elegante",
+			"fr-ca": "Calibre 2000 Thony K",
+			"fr-fr": "Calibre 2000 K",
+			"it": "Calibro 2000 Nero Marlin",
+			"ja": ".52ガロンベッチュー",
+			"nl": "Toni Kensa .52 Kaliter",
+			"ru": "Струевик .52 от С. Кусаки"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "splash_wall",
+		"special_key": "booyah_bomb",
+		"special_points": 180,
+		"unlocked_rank": 25,
+		"cost": 15600,
+		"weight": "medium",
+		"ink_consumption": 0.013,
+		"run_speed": 0.6,
+		"status": {
+			"range": 55,
+			"fire_rate": 25,
+			"damage": 75
+		},
+		"released_at": "2018-12-05T02:00:00Z"
+	},
 	"nzap85": {
 		"key": "nzap85",
 		"localization": {
@@ -1145,6 +1176,37 @@
 			"impact": 35
 		},
 		"released_at": "2018-01-27T02:00:00Z"
+	},
+	"rapid_blaster_kensa": {
+		"key": "rapid_blaster_kensa",
+		"localization": {
+			"de": "Kensa-Turbo-Blaster",
+			"en": "Kensa Rapid Blaster",
+			"es-419": "Turbolanzamotas Tonken",
+			"es-es": "Devastador exprés elegante",
+			"fr-ca": "Turboblasteur Thony K",
+			"fr-fr": "Turboblaster K",
+			"it": "Blaster rapido Nero Marlin",
+			"ja": "ラピッドブラスターベッチュー",
+			"nl": "Toni Kensa Flitsblaster",
+			"ru": "Бластермат от С. Кусаки"
+		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
+		"sub_key": "torpedo",
+		"special_key": "baller",
+		"special_points": 200,
+		"unlocked_rank": 21,
+		"cost": 13500,
+		"weight": "medium",
+		"ink_consumption": 0.07,
+		"run_speed": 0.55,
+		"status": {
+			"range": 62,
+			"fire_rate": 40,
+			"impact": 35
+		},
+		"released_at": "2018-12-05T02:00:00Z"
 	},
 	"rapid_blaster_pro": {
 		"key": "rapid_blaster_pro",
@@ -2785,6 +2847,37 @@
 		},
 		"released_at": "2018-08-01T00:00:00Z"
 	},
+	"bloblobber_deco": {
+		"key": "bloblobber_deco",
+		"localization": {
+			"de": "Wannen-Schwapper Deko",
+			"en": "Bloblobber Deco",
+			"es-419": "Derramatic baño chic",
+			"es-es": "Derramatic baño DX",
+			"fr-ca": "Bassineur chic",
+			"fr-fr": "Bassineur chic",
+			"it": "Secchiostro vasca DX",
+			"ja": "オーバーフロッシャーデコ",
+			"nl": "Spatkuip Deco",
+			"ru": "Ваннаган «Деко»"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "sprinkler",
+		"special_key": "bomb_launcher_suction",
+		"special_points": 180,
+		"unlocked_rank": 20,
+		"cost": 17600,
+		"weight": "medium",
+		"ink_consumption": 0.09,
+		"run_speed": 0.5,
+		"status": {
+			"range": 85,
+			"damage": 29,
+			"handling": 50
+		},
+		"released_at": "2018-12-05T02:00:00Z"
+	},
 	"explosher": {
 		"key": "explosher",
 		"localization": {
@@ -2815,6 +2908,37 @@
 			"handling": 20
 		},
 		"released_at": "2018-07-01T00:00:00Z"
+	},
+	"explosher_custom": {
+		"key": "explosher_custom",
+		"localization": {
+			"de": "Knall-Schwapper SE",
+			"en": "Custom Explosher",
+			"es-419": "Derramatic XP adaptado",
+			"es-es": "Derramatic turbo SP",
+			"fr-ca": "Détoneur modifié",
+			"fr-fr": "Détoneur modifié",
+			"it": "Termosecchiostro master",
+			"ja": "エクスプロッシャーカスタム",
+			"nl": "Gemodde Kliederkachel",
+			"ru": "Шпарган «Понт»"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "point_sensor",
+		"special_key": "baller",
+		"special_points": 190,
+		"unlocked_rank": 22,
+		"cost": 12400,
+		"weight": "heavy",
+		"ink_consumption": 0.09,
+		"run_speed": 0.45,
+		"status": {
+			"range": 77,
+			"damage": 65,
+			"handling": 20
+		},
+		"released_at": "2018-12-05T02:00:00Z"
 	},
 
 	"mini_splatling": {
@@ -2880,6 +3004,38 @@
 			"mobility": 90
 		},
 		"released_at": "2018-03-24T02:00:00Z"
+	},
+	"mini_splatling_kensa": {
+		"key": "mini_splatling_kensa",
+		"localization": {
+			"de": "Kensa-Klecks-Splatling",
+			"en": "Kensa Mini Splatling",
+			"es-419": "Garabateador Tonken",
+			"es-es": "Tintralladora ligera elegante",
+			"fr-ca": "Badigeonneur XP Thony K",
+			"fr-fr": "Badigeonneur XS K",
+			"it": "Mini splatling Nero Marlin",
+			"ja": "スプラスピナーベッチュー",
+			"nl": "Toni Kensa Mini-Spetling",
+			"ru": "Брызгомет-М от С. Кусаки"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "toxic_mist",
+		"special_key": "ultra_stamp",
+		"special_points": 180,
+		"unlocked_rank": 29,
+		"cost": 18800,
+		"weight": "medium",
+		"ink_consumption": 0.15,
+		"run_speed": 0.8,
+		"run_speed_in_charge": 0.7,
+		"status": {
+			"range": 62,
+			"charge_speed": 80,
+			"mobility": 90
+		},
+		"released_at": "2018-12-05T02:00:00Z"
 	},
 	"heavy_splatling": {
 		"key": "heavy_splatling",
@@ -3074,6 +3230,39 @@
 		},
 		"released_at": "2018-07-01T00:00:00Z"
 	},
+	"ballpoint_splatling_nouveau": {
+		"key": "ballpoint_splatling_nouveau",
+		"localization": {
+			"de": "Kuli-Splatling Fresco",
+			"en": "Ballpoint Splatling Nouveau",
+			"es-419": "Garabateador PLM maestro",
+			"es-es": "Ametrallógrafo maestro",
+			"fr-ca": "Badigeonneur stylo nuancé",
+			"fr-fr": "Badigeonneur stylo nuancé",
+			"it": "Tetrapenna master",
+			"ja": "クーゲルシュライバー・ヒュー",
+			"nl": "Stylospetling Nouveau",
+			"ru": "Кугельшрайбер «НуВо»"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "squid_beakon",
+		"special_key": "ink_storm",
+		"special_points": 190,
+		"unlocked_rank": 28,
+		"cost": 15800,
+		"weight": "medium",
+		"ink_consumption": 0.25,
+		"run_speed": 0.96,
+		"run_speed_in_charge": 0.96,
+		"run_speed_in_long": 0.5,
+		"status": {
+			"range": 85,
+			"charge_speed": 18,
+			"mobility": 60
+		},
+		"released_at": "2018-12-05T02:00:00Z"
+	},
 	"nautilus_47": {
 		"key": "nautilus_47",
 		"localization": {
@@ -3105,6 +3294,38 @@
 			"mobility": 70
 		},
 		"released_at": "2018-08-01T00:00:00Z"
+	},
+	"nautilus_79": {
+		"key": "nautilus_79",
+		"localization": {
+			"de": "Nautilus 79",
+			"en": "Nautilus 79",
+			"es-419": "Nautilo 79",
+			"es-es": "Subtralladora 79",
+			"fr-ca": "Nautilus 79",
+			"fr-fr": "Nautilus 79",
+			"it": "Nautilus 79",
+			"ja": "ノーチラス79",
+			"nl": "Nautilus 79",
+			"ru": "Наутилус-79"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "suction_bomb",
+		"special_key": "inkjet",
+		"special_points": 180,
+		"unlocked_rank": 30,
+		"cost": 27900,
+		"weight": "medium",
+		"ink_consumption": 0.25,
+		"run_speed": 0.7,
+		"run_speed_in_charge": 0.4,
+		"status": {
+			"range": 74,
+			"charge_speed": 37,
+			"mobility": 70
+		},
+		"released_at": "2018-12-05T02:00:00Z"
 	},
 
 	"dapple_dualies": {
@@ -3354,6 +3575,37 @@
 			"damage": 76
 		},
 		"released_at": "2018-04-25T02:00:00Z"
+	},
+	"glooga_dualies_kensa": {
+		"key": "glooga_dualies_kensa",
+		"localization": {
+			"de": "Kensa-Kelvin-525",
+			"en": "Kensa Glooga Dualies",
+			"es-419": "Fundidora 525 dual Tonken",
+			"es-es": "Fundidora 525 dual elegante",
+			"fr-ca": "Double Kelvin 525 Thony K",
+			"fr-fr": "Double Kelvin 525 K",
+			"it": "Kelvin duplo 525 Nero Marlin",
+			"ja": "ケルビン525ベッチュー",
+			"nl": "Toni Kensa Kelvin 525",
+			"ru": "Термоплюхи 525 от С. К."
+		},
+		"type_key": "dualies",
+		"subtype_key": "dualies",
+		"sub_key": "fizzy_bomb",
+		"special_key": "ink_armor",
+		"special_points": 190,
+		"unlocked_rank": 27,
+		"cost": 17000,
+		"weight": "medium",
+		"ink_consumption": 0.016,
+		"run_speed": 0.6,
+		"status": {
+			"range": 66,
+			"mobility": 35,
+			"damage": 76
+		},
+		"released_at": "2018-12-05T02:00:00Z"
 	},
 	"dualie_squelchers": {
 		"key": "dualie_squelchers",
