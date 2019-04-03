@@ -61,6 +61,37 @@
 		},
 		"released_at": "2020-12-31T02:00:00Z"
 	},
+	"sploosh_o_matic_7": {
+		"key": "sploosh_o_matic_7",
+		"localization": {
+			"de": "Disperser 7",
+			"en-gb": "Sploosh-o-matic",
+			"es-419": "Marcador grueso 7",
+			"es-es": "Marcador versátil",
+			"fr-ca": "Marqueur lourd 7",
+			"fr-fr": "Marqueur lourd 7",
+			"it": "Marker multi",
+			"ja": "ボールドマーカー7",
+			"nl": "Spettertuit 7",
+			"ru": "Плюхотрон-7"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "splat_bomb",
+		"special_key": "ultra_stamp",
+		"special_points": 180,
+		"unlocked_rank": 23,
+		"cost": 14600,
+		"weight": "light",
+		"ink_consumption": 0.008,
+		"run_speed": 0.8,
+		"status": {
+			"range": 12,
+			"fire_rate": 75,
+			"damage": 52
+		},
+		"released_at": "2019-04-03T02:00:00Z"
+	},
 	"splattershot_jr": {
 		"key": "splattershot_jr",
 		"localization": {
@@ -277,6 +308,37 @@
 			"damage": 10
 		},
 		"released_at": "2017-07-21T00:00:00Z"
+	},
+	"aerospray_pg": {
+		"key": "aerospray_pg",
+		"localization": {
+			"de": "Airbrush PG",
+			"en": "Aerospray PG",
+			"es-419": "Aerógrafo GE",
+			"es-es": "Aerógrafo extra",
+			"fr-ca": "Pouche-pouche sélect",
+			"fr-fr": "Aérogun select",
+			"it": "Aerografo deluxe",
+			"ja": "プロモデラーPG",
+			"nl": "Kladderwerper Ultima",
+			"ru": "Аэроспрей ИДЕАД"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "burst_bomb",
+		"special_key": "booyah_bomb",
+		"special_points": 180,
+		"unlocked_rank": 29,
+		"cost": 19000,
+		"weight": "light",
+		"ink_consumption": 0.0055,
+		"run_speed": 0.72,
+		"status": {
+			"range": 35,
+			"fire_rate": 90,
+			"damage": 10
+		},
+		"released_at": "2019-04-03T02:00:00Z"
 	},
 	"splattershot": {
 		"key": "splattershot",
@@ -587,6 +649,37 @@
 			"damage": 22
 		},
 		"released_at": "2017-12-09T02:00:00Z"
+	},
+	"nzap83": {
+		"key": "nzap83",
+		"localization": {
+			"de": "N-ZAP83",
+			"en": "N-ZAP '83",
+			"es-419": "N-ZAP 83",
+			"es-es": "N-ZAP 83",
+			"fr-ca": "N-ZAP 83",
+			"fr-fr": "N-ZAP 83",
+			"it": "N-ZAP83",
+			"ja": "N-ZAP83",
+			"nl": "N-ZAP '83",
+			"ru": "N-ZAP 83"
+		},
+		"type_key": "shooter",
+		"subtype_key": "shooter",
+		"sub_key": "sprinkler",
+		"special_key": "ink_storm",
+		"special_points": 180,
+		"unlocked_rank": 19,
+		"cost": 11100,
+		"weight": "medium",
+		"ink_consumption": 0.008,
+		"run_speed": 0.84,
+		"status": {
+			"range": 50,
+			"fire_rate": 75,
+			"damage": 22
+		},
+		"released_at": "2019-04-03T02:00:00Z"
 	},
 	"splattershot_pro": {
 		"key": "splattershot_pro",
@@ -1053,6 +1146,37 @@
 		},
 		"released_at": "2018-04-21T02:00:00Z"
 	},
+	"range_blaster_grim": {
+		"key": "range_blaster_grim",
+		"localization": {
+			"de": "Fern-Blaster Inferno",
+			"en": "Grim Range Blaster",
+			"es-419": "Telelanzamotas funesto",
+			"es-es": "Teledevastador tétrico",
+			"fr-ca": "Éclablasteur lugubre",
+			"fr-fr": "Éclablaster Nox",
+			"it": "Blaster a distanza dark",
+			"ja": "ロングブラスターネクロ",
+			"nl": "Duistere Teleblaster",
+			"ru": "Дальнобластер «Мрак»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "blaster",
+		"sub_key": "burst_bomb",
+		"special_key": "tenta_missiles",
+		"special_points": 190,
+		"unlocked_rank": 18,
+		"cost": 14900,
+		"weight": "medium",
+		"ink_consumption": 0.11,
+		"run_speed": 0.4,
+		"status": {
+			"range": 56,
+			"fire_rate": 10,
+			"impact": 70
+		},
+		"released_at": "2019-04-03T02:00:00Z"
+	},
 	"clash_blaster": {
 		"key": "clash_blaster",
 		"localization": {
@@ -1424,6 +1548,37 @@
 			"damage": 58
 		},
 		"released_at": "2018-03-17T02:00:00Z"
+	},
+	"h3_nozzlenose_cherry": {
+		"key": "h3_nozzlenose_cherry",
+		"localization": {
+			"de": "S3 Tintenwerfer Kirsch",
+			"en": "Cherry H-3 Nozzlenose",
+			"es-419": "Manguera pesada cereza",
+			"es-es": "Tintambor pesado cereza",
+			"fr-ca": "Arroseur lourd cerise",
+			"fr-fr": "Arroseur lourd Cerise",
+			"it": "Triplete ciliegia",
+			"ja": "H3リールガンチェリー",
+			"nl": "H-3 Langsnuit Kers",
+			"ru": "Т-каплетрон «Вишня»"
+		},
+		"type_key": "shooter",
+		"subtype_key": "nozzlenose",
+		"sub_key": "splash_wall",
+		"special_key": "bubble_blower",
+		"special_points": 190,
+		"unlocked_rank": 30,
+		"cost": 26600,
+		"weight": "medium",
+		"ink_consumption": 0.018,
+		"run_speed": 0.6,
+		"status": {
+			"range": 70,
+			"fire_rate": 30,
+			"damage": 58
+		},
+		"released_at": "2019-04-03T02:00:00Z"
 	},
 	"squeezer": {
 		"key": "squeezer",
@@ -2102,6 +2257,38 @@
 		},
 		"released_at": "2018-04-25T02:00:00Z"
 	},
+	"squiffer_fresh": {
+		"key": "squiffer_fresh",
+		"localization": {
+			"de": "Sepiator γ",
+			"en-gb": "Fresh Squiffer",
+			"en-us": "Fresh Squiffer",
+			"es-419": "Delineador Z",
+			"es-es": "Kalarrapid γ",
+			"fr-ca": "Lignizateur gamma",
+			"fr-fr": "Décap'express Gamma",
+			"it": "Kalamarapid γ",
+			"ja": "スクイックリンγ",
+			"nl": "Octopoets Gamma",
+			"ru": "Стиратель «Свежесть»"
+		},
+		"type_key": "charger",
+		"subtype_key": "charger",
+		"sub_key": "suction_bomb",
+		"special_key": "inkjet",
+		"special_points": 190,
+		"unlocked_rank": 24,
+		"cost": 14100,
+		"weight": "medium",
+		"ink_consumption": 0.105,
+		"run_speed": 0.3,
+		"status": {
+			"range": 75,
+			"charge_speed": 70,
+			"mobility": 60
+		},
+		"released_at": "2019-04-03T02:00:00Z"
+	},
 	"splat_charger": {
 		"key": "splat_charger",
 		"localization": {
@@ -2505,6 +2692,37 @@
 		},
 		"released_at": "2018-07-01T00:00:00Z"
 	},
+	"bamboozler14_mk3": {
+		"key": "bamboozler14_mk3",
+		"localization": {
+			"de": "Klotzer 14-C",
+			"en": "Bamboozler 14 Mk III",
+			"es-419": "Bamzuka 14-III",
+			"es-es": "Bambufusil 14-III",
+			"fr-ca": "Bimbamboum Mk III",
+			"fr-fr": "Bimbamboum Mk III",
+			"it": "Bimbamboom 14-III",
+			"ja": "14式竹筒銃・丙",
+			"nl": "Bamboem 14-C",
+			"ru": "Бамбух 14-III"
+		},
+		"type_key": "charger",
+		"subtype_key": "charger",
+		"sub_key": "fizzy_bomb",
+		"special_key": "bubble_blower",
+		"special_points": 190,
+		"unlocked_rank": 21,
+		"cost": 14400,
+		"weight": "light",
+		"ink_consumption": 0.07,
+		"run_speed": 0.6,
+		"status": {
+			"range": 78,
+			"charge_speed": 90,
+			"mobility": 80
+		},
+		"released_at": "2019-04-03T02:00:00Z"
+	},
 	"goo_tuber": {
 		"key": "goo_tuber",
 		"localization": {
@@ -2629,6 +2847,37 @@
 			"handling": 50
 		},
 		"released_at": "2017-12-15T02:00:00Z"
+	},
+	"slosher_soda": {
+		"key": "slosher_soda",
+		"localization": {
+			"de": "Sprudel-Schwapper",
+			"en": "Soda Slosher",
+			"es-419": "Derramatic burbujeante",
+			"es-es": "Derramatic centella",
+			"fr-ca": "Seauceur pétillant",
+			"fr-fr": "Seauceur Diabolo",
+			"it": "Secchiostro frizzante",
+			"ja": "バケットスロッシャーソーダ",
+			"nl": "Bruismorser",
+			"ru": "Ведроган «Содовый»"
+		},
+		"type_key": "slosher",
+		"subtype_key": "slosher",
+		"sub_key": "splat_bomb",
+		"special_key": "bomb_launcher_brust",
+		"special_points": 200,
+		"unlocked_rank": 16,
+		"weight": "medium",
+		"cost": 13100,
+		"ink_consumption": 0.07,
+		"run_speed": 0.4,
+		"status": {
+			"range": 58,
+			"damage": 85,
+			"handling": 50
+		},
+		"released_at": "2019-04-03T02:00:00Z"
 	},
 	"hero_slosher": {
 		"key": "hero_slosher",
@@ -3101,6 +3350,38 @@
 		},
 		"released_at": "2017-09-16T02:00:00Z"
 	},
+	"heavy_splatling_remix": {
+		"key": "heavy_splatling_remix",
+		"localization": {
+			"de": "Splatling Ultrabass",
+			"en": "Heavy Splatling Remix",
+			"es-419": "Garabateador Pro festivo",
+			"es-es": "Tintralladora tecno",
+			"fr-ca": "Badigeonneur Disco",
+			"fr-fr": "Badigeonneur Disco",
+			"it": "Splatling a tanica techno",
+			"ja": "バレルスピナーリミックス",
+			"nl": "Spetling Remix",
+			"ru": "Брызгомет XL «Ремикс»"
+		},
+		"type_key": "splatling",
+		"subtype_key": "splatling",
+		"sub_key": "point_sensor",
+		"special_key": "booyah_bomb",
+		"special_points": 180,
+		"unlocked_rank": 19,
+		"cost": 18300,
+		"weight": "medium",
+		"ink_consumption": 0.225,
+		"run_speed": 0.7,
+		"run_speed_in_charge": 0.62,
+		"status": {
+			"range": 78,
+			"charge_speed": 38,
+			"mobility": 50
+		},
+		"released_at": "2019-04-03T02:00:00Z"
+	},
 	"hero_splatling": {
 		"key": "hero_splatling",
 		"localization": {
@@ -3389,6 +3670,37 @@
 			"damage": 47
 		},
 		"released_at": "2018-01-12T02:00:00Z"
+	},
+	"dapple_dualies_clear": {
+		"key": "dapple_dualies_clear",
+		"localization": {
+			"de": "Sprenkler Claro",
+			"en": "Clear Dapple Dualies",
+			"es-419": "Atomizador dual sencillo",
+			"es-es": "Atomizador dual sencillo",
+			"fr-ca": "Double moucheteur dépoli",
+			"fr-fr": "Double moucheteur dépoli",
+			"it": "Ripolpella duplo minimal",
+			"ja": "スパッタリークリア",
+			"nl": "Dubbelspatters Helder",
+			"ru": "Импрессиометы «Белизна»"
+		},
+		"type_key": "dualies",
+		"subtype_key": "dualies",
+		"sub_key": "torpedo",
+		"special_key": "ultra_stamp",
+		"special_points": 170,
+		"unlocked_rank": 29,
+		"cost": 22300,
+		"weight": "light",
+		"ink_consumption": 0.0075,
+		"run_speed": 0.8,
+		"status": {
+			"range": 24,
+			"mobility": 80,
+			"damage": 47
+		},
+		"released_at": "2019-04-03T02:00:00Z"
 	},
 	"splat_dualies": {
 		"key": "splat_dualies",
@@ -3891,6 +4203,38 @@
 			"damage": 85
 		},
 		"released_at": "2018-07-01T00:00:00Z"
+	},
+	"tenta_camo_brella": {
+		"key": "tenta_camo_brella",
+		"localization": {
+			"de": "Camp-Pluviator Camo",
+			"en": "Tenta Camo Brella",
+			"es-419": "Paratintas forestal camuflaje",
+			"es-es": "Paratintas maxi camuflaje",
+			"fr-ca": "Para-encre XL camo",
+			"fr-fr": "Para-encre XL treillis",
+			"it": "Sparatenda mimetico",
+			"ja": "キャンピングシェルターカーモ",
+			"nl": "Kampeerplenzer Camo",
+			"ru": "Зонтент «Спецназ»"
+		},
+		"type_key": "brella",
+		"subtype_key": "brella",
+		"sub_key": "ink_mine",
+		"special_key": "ultra_stamp",
+		"special_points": 190,
+		"unlocked_rank": 30,
+		"cost": 29800,
+		"weight": "heavy",
+		"ink_consumption": 0.1,
+		"run_speed": 0.5,
+		"run_speed_in_charge": 0.4,
+		"status": {
+			"range": 62,
+			"durability": 85,
+			"damage": 85
+		},
+		"released_at": "2019-04-03T00:00:00Z"
 	},
 	"undercover_brella": {
 		"key": "undercover_brella",
