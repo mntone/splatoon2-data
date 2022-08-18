@@ -3879,7 +3879,7 @@
 		"unlocked_rank": 17,
 		"cost": 11800,
 		"weight": "medium",
-		"ink_consumption": 0.015,
+		"ink_consumption": 0.014,
 		"run_speed": 0.6,
 		"status": {
 			"range": 66,
@@ -3910,7 +3910,7 @@
 		"unlocked_rank": 24,
 		"cost": 13700,
 		"weight": "medium",
-		"ink_consumption": 0.015,
+		"ink_consumption": 0.014,
 		"run_speed": 0.6,
 		"status": {
 			"range": 66,
@@ -3941,7 +3941,7 @@
 		"unlocked_rank": 27,
 		"cost": 17000,
 		"weight": "medium",
-		"ink_consumption": 0.015,
+		"ink_consumption": 0.014,
 		"run_speed": 0.6,
 		"status": {
 			"range": 66,
