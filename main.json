@@ -2070,6 +2070,37 @@
 		},
 		"released_at": "2017-11-11T02:00:00Z"
 	},
+	"inkbrush_permanent": {
+		"key": "inkbrush_permanent",
+		"localization": {
+			"de": "Quasto Permanent",
+			"en": "Permanent Inkbrush",
+			"es-419": "Pincel permanente",
+			"es-es": "Pincel perpetuo",
+			"fr-ca": "Épinceau permanent",
+			"fr-fr": "Épinceau permanent",
+			"it": "Calamaravaggio indelebile",
+			"ja": "パーマネント・パブロ",
+			"nl": "Inktkwast Permanent",
+			"ru": "Водостойкая кисть"
+		},
+		"type_key": "roller",
+		"subtype_key": "brush",
+		"sub_key": "sprinkler",
+		"special_key": "ink_armor",
+		"special_points": 180,
+		"unlocked_rank": 12,
+		"cost": 8400,
+		"weight": "light",
+		"ink_consumption": 0.02,
+		"run_speed": 1.92,
+		"status": {
+			"range": 5,
+			"ink_speed": 100,
+			"handling": 100
+		},
+		"released_at": "2019-04-03T02:00:00Z"
+	},
 	"octobrush": {
 		"key": "octobrush",
 		"localization": {
