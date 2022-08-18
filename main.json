@@ -1603,7 +1603,7 @@
 		"cost": 11500,
 		"weight": "medium",
 		"ink_consumption": 0.0108,
-		"ink_consumption_of_first_shot": 0.024,
+		"ink_consumption_of_first_shot": 0.022,
 		"run_speed": 0.72,
 		"status": {
 			"range": 70,
@@ -1635,7 +1635,7 @@
 		"cost": 10900,
 		"weight": "medium",
 		"ink_consumption": 0.0108,
-		"ink_consumption_of_first_shot": 0.024,
+		"ink_consumption_of_first_shot": 0.022,
 		"run_speed": 0.72,
 		"status": {
 			"range": 70,
