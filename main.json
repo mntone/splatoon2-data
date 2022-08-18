@@ -2683,7 +2683,7 @@
 		"unlocked_rank": 18,
 		"cost": 9500,
 		"weight": "light",
-		"ink_consumption": 0.07,
+		"ink_consumption": 0.084,
 		"run_speed": 0.6,
 		"status": {
 			"range": 78,
@@ -2714,7 +2714,7 @@
 		"unlocked_rank": 21,
 		"cost": 10500,
 		"weight": "light",
-		"ink_consumption": 0.07,
+		"ink_consumption": 0.084,
 		"run_speed": 0.6,
 		"status": {
 			"range": 78,
@@ -2745,7 +2745,7 @@
 		"unlocked_rank": 21,
 		"cost": 14400,
 		"weight": "light",
-		"ink_consumption": 0.07,
+		"ink_consumption": 0.084,
 		"run_speed": 0.6,
 		"status": {
 			"range": 78,
@@ -4125,7 +4125,7 @@
 		"subtype_key": "brella",
 		"sub_key": "autobomb",
 		"special_key": "bomb_launcher_splat",
-		"special_points": 180,
+		"special_points": 200,
 		"unlocked_rank": 15,
 		"cost": 12000,
 		"weight": "medium",
